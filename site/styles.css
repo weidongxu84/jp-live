@@ -1,0 +1,76 @@
+:root {
+  --paper: #f3eee2;
+  --ink: #1d2b2f;
+  --muted: #5c6764;
+  --red: #c84a34;
+  --teal: #107c76;
+  --gold: #db9d30;
+  --line: #cfc7b9;
+  --card: #fffdf7;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.5;
+}
+
+.masthead {
+  background: var(--ink);
+  color: #fffdf7;
+  border-bottom: 8px solid var(--red);
+}
+
+.masthead__inner, main, footer { max-width: 1120px; margin: 0 auto; padding-left: 24px; padding-right: 24px; }
+.masthead__inner { padding-top: 50px; padding-bottom: 28px; }
+.eyebrow { margin: 0; color: #f0bd67; font-family: "Trebuchet MS", sans-serif; font-size: .78rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+h1 { margin: 5px 0 4px; font-size: clamp(3rem, 7vw, 5.7rem); font-weight: 400; line-height: .95; }
+.intro { margin: 0; max-width: 40rem; font-size: 1.15rem; }
+
+.month-tabs { display: flex; gap: 18px; margin-top: 32px; font-family: "Trebuchet MS", sans-serif; font-weight: 700; }
+.month-tabs a { color: #fffdf7; text-decoration: none; border-bottom: 2px solid var(--gold); padding-bottom: 3px; }
+.month-tabs a:hover { color: #f0bd67; }
+
+.summary { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--line); margin: 28px 0 42px; border: 1px solid var(--line); }
+.summary div { padding: 14px 16px; background: var(--card); }
+.summary strong, .summary span { display: block; }
+.summary strong { font-size: 1.25rem; }
+.summary span, .data-updated, .site-status { color: var(--muted); font-family: "Trebuchet MS", sans-serif; font-size: .82rem; }
+
+.site-status { margin-bottom: 24px; }
+.site-status:empty { display: none; }
+.month { margin: 0 0 58px; scroll-margin-top: 20px; }
+.month-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; border-bottom: 2px solid var(--ink); margin: 0 0 16px; }
+h2 { margin: 0 0 8px; font-size: 2rem; font-weight: 400; }
+.event-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.event { background: var(--card); border: 1px solid var(--line); border-radius: 4px; padding: 20px; }
+.event__topline { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
+.event__date { color: var(--red); font-family: "Trebuchet MS", sans-serif; font-size: .9rem; font-weight: 700; }
+.status { border-radius: 2px; font-family: "Trebuchet MS", sans-serif; font-size: .7rem; font-weight: 700; letter-spacing: .04em; padding: 3px 6px; text-transform: uppercase; }
+.status--on-sale { background: #d5eee8; color: #07574f; }
+.status--confirmed { background: #f6dfaf; color: #714400; }
+.status--announced { background: #e1e7e9; color: #34464a; }
+.status--sold-out { background: #f3cfca; color: #83291f; }
+h3 { margin: 0; font-size: 1.23rem; line-height: 1.22; }
+.artist { color: var(--teal); font-family: "Trebuchet MS", sans-serif; font-size: .88rem; font-weight: 700; margin: 7px 0 14px; }
+.event p { margin: 8px 0; font-size: .95rem; }
+.event strong { font-family: "Trebuchet MS", sans-serif; font-size: .78rem; letter-spacing: .03em; text-transform: uppercase; }
+.sources { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; margin: 15px 0 0; padding: 0; }
+.sources a, footer a { color: var(--teal); font-family: "Trebuchet MS", sans-serif; font-size: .83rem; font-weight: 700; }
+.sources a { border: 1px solid var(--teal); border-radius: 2px; padding: 3px 7px; text-decoration: none; }
+.sources a:hover { background: var(--teal); color: #fff; }
+
+footer { border-top: 1px solid var(--line); color: var(--muted); font-size: .88rem; padding-top: 24px; padding-bottom: 40px; }
+footer p { max-width: 50rem; }
+
+@media (max-width: 650px) {
+  .masthead__inner { padding-top: 34px; }
+  .event-grid { grid-template-columns: 1fr; }
+  .summary { margin-bottom: 30px; }
+  .summary div { padding: 10px; }
+  .month-heading { align-items: flex-start; flex-direction: column; gap: 0; }
+}
