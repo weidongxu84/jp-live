@@ -14,10 +14,10 @@ function field(block, name) {
 
 function eventsFromMarkdown(markdown) {
   const confirmed = markdown.split("## Confirmed events")[1]?.split("## Watchlist")[0] || "";
-  return [...confirmed.matchAll(/^### \d+\. ([\s\S]*?)(?=^### \d+\.|\s*$)/gm)].map((match) => {
-    const block = match[1];
+  return [...confirmed.matchAll(/(?:^|\n)### \d+\. ([^\n]+)\n([\s\S]*?)(?=\n### \d+\.|\s*$)/g)].map((match) => {
+    const block = match[2];
     return {
-      heading: text(block.split("\n")[0]),
+      heading: text(match[1]),
       artist: field(block, "artist"),
       date: field(block, "date"),
       time: field(block, "time"),
