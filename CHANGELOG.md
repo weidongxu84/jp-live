@@ -3,6 +3,7 @@
 ## Unreleased
 
 - Added a GitHub Pages site for the Hong Kong event calendar.
+- Added an interactive monthly calendar view alongside detailed event listings.
 - The site reads the Markdown event datasets and shows each month’s `Last updated` date.
 - Added GitHub Pages deployment workflow and repository documentation.
 
