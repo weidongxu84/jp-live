@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, August 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-07-25.
+Last updated: 2026-08-01.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **August 2026**.

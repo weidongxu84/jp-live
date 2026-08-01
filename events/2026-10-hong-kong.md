@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, October 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-07-25.
+Last updated: 2026-08-01.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **October 2026**.
@@ -64,25 +64,59 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Performing with a band. Anime credits include Re:ZERO, Summer Pockets,
   No Game No Life, and The Pet Girl of Sakurasou. Organizer: ED Production.
 
-### 4. Atarayo (あたらよ) — ASIA TOUR 2026 "After the Late Summer Shower" in Hong Kong
+### 4. Omoinotake — ONE MAN TOUR 2026 Live in Hong Kong
+- **artist:** Omoinotake
+- **artist_type:** band (J-pop / R&B)
+- **event_title:** Omoinotake ONE MAN TOUR 2026 Live in Hong Kong
+- **date:** 2026-10-09 (Fri)
+- **time:** Doors 19:00 / start 20:00 (HKT)
+- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 (priority entry, VIP pass, signed poster) / GA HK$680 or
+  HK$880. Via Neon Lit ticketing.
+- **source:**
+  - https://www.tickets.neon-lit.com/omoinotakehk2026 (ticketing / promoter)
+  - https://www.instagram.com/p/DW27CnjlIEz/ (official promoter announcement)
+- **status:** on_sale
+- **notes:** First Hong Kong show. Organizer: NEON LIT.
+
+### 5. 茉ひる (Mahiru) — ONE-MAN ASIA TOUR 2026-2027 "Auralisia" in Hong Kong
+- **artist:** Mahiru (茉ひる)
+- **artist_type:** singer
+- **event_title:** Mahiru ONE-MAN ASIA TOUR 2026-2027 "Auralisia" in Hong Kong
+- **date:** 2026-10-10 (Sat)
+- **time:** Start 19:00 (HKT)
+- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Public sale via Ticketflap; see the official ticket page for current
+  tiers and VIP benefits.
+- **source:**
+  - https://www.tides.hk/hk/all-events/mahiru-tickets-ae1684843 (venue)
+  - https://www.ticketflap.com/mahiruhk (ticketing)
+  - https://www.livenation.hk/en/event/mahiru-one-man-asia-tour-2026-2027-auralisia-in-hong-kong-hong-kong-tickets-edp1685053 (promoter)
+- **status:** on_sale
+- **notes:** The official artist and promoter have announced the Hong Kong stop.
+
+### 6. Atarayo (あたらよ) — ASIA TOUR 2026 "After the Late Summer Shower" in Hong Kong
 - **artist:** Atarayo (あたらよ)
 - **artist_type:** band (J-rock / anisong)
 - **event_title:** Atarayo ASIA TOUR 2026「在晚夏驟雨過後」LIVE IN HONG KONG
-- **date:** 2026-10-19 (Mon), 2026-10-20 (Tue), 2026-10-22 (Thu)
+- **date:** 2026-10-19 (Mon), 2026-10-20 (Tue)
 - **time:** Doors 19:00 / start 20:00 (HKT)
 - **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
 - **ticket_info:** VIP HK$980 (priority entry, VIP pass, post-show photo, signed
-  poster) / GA HK$680. Via Ticketflap (member registration required). Added show
-  tickets from 2026-05-22 13:00. Max 2 per transaction; e-ticket. Age 12+, height ≥140 cm.
+  poster) / GA HK$680. Via Neon Lit ticketing. The Oct 19 show is sold out; the
+  Oct 20 added show remains on sale. Age 12+, height >=140 cm.
 - **source:**
   - https://www.tickets.neon-lit.com/atarayo2026hk (ticketing / promoter)
-  - https://timable.com/hk/zh/event/6a0155e964b301ef52108041/ (listing, corroboration)
-- **status:** confirmed
-- **notes:** First HK solo run, three nights (incl. added shows). Known for
+  - https://www.instagram.com/p/DYML0_WEpBW/ (official artist announcement)
+- **status:** on_sale
+- **notes:** First HK solo run, two nights; the Oct 20 added show followed the Oct 19
+  sell-out. Known for
   「10月無口な君を忘れる」. Organizer NEON LIT (business@neon-lit.com).
 
-### 5. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
+### 7. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
 - **artist:** Nami Tamaki (玉置成實)
 - **artist_type:** singer (anisong)
 - **event_title:** 玉置成實 Nami Tamaki LIVE 2026 -STARBOUND TOUR- in Hong Kong
@@ -99,7 +133,23 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Return Hong Kong concert after her 2025 show sold out. Free photography is
   permitted only during a designated segment.
 
-### 6. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
+### 8. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
+- **artist:** Taichi Mukai (向井太一)
+- **artist_type:** singer (R&B singer-songwriter)
+- **event_title:** MUKAI TAICHI 2026「THE 34 TOUR」in Hong Kong
+- **date:** 2026-10-24 (Sat)
+- **time:** Start 18:00 (HKT)
+- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Public sale via KKTIX; see the official ticket page for current
+  ticket tiers and benefits.
+- **source:**
+  - https://www.tides.hk/hk/all-events/%E5%90%91%E4%BA%95%E5%A4%AA%E4%B8%80-tickets-ae1689398 (venue)
+  - https://hopestarent.kktix.cc/events/mukaitaichi-2026 (ticketing)
+- **status:** on_sale
+- **notes:** Hong Kong stop of Mukai's first tour after becoming independent.
+
+### 9. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
 - **artist:** Nakajima Yuki (中島由貴)
 - **artist_type:** voice_actor (声優; Roselia's Imai Lisa in BanG Dream!)
 - **event_title:** 2026 中島由貴香港粉絲見面會 (Nakashima Yuki Fan Meeting in Hong Kong)

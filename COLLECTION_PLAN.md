@@ -1,8 +1,8 @@
-# Collection Plan — Japanese Artist Lives in Hong Kong (Aug 2026)
+# Collection Plan — Japanese Artist Lives in Hong Kong (Aug-Nov 2026)
 
 How we discover, verify, and record live event information from **public sources**.
 Target: Japanese singers, voice actors/actresses (声優), and bands performing in
-**Hong Kong** during **August 2026**.
+**Hong Kong** during **August through November 2026**.
 
 ---
 
@@ -197,7 +197,7 @@ Verified `confirmed` leads graduate into the main dataset per `AGENTS.md`.
 - **Never invent** dates, prices, or venues. If unknown, leave blank and note it.
 - **Prefer primary sources**; downgrade `status` to `announced` when only community
   sources exist and flag the uncertainty in `notes`.
-- **Scope filter:** discard anything not in Hong Kong or outside Aug 2026 (unless
+- **Scope filter:** discard anything not in Hong Kong or outside Aug-Nov 2026 (unless
   scope is explicitly expanded).
 - **Timezone:** all dates/times in **HKT (UTC+8)**.
 - **Keep provenance:** every dataset entry retains at least one source URL.

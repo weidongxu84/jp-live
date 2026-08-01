@@ -2,6 +2,7 @@ const sources = [
   { file: "2026-08-hong-kong.md", id: "august", label: "August 2026" },
   { file: "2026-09-hong-kong.md", id: "september", label: "September 2026" },
   { file: "2026-10-hong-kong.md", id: "october", label: "October 2026" },
+  { file: "2026-11-hong-kong.md", id: "november", label: "November 2026" },
 ];
 
 const text = (value) => value.replace(/\s+/g, " ").trim();

@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, September 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-07-25.
+Last updated: 2026-08-01.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **September 2026**.
@@ -43,7 +43,24 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** One-night NARUTO/Shippuden/Boruto anisong set ("GO!!!", "Sign", "Silhouette",
   "Haruka Kanata", "Hero's Come Back!!"). Members KEIGO, KOHSHI, TAKE, GOT'S, IWASAKI.
 
-### 3. 栗林みな実 (Minami Kuribayashi) — 25th Anniversary Oneman Live in Hong Kong
+### 3. INORAN — Jade & Pearl Far East Island ASIA TOUR 2026
+- **artist:** INORAN
+- **artist_type:** singer (rock musician; LUNA SEA guitarist)
+- **event_title:** INORAN Jade & Pearl Far East Island ASIA TOUR 2026 in Hong Kong
+- **date:** 2026-09-13 (Sun)
+- **time:** Start 19:00 (HKT)
+- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Public sale via Ticketflap; price tiers are listed on the official
+  ticket page.
+- **source:**
+  - https://www.tides.hk/hk/all-events/inoran-tickets-ae1687463 (venue)
+  - https://www.ticketflap.com/inoranhkhsbc (ticketing)
+  - https://www.livenation.hk/en/event/inoran-jade-and-pearl-far-east-island-asia-tour-2026-hong-kong-tickets-edp1687464 (promoter)
+- **status:** on_sale
+- **notes:** INORAN's first Hong Kong solo performance since 2016.
+
+### 4. 栗林みな実 (Minami Kuribayashi) — 25th Anniversary Oneman Live in Hong Kong
 - **artist:** Minami Kuribayashi (栗林みな実)
 - **artist_type:** singer (anisong)
 - **event_title:** Minami Kuribayashi 25th Anniversary Oneman Live in Hong Kong
@@ -60,7 +77,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** First Hong Kong solo concert; organizer ED Production.
 
-### 4. back number — "Grateful Yesterdays Tour 2026" in Hong Kong
+### 5. back number — "Grateful Yesterdays Tour 2026" in Hong Kong
 - **artist:** back number
 - **artist_type:** band (J-pop/rock)
 - **event_title:** back number "Grateful Yesterdays Tour 2026" in Hong Kong
@@ -74,11 +91,29 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://backnumber.info/schedule/detail/400099?lang=en (official)
   - https://www.klook.com/en-US/event-detail/102000928-backnumberhk2026/ (ticketing)
   - https://timable.com/hk/en/event/69b7d9418839fe7359ee1f6d/ (listing, corroboration)
-- **status:** confirmed
-- **notes:** Two-night stand. Age 12+ and height ≥140 cm; under-16 accompanied.
+- **status:** sold_out
+- **notes:** Two-night stand. The official artist schedule now lists the Hong Kong shows as
+  sold out. Age 12+ and height ≥140 cm; under-16 accompanied.
   ID check, one ticket per person. Official sales channel (Klook) only.
 
-### 5. 春奈るな (Haruna Luna) — LIVE TOUR 2026 "Phases of the Moon" in Hong Kong
+### 6. 蒼井翔太 (Shouta Aoi) — LIVE 2026 WONDER lab. LIMITLESS Hong Kong Performance
+- **artist:** Shouta Aoi (蒼井翔太)
+- **artist_type:** voice_actor (声優 / singer)
+- **event_title:** Shouta Aoi LIVE 2026 WONDER lab. LIMITLESS 香港公演
+- **date:** 2026-09-26 (Sat)
+- **time:** Doors 19:00 / start 20:00 (HKT)
+- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Public sale via KKTIX; ticket tiers and availability are on the
+  official ticket page.
+- **source:**
+  - https://www.shouta-aoi-sp.jp/2026limitless/ (official tour page)
+  - https://euphoric.kktix.cc/events/shouta-aoi-hk-2026 (ticketing)
+  - https://www.tides.hk/hk/all-events/%E8%92%BC%E4%BA%95%E7%BF%94%E5%A4%AA-tickets-ae1686311 (venue)
+- **status:** on_sale
+- **notes:** First Hong Kong headline concert. Organizer: EUPHORIC PRODUCTION HK.
+
+### 7. 春奈るな (Haruna Luna) — LIVE TOUR 2026 "Phases of the Moon" in Hong Kong
 - **artist:** Haruna Luna (春奈るな)
 - **artist_type:** singer (anisong)
 - **event_title:** HARUNA LUNA LIVE TOUR 2026 "Phases of the Moon" 香港站
@@ -95,7 +130,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First HK solo show in 10 years. Anisong credits incl. Sword Art Online
   ("overfly"), Fate/Zero. Found via art-mate/bilibili sweep.
 
-### 6. 浜野はるき (Hamano Haruki) — LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
+### 8. 浜野はるき (Hamano Haruki) — LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
 - **artist:** Hamano Haruki (浜野はるき / 浜野春希)
 - **artist_type:** singer
 - **event_title:** HARUKI HAMANO LIVE TOUR 2026 "COVER GIRLS" in Hong Kong

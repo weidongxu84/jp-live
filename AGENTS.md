@@ -9,7 +9,7 @@ tours, one-man lives, fan meetings, appearances) from **Japanese artists** —
 singers, voice actors/actresses (声優), and bands — that take place in a **specific
 city**.
 
-**Current target:** Hong Kong, from **August through October 2026**.
+**Current target:** Hong Kong, from **August through November 2026**.
 
 The goal is to make it easy for fans to discover which Japanese artists are
 performing in the target city during the target period, with accurate and
@@ -19,7 +19,7 @@ well-sourced details.
 
 - **Artists:** Japanese singers, voice actors/actresses (声優), and bands.
 - **City:** Hong Kong (current target; the structure should allow other cities later).
-- **Period:** August through October 2026 (current target; the structure should allow
+- **Period:** August through November 2026 (current target; the structure should allow
   other periods later).
 - **Event types:** concerts, live tours, one-man lives, joint lives/festivals,
   fan meetings, talk/appearance events, and similar.
