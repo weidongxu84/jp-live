@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, September 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-01.
+Last updated: 2026-08-04.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **September 2026**.
@@ -104,8 +104,8 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **time:** Doors 19:00 / start 20:00 (HKT)
 - **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** Public sale via KKTIX; ticket tiers and availability are on the
-  official ticket page.
+- **ticket_info:** VIP HK$980 / GA HK$680, all standing. General sale from
+  2026-07-13 18:00 HKT via KKTIX and Trip.com. Age 12+ and height >=140 cm.
 - **source:**
   - https://www.shouta-aoi-sp.jp/2026limitless/ (official tour page)
   - https://euphoric.kktix.cc/events/shouta-aoi-hk-2026 (ticketing)
@@ -146,6 +146,24 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://www.art-mate.net/doc/97545 (listing, corroboration)
 - **status:** confirmed
 - **notes:** Organizer NEON LIT (business@neon-lit.com). Found via art-mate sweep.
+
+### 9. 宮崎歩 (Ayumi Miyazaki) — Show Me Your Brave Heart Concert
+- **artist:** Ayumi Miyazaki (宮崎歩)
+- **artist_type:** singer (anisong)
+- **event_title:** 宮崎歩 Show Me Your Brave Heart 演唱會
+- **date:** 2026-09-19 (Sat)
+- **time:** General admission 19:00 (HKT)
+- **venue:** Concert Hall, Shimen Heung Yee Kuk Building (石門鄉議局大樓演奏廳),
+  Sha Tin, New Territories
+- **city:** Hong Kong
+- **ticket_info:** SVIP HK$1,180 / VIP HK$880 / A HK$580, all standing. On sale via
+  art-mate. Ages 6+.
+- **source:**
+  - https://www.art-mate.net/doc/98127 (ticketing / organizer listing)
+- **status:** on_sale
+- **notes:** First Hong Kong concert for the singer of Digimon Adventure evolution
+  song "brave heart". Organizers: WAKUWAKU, IRIS PICTURES, and 多祺文化; co-organizer
+  MIACO. Found via art-mate's ACG 2026 feature.
 
 ## Watchlist (needs verification / not yet a confirmed September date)
 

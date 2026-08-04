@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, August 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-01.
+Last updated: 2026-08-04.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **August 2026**.
@@ -39,8 +39,9 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **source:**
   - https://shows.cityline.com/en/2026/xgworldtourhk26.html (ticketing)
   - https://news.livedoor.com/topics/detail/31218987/ (date change Jul 31 → Aug 2)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** Date was moved from July 31 to **August 2, 2026** (announced May 9).
+  Cityline now marks the event completed; no cancellation or postponement notice found.
 
 ### 3. 田井中彩智 (Tainaka Sachi) — 20th Anniversary Live「WALTZ OF SWAN」in Hong Kong
 - **artist:** Tainaka Sachi (田井中彩智)
@@ -57,9 +58,10 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://www.uutix.com/detail?pId=3763 (ticketing)
   - https://timable.com/hk/zh/event/6a0d3bead35ac79e2da2a836/ (listing)
   - https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60354966/ (media, corroboration)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** First HK solo show, live string ensemble. Known for Fate/stay night OP
-  "disillusion", 彩雲國物語 OP, "一番星". Found via art-mate/ACGEvent sweep.
+  "disillusion", 彩雲國物語 OP, "一番星". UUTIX now marks both performances ended;
+  no cancellation or postponement notice found. Found via art-mate/ACGEvent sweep.
 
 ### 4. Key — Key Live 2026 ~Distant Promise~ in Hong Kong
 - **artist:** Key (Key Sounds Label — Lia, 多田葵 (Tada Aoi), Rita, riya; 茶太 (Chata) via

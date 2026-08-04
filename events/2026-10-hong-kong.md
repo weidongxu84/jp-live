@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, October 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-01.
+Last updated: 2026-08-04.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **October 2026**.
@@ -170,6 +170,25 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First HK solo fan meeting (outside Roselia). Halloween-night show. All
   seated, no photo/video/recording. Free shuttle bus to/from Kwai Fong MTR. No refunds
   or resale. Found via art-mate/UUTIX sweep.
+
+### 10. East Of Eden — Live in Hong Kong 2026
+- **artist:** East Of Eden (Ayasa, Minato Akane / 湊あかね, Yuki, MINA, MIZUKI)
+- **artist_type:** band (women's rock / anisong)
+- **event_title:** East Of Eden Live in Hong Kong 2026
+- **date:** 2026-10-25 (Sun)
+- **time:** Start 19:30 (HKT)
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 (priority entry/VIP area, pass, signed A3 poster,
+  post-show send-off) / GA HK$780 (replica-signed A3 poster; a limited number are
+  hand-signed), all standing. +HK$32 handling fee. On sale from 2026-07-30 12:00 HKT
+  via KKTIX; dynamic QR ticket in the KKTIX app.
+- **source:**
+  - https://edproduction.kktix.cc/events/east-of-eden-hk-2026 (ticketing / organizer)
+  - https://www.ed-production.com.hk/ (promoter announcement)
+- **status:** on_sale
+- **notes:** First Hong Kong show for the Japanese five-member rock band led by
+  violinist Ayasa. Age 12+. Organizer: ED Production.
 
 ## Watchlist (needs verification / not yet a confirmed October date)
 
