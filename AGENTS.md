@@ -106,6 +106,10 @@ often framed around the **anime IP** rather than the act (e.g. *Girls Band Cry* 
 トゲナシトゲアリ). Search by hot anime IP too, and record such finds as `announced`
 (ticket info TBA) instead of skipping them.
 
+**Third lesson (learned 2026-08):** newly announced, ticket-TBA shows may appear only
+on a promoter's social feed and not yet on its website or KKTIX organizer page. Poll
+known promoters' official social accounts directly; do not rely on web indexing.
+
 Then verify each against the official/ticketing page:
 - **Artist official sites** (LIVE/SCHEDULE pages, e.g. true-singer.com, novelbright.jp,
   and fictionjunction.com; also monitor official tour accounts such as @YKajiura_staff),

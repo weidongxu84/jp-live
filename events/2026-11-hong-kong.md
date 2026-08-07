@@ -108,6 +108,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **source:**
   - https://fictionjunction.com/live/13125/ (official tour announcement)
   - https://x.com/YKajiura_staff/status/2085305128522072502 (official staff announcement)
+  - https://x.com/edproductionhk/status/2085305024142581844 (official HK promoter announcement)
 - **status:** announced
 - **notes:** Hong Kong stop of the Taipei, Hong Kong, Seoul, and Singapore Asia run.
   Venue, performers, performance time, and ticket details will be announced later.
