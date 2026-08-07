@@ -59,6 +59,8 @@ When adding or editing an event entry, aim to capture the following fields:
   unless explicitly asked to expand scope.
 - **Deduplicate.** Before adding an event, check whether it already exists (same
   artist + date + venue).
+- **Order chronologically.** Keep event entries in each monthly Markdown file sorted
+  by HKT date, then start time; place TBA times after known times on the same date.
 - **Note changes.** When an event is postponed, cancelled, or sells out, update its
   `status` rather than deleting the entry, and keep the source link.
 
@@ -105,7 +107,8 @@ often framed around the **anime IP** rather than the act (e.g. *Girls Band Cry* 
 (ticket info TBA) instead of skipping them.
 
 Then verify each against the official/ticketing page:
-- **Artist official sites** (LIVE/SCHEDULE pages, e.g. true-singer.com, novelbright.jp),
+- **Artist official sites** (LIVE/SCHEDULE pages, e.g. true-singer.com, novelbright.jp,
+  and fictionjunction.com; also monitor official tour accounts such as @YKajiura_staff),
 - **eventernote.com** / **LiveFans** (per-artist Japanese live databases),
 - **Ticketing:** UUTIX (uutix.com), KKTIX organizer subdomains (e.g. `edproduction.kktix.cc`),
   Cityline, Ticketflap, Neon Lit, bilibili 会员购,
