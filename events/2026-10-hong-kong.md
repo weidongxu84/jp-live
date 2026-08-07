@@ -13,19 +13,26 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **artist_type:** band (anisong; real-instrument seiyuu-fronted band)
 - **event_title:** TOGENASHI TOGEARI Live in HONG KONG「凛音之理」
 - **date:** 2026-10-02 (Fri)
-- **time:** Doors 18:30 / start 19:30 (HKT) — *tentative, per listing; awaiting official confirmation*
+- **time:** TBA (Eventernote lists doors 18:30 / start 19:30 HKT, but the ticket
+  announcement does not yet confirm the schedule.)
 - **venue:** AsiaWorld-Summit (亞洲國際博覽館 2號展館 / AsiaWorld-Expo, Hall 2), Chek Lap Kok
 - **city:** Hong Kong
-- **ticket_info:** Price tiers, on-sale date, and platform **not yet announced** (TBA).
-  Organizer warns against unofficial ticket channels.
+- **ticket_info:** VVIP HK$1,588 (Hi-Bye session + mesh tote bag) / VIP HK$1,488
+  (mesh tote bag) / A HK$1,088 / B HK$888 / C HK$688, plus HK$50 service fee
+  per ticket. Public sale starts 2026-08-11 10:00 HKT via Trip.com/Ctrip.
 - **source:**
+  - https://you.ctrip.com/sight/hongkong38/156455664.html (official ticket sale)
+  - https://x.com/EUPD_official/status/2082072563103248876 (official organizer)
+  - https://x.com/girlsbandcry/status/2079385874111074402 (official venue announcement)
   - https://timable.com/hk/zh/event/69e1ed3f585d4a908072d41c/ (listing)
   - https://acgevent.com/archives/19084 (ACG media, venue/date announcement)
   - https://www.eventernote.com/events/475347 (JP live database, corroboration)
-- **status:** announced
+- **status:** confirmed
 - **notes:** First HK solo concert (following their CON-CON HONG KONG 2026 appearance in
-  April). Date + venue confirmed via official X, ACGEvent, timable, eventernote; ticket
-  details pending. Re-check for on-sale info. Found via ACGEvent/timable sweep.
+  April), presented as a Hong Kong Special Edition. The performing lineup is Rina
+  (理名), Yuri (夕莉), and Shuri (朱李); Mirei (美怜) and Natsu (凪都) remain on
+  hiatus and will not perform. Organizers: Amuse Hong Kong, EUPHORIC PRODUCTION HK,
+  Life&Live, and Medialink. Update to `on_sale` when public sales open.
 
 ### 2. Vaundy — ASIA ARENA TOUR 2026 "HORO" in Hong Kong
 - **artist:** Vaundy
