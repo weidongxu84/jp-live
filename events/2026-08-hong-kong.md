@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, August 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-04.
+Last updated: 2026-08-12.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **August 2026**.
@@ -26,24 +26,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Seiyuu fan meeting; on-site CN/EN/JP interpretation. No photo/video/recording;
   autograph on provided board only. Found via ACGEvent/eventernote sweep — missed in first pass.
 
-### 2. XG — "THE CORE" World Tour in Hong Kong
-- **artist:** XG
-- **artist_type:** band (J-pop group)
-- **event_title:** XG WORLD TOUR: THE CORE in Hong Kong
-- **date:** 2026-08-02
-- **time:** 19:00 (HKT)
-- **venue:** Hall 10, AsiaWorld-Expo, 1 Airport Expo Blvd, Chek Lap Kok
-- **city:** Hong Kong
-- **ticket_info:** HK$699 / HK$899 / HK$1,199 / HK$1,399 reserved seats; Xtraordinary
-  Version G HK$1,799 and Version X HK$2,199. Via Cityline (+HK$50 service fee).
-- **source:**
-  - https://shows.cityline.com/en/2026/xgworldtourhk26.html (ticketing)
-  - https://news.livedoor.com/topics/detail/31218987/ (date change Jul 31 → Aug 2)
-- **status:** confirmed
-- **notes:** Date was moved from July 31 to **August 2, 2026** (announced May 9).
-  Cityline now marks the event completed; no cancellation or postponement notice found.
-
-### 3. 田井中彩智 (Tainaka Sachi) — 20th Anniversary Live「WALTZ OF SWAN」in Hong Kong
+### 2. 田井中彩智 (Tainaka Sachi) — 20th Anniversary Live「WALTZ OF SWAN」in Hong Kong
 - **artist:** Tainaka Sachi (田井中彩智)
 - **artist_type:** singer (anisong)
 - **event_title:** 田井中彩智 20th Anniversary Live「WALTZ OF SWAN」香港站
@@ -63,25 +46,41 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   "disillusion", 彩雲國物語 OP, "一番星". UUTIX now marks both performances ended;
   no cancellation or postponement notice found. Found via art-mate/ACGEvent sweep.
 
-### 4. Key — Key Live 2026 ~Distant Promise~ in Hong Kong
-- **artist:** Key (Key Sounds Label — Lia, 多田葵 (Tada Aoi), Rita, riya; 茶太 (Chata) via
-  video; special guest 平塚紗依)
-- **artist_type:** singer (anisong / game music)
-- **event_title:** Key Live 2026 ~Distant Promise~ in Hong Kong
-- **date:** 2026-08-08 (Sat)
-- **venue:** TIDES, Whampoa Garden, Hung Hom, Kowloon
+### 3. XG — "THE CORE" World Tour in Hong Kong
+- **artist:** XG
+- **artist_type:** band (J-pop group)
+- **event_title:** XG WORLD TOUR: THE CORE in Hong Kong
+- **date:** 2026-08-02
+- **time:** 19:00 (HKT)
+- **venue:** Hall 10, AsiaWorld-Expo, 1 Airport Expo Blvd, Chek Lap Kok
 - **city:** Hong Kong
-- **ticket_info:** All on-site tiers (GA / VIP / SVIP) **SOLD OUT** via Ticketflap +
-  bilibili 会员购. Official paid livestream on bilibili at ¥288 RMB (incl. 7-day replay
-  + limited acrylic puzzle & postcard set).
+- **ticket_info:** HK$699 / HK$899 / HK$1,199 / HK$1,399 reserved seats; Xtraordinary
+  Version G HK$1,799 and Version X HK$2,199. Via Cityline (+HK$50 service fee).
 - **source:**
-  - https://www.tides.hk/all-events/key-tickets-ae1565877 (venue / ticketing)
-  - https://timable.com/hk/en/event/69e9b329d4f08d0bd557bed7/ (listing)
-  - https://www.eventernote.com/events/475575 (JP live database, corroboration)
-- **status:** sold_out
-- **notes:** Key Sounds Label anisong/game-music showcase (Kanon, AIR, CLANNAD, Angel
-  Beats!, Little Busters!). Special guest 平塚紗依 (lead seiyuu of Key's new title《anemoi》).
-  Found via ACGEvent/eventernote sweep — missed in first pass.
+  - https://shows.cityline.com/en/2026/xgworldtourhk26.html (ticketing)
+  - https://news.livedoor.com/topics/detail/31218987/ (date change Jul 31 → Aug 2)
+- **status:** confirmed
+- **notes:** Date was moved from July 31 to **August 2, 2026** (announced May 9).
+  Cityline now marks the event completed; no cancellation or postponement notice found.
+
+### 4. TRUE (唐沢美帆) — Live Tour PLAY! vol.3 -乱舞- in Hong Kong
+- **artist:** TRUE (Miho Karasawa / 唐沢美帆)
+- **artist_type:** singer (anisong)
+- **event_title:** TRUE Live Tour PLAY! vol.3 -乱舞- in Hong Kong (ASIA Tour)
+- **date:** 2026-08-08 (Sat)
+- **time:** 19:00 (HKT)
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** GA HK$780 (all standing) / VIP HK$980 (limited 150, incl. autograph
+  session) + HK$32 handling fee. General sale from 2026-06-12 noon via KKTIX (app-only,
+  dynamic QR). Age 12+.
+- **source:**
+  - https://true-singer.com/contents/1078710 (official)
+  - https://edproduction.kktix.cc/events/true-hk-2026 (ticketing, KKTIX)
+  - https://www.ed-production.com.hk/true-live-tour-play-vol3-in-hk (promoter, ED Production)
+- **status:** confirmed
+- **notes:** Contact truehk26@ed-production.com.hk. Tickets electronic via KKTIX app only.
+  Anime credits incl. Violet Evergarden, Sound! Euphonium, TenSura, Gundam IBO.
 
 ### 5. REJAY — Live in Hong Kong (with Anna hisbbuR)
 - **artist:** REJAY
@@ -102,24 +101,25 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   the Japanese act in scope. Standing-only, no coat check. Found via timable/art-mate
   sweep — missed in first pass.
 
-### 6. TRUE (唐沢美帆) — Live Tour PLAY! vol.3 -乱舞- in Hong Kong
-- **artist:** TRUE (Miho Karasawa / 唐沢美帆)
-- **artist_type:** singer (anisong)
-- **event_title:** TRUE Live Tour PLAY! vol.3 -乱舞- in Hong Kong (ASIA Tour)
+### 6. Key — Key Live 2026 ~Distant Promise~ in Hong Kong
+- **artist:** Key (Key Sounds Label — Lia, 多田葵 (Tada Aoi), Rita, riya; 茶太 (Chata) via
+  video; special guest 平塚紗依)
+- **artist_type:** singer (anisong / game music)
+- **event_title:** Key Live 2026 ~Distant Promise~ in Hong Kong
 - **date:** 2026-08-08 (Sat)
-- **time:** 19:00 (HKT)
-- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **venue:** TIDES, Whampoa Garden, Hung Hom, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** GA HK$780 (all standing) / VIP HK$980 (limited 150, incl. autograph
-  session) + HK$32 handling fee. General sale from 2026-06-12 noon via KKTIX (app-only,
-  dynamic QR). Age 12+.
+- **ticket_info:** All on-site tiers (GA / VIP / SVIP) **SOLD OUT** via Ticketflap +
+  bilibili 会员购. Official paid livestream on bilibili at ¥288 RMB (incl. 7-day replay
+  + limited acrylic puzzle & postcard set).
 - **source:**
-  - https://true-singer.com/contents/1078710 (official)
-  - https://edproduction.kktix.cc/events/true-hk-2026 (ticketing, KKTIX)
-  - https://www.ed-production.com.hk/true-live-tour-play-vol3-in-hk (promoter, ED Production)
-- **status:** confirmed
-- **notes:** Contact truehk26@ed-production.com.hk. Tickets electronic via KKTIX app only.
-  Anime credits incl. Violet Evergarden, Sound! Euphonium, TenSura, Gundam IBO.
+  - https://www.tides.hk/all-events/key-tickets-ae1565877 (venue / ticketing)
+  - https://timable.com/hk/en/event/69e9b329d4f08d0bd557bed7/ (listing)
+  - https://www.eventernote.com/events/475575 (JP live database, corroboration)
+- **status:** sold_out
+- **notes:** Key Sounds Label anisong/game-music showcase (Kanon, AIR, CLANNAD, Angel
+  Beats!, Little Busters!). Special guest 平塚紗依 (lead seiyuu of Key's new title《anemoi》).
+  Found via ACGEvent/eventernote sweep — missed in first pass.
 
 ### 7. RAISE A SUILEN — LIVE 2026 "Boot IGNITION" in Hong Kong
 - **artist:** RAISE A SUILEN (BanG Dream! seiyuu band)
@@ -157,24 +157,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First HK solo fan meeting. Strict rules: all seated, no photo/video/recording.
   Prices differ slightly across secondary listings; art-mate treated as authoritative.
 
-### 9. 小日向美香 (Mika Kohinata) — Fan Meeting in Hong Kong
-- **artist:** Mika Kohinata (小日向美香)
-- **artist_type:** voice_actor (声優; MyGO!!!!! bassist / Nagasaki Soyo)
-- **event_title:** Mika Kohinata Fan Meeting in Hong Kong
-- **date:** 2026-08-22 (Sat)
-- **time:** Matinee doors 14:30 / start 15:00; Evening doors 19:00 / start 19:30 (HKT)
-- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
-- **city:** Hong Kong
-- **ticket_info:** VIP HK$980 (limited to 120 per show) / GA HK$680, all reserved seats,
-  via KKTIX (+HK$32 fee). Dynamic-QR ticket in the KKTIX app.
-- **source:**
-  - https://edproduction.kktix.cc/events/mikakohinata-2026-hk (ticketing / organizer)
-  - https://timable.com/gba/cn/event/6a4c8ed94e2906dc070b5b26/%E5%B0%8F%E6%97%A5%E5%90%91%E7%BE%8E%E9%A6%99-Fan-Meeting-in-Hong-Kong-%E7%B2%89%E7%B5%B2%E8%A6%8B%E9%9D%A2%E6%9C%83 (listing, corroboration)
-- **status:** on_sale
-- **notes:** First Hong Kong fan meeting. Organizer: ED Production. Includes interview,
-  Q&A, and game segments; VIP includes a post-show autograph session.
-
-### 10. 小山百代 (Momoyo Koyama) — 2026 Hong Kong Fan Meeting
+### 9. 小山百代 (Momoyo Koyama) — 2026 Hong Kong Fan Meeting
 - **artist:** Momoyo Koyama (小山百代)
 - **artist_type:** voice_actor (声優; Aijou Karen in Revue Starlight)
 - **event_title:** 小山百代 2026 香港粉絲見面會
@@ -190,6 +173,23 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** First Hong Kong fan meeting; two sessions with a send-off and benefits
   session. Organizer: Cosplay Galerie.
+
+### 10. 小日向美香 (Mika Kohinata) — Fan Meeting in Hong Kong
+- **artist:** Mika Kohinata (小日向美香)
+- **artist_type:** voice_actor (声優; MyGO!!!!! bassist / Nagasaki Soyo)
+- **event_title:** Mika Kohinata Fan Meeting in Hong Kong
+- **date:** 2026-08-22 (Sat)
+- **time:** Matinee doors 14:30 / start 15:00; Evening doors 19:00 / start 19:30 (HKT)
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 (limited to 120 per show) / GA HK$680, all reserved seats,
+  via KKTIX (+HK$32 fee). Dynamic-QR ticket in the KKTIX app.
+- **source:**
+  - https://edproduction.kktix.cc/events/mikakohinata-2026-hk (ticketing / organizer)
+  - https://timable.com/gba/cn/event/6a4c8ed94e2906dc070b5b26/%E5%B0%8F%E6%97%A5%E5%90%91%E7%BE%8E%E9%A6%99-Fan-Meeting-in-Hong-Kong-%E7%B2%89%E7%B5%B2%E8%A6%8B%E9%9D%A2%E6%9C%83 (listing, corroboration)
+- **status:** on_sale
+- **notes:** First Hong Kong fan meeting. Organizer: ED Production. Includes interview,
+  Q&A, and game segments; VIP includes a post-show autograph session.
 
 ### 11. Novelbright — ASIA TOUR 2026 ~PYRAMID~ in Hong Kong
 - **artist:** Novelbright

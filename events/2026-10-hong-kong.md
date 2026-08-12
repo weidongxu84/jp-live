@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, October 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-07.
+Last updated: 2026-08-12.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **October 2026**.
@@ -27,12 +27,12 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://timable.com/hk/zh/event/69e1ed3f585d4a908072d41c/ (listing)
   - https://acgevent.com/archives/19084 (ACG media, venue/date announcement)
   - https://www.eventernote.com/events/475347 (JP live database, corroboration)
-- **status:** confirmed
+- **status:** on_sale
 - **notes:** First HK solo concert (following their CON-CON HONG KONG 2026 appearance in
   April), presented as a Hong Kong Special Edition. The performing lineup is Rina
   (理名), Yuri (夕莉), and Shuri (朱李); Mirei (美怜) and Natsu (凪都) remain on
   hiatus and will not perform. Organizers: Amuse Hong Kong, EUPHORIC PRODUCTION HK,
-  Life&Live, and Medialink. Update to `on_sale` when public sales open.
+  Life&Live, and Medialink.
 
 ### 2. Vaundy — ASIA ARENA TOUR 2026 "HORO" in Hong Kong
 - **artist:** Vaundy
@@ -49,11 +49,44 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://www.asiaworld-expo.com/zh-tc/whats-on/upcoming-events/events/vaundy-live-in-hong-kong-2026/ (venue)
   - https://www.ticketflap.com/vaundy (ticketing)
   - https://www.tickethk.com/concert-ticket/1778 (listing, corroboration)
-- **status:** confirmed
+- **status:** on_sale
 - **notes:** First HK headline show. Promoters NEON LIT / Clockenflap. Bag checks +
   wristbands at entry.
 
-### 3. 鈴木このみ (Konomi Suzuki) — Asia Tour 2026 in Hong Kong
+### 3. Omoinotake — ONE MAN TOUR 2026 Live in Hong Kong
+- **artist:** Omoinotake
+- **artist_type:** band (J-pop / R&B)
+- **event_title:** Omoinotake ONE MAN TOUR 2026 Live in Hong Kong
+- **date:** 2026-10-09 (Fri)
+- **time:** Doors 19:00 / start 20:00 (HKT)
+- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 (priority entry, VIP pass, signed poster) / GA HK$680 or
+  HK$880. Via Neon Lit ticketing.
+- **source:**
+  - https://www.tickets.neon-lit.com/omoinotakehk2026 (ticketing / promoter)
+  - https://www.instagram.com/p/DW27CnjlIEz/ (official promoter announcement)
+- **status:** on_sale
+- **notes:** First Hong Kong show. Organizer: NEON LIT.
+
+### 4. 茉ひる (Mahiru) — ONE-MAN ASIA TOUR 2026-2027 "Auralisia" in Hong Kong
+- **artist:** Mahiru (茉ひる)
+- **artist_type:** singer
+- **event_title:** Mahiru ONE-MAN ASIA TOUR 2026-2027 "Auralisia" in Hong Kong
+- **date:** 2026-10-10 (Sat)
+- **time:** Start 19:00 (HKT)
+- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Public sale via Ticketflap; see the official ticket page for current
+  tiers and VIP benefits.
+- **source:**
+  - https://www.tides.hk/hk/all-events/mahiru-tickets-ae1684843 (venue)
+  - https://www.ticketflap.com/mahiruhk (ticketing)
+  - https://www.livenation.hk/en/event/mahiru-one-man-asia-tour-2026-2027-auralisia-in-hong-kong-hong-kong-tickets-edp1685053 (promoter)
+- **status:** on_sale
+- **notes:** The official artist and promoter have announced the Hong Kong stop.
+
+### 5. 鈴木このみ (Konomi Suzuki) — Asia Tour 2026 in Hong Kong
 - **artist:** Konomi Suzuki (鈴木このみ)
 - **artist_type:** singer (anisong)
 - **event_title:** Konomi Suzuki Asia Tour 2026 in Hong Kong
@@ -70,39 +103,6 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Performing with a band. Anime credits include Re:ZERO, Summer Pockets,
   No Game No Life, and The Pet Girl of Sakurasou. Organizer: ED Production.
-
-### 4. Omoinotake — ONE MAN TOUR 2026 Live in Hong Kong
-- **artist:** Omoinotake
-- **artist_type:** band (J-pop / R&B)
-- **event_title:** Omoinotake ONE MAN TOUR 2026 Live in Hong Kong
-- **date:** 2026-10-09 (Fri)
-- **time:** Doors 19:00 / start 20:00 (HKT)
-- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
-- **city:** Hong Kong
-- **ticket_info:** VIP HK$980 (priority entry, VIP pass, signed poster) / GA HK$680 or
-  HK$880. Via Neon Lit ticketing.
-- **source:**
-  - https://www.tickets.neon-lit.com/omoinotakehk2026 (ticketing / promoter)
-  - https://www.instagram.com/p/DW27CnjlIEz/ (official promoter announcement)
-- **status:** on_sale
-- **notes:** First Hong Kong show. Organizer: NEON LIT.
-
-### 5. 茉ひる (Mahiru) — ONE-MAN ASIA TOUR 2026-2027 "Auralisia" in Hong Kong
-- **artist:** Mahiru (茉ひる)
-- **artist_type:** singer
-- **event_title:** Mahiru ONE-MAN ASIA TOUR 2026-2027 "Auralisia" in Hong Kong
-- **date:** 2026-10-10 (Sat)
-- **time:** Start 19:00 (HKT)
-- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
-- **city:** Hong Kong
-- **ticket_info:** Public sale via Ticketflap; see the official ticket page for current
-  tiers and VIP benefits.
-- **source:**
-  - https://www.tides.hk/hk/all-events/mahiru-tickets-ae1684843 (venue)
-  - https://www.ticketflap.com/mahiruhk (ticketing)
-  - https://www.livenation.hk/en/event/mahiru-one-man-asia-tour-2026-2027-auralisia-in-hong-kong-hong-kong-tickets-edp1685053 (promoter)
-- **status:** on_sale
-- **notes:** The official artist and promoter have announced the Hong Kong stop.
 
 ### 6. Atarayo (あたらよ) — ASIA TOUR 2026 "After the Late Summer Shower" in Hong Kong
 - **artist:** Atarayo (あたらよ)
@@ -123,7 +123,23 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   sell-out. Known for
   「10月無口な君を忘れる」. Organizer NEON LIT (business@neon-lit.com).
 
-### 7. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
+### 7. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
+- **artist:** Taichi Mukai (向井太一)
+- **artist_type:** singer (R&B singer-songwriter)
+- **event_title:** MUKAI TAICHI 2026「THE 34 TOUR」in Hong Kong
+- **date:** 2026-10-24 (Sat)
+- **time:** Start 18:00 (HKT)
+- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Public sale via KKTIX; see the official ticket page for current
+  ticket tiers and benefits.
+- **source:**
+  - https://www.tides.hk/hk/all-events/%E5%90%91%E4%BA%95%E5%A4%AA%E4%B8%80-tickets-ae1689398 (venue)
+  - https://hopestarent.kktix.cc/events/mukaitaichi-2026 (ticketing)
+- **status:** on_sale
+- **notes:** Hong Kong stop of Mukai's first tour after becoming independent.
+
+### 8. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
 - **artist:** Nami Tamaki (玉置成實)
 - **artist_type:** singer (anisong)
 - **event_title:** 玉置成實 Nami Tamaki LIVE 2026 -STARBOUND TOUR- in Hong Kong
@@ -140,23 +156,26 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Return Hong Kong concert after her 2025 show sold out. Free photography is
   permitted only during a designated segment.
 
-### 8. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
-- **artist:** Taichi Mukai (向井太一)
-- **artist_type:** singer (R&B singer-songwriter)
-- **event_title:** MUKAI TAICHI 2026「THE 34 TOUR」in Hong Kong
-- **date:** 2026-10-24 (Sat)
-- **time:** Start 18:00 (HKT)
-- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+### 9. East Of Eden — Live in Hong Kong 2026
+- **artist:** East Of Eden (Ayasa, Minato Akane / 湊あかね, Yuki, MINA, MIZUKI)
+- **artist_type:** band (women's rock / anisong)
+- **event_title:** East Of Eden Live in Hong Kong 2026
+- **date:** 2026-10-25 (Sun)
+- **time:** Start 19:30 (HKT)
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** Public sale via KKTIX; see the official ticket page for current
-  ticket tiers and benefits.
+- **ticket_info:** VIP HK$980 (priority entry/VIP area, pass, signed A3 poster,
+  post-show send-off) / GA HK$780 (replica-signed A3 poster; a limited number are
+  hand-signed), all standing. +HK$32 handling fee. On sale from 2026-07-30 12:00 HKT
+  via KKTIX; dynamic QR ticket in the KKTIX app.
 - **source:**
-  - https://www.tides.hk/hk/all-events/%E5%90%91%E4%BA%95%E5%A4%AA%E4%B8%80-tickets-ae1689398 (venue)
-  - https://hopestarent.kktix.cc/events/mukaitaichi-2026 (ticketing)
+  - https://edproduction.kktix.cc/events/east-of-eden-hk-2026 (ticketing / organizer)
+  - https://www.ed-production.com.hk/ (promoter announcement)
 - **status:** on_sale
-- **notes:** Hong Kong stop of Mukai's first tour after becoming independent.
+- **notes:** First Hong Kong show for the Japanese five-member rock band led by
+  violinist Ayasa. Age 12+. Organizer: ED Production.
 
-### 9. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
+### 10. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
 - **artist:** Nakajima Yuki (中島由貴)
 - **artist_type:** voice_actor (声優; Roselia's Imai Lisa in BanG Dream!)
 - **event_title:** 2026 中島由貴香港粉絲見面會 (Nakashima Yuki Fan Meeting in Hong Kong)
@@ -177,25 +196,6 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First HK solo fan meeting (outside Roselia). Halloween-night show. All
   seated, no photo/video/recording. Free shuttle bus to/from Kwai Fong MTR. No refunds
   or resale. Found via art-mate/UUTIX sweep.
-
-### 10. East Of Eden — Live in Hong Kong 2026
-- **artist:** East Of Eden (Ayasa, Minato Akane / 湊あかね, Yuki, MINA, MIZUKI)
-- **artist_type:** band (women's rock / anisong)
-- **event_title:** East Of Eden Live in Hong Kong 2026
-- **date:** 2026-10-25 (Sun)
-- **time:** Start 19:30 (HKT)
-- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
-- **city:** Hong Kong
-- **ticket_info:** VIP HK$980 (priority entry/VIP area, pass, signed A3 poster,
-  post-show send-off) / GA HK$780 (replica-signed A3 poster; a limited number are
-  hand-signed), all standing. +HK$32 handling fee. On sale from 2026-07-30 12:00 HKT
-  via KKTIX; dynamic QR ticket in the KKTIX app.
-- **source:**
-  - https://edproduction.kktix.cc/events/east-of-eden-hk-2026 (ticketing / organizer)
-  - https://www.ed-production.com.hk/ (promoter announcement)
-- **status:** on_sale
-- **notes:** First Hong Kong show for the Japanese five-member rock band led by
-  violinist Ayasa. Age 12+. Organizer: ED Production.
 
 ## Watchlist (needs verification / not yet a confirmed October date)
 

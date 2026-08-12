@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, November 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-07.
+Last updated: 2026-08-12.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **November 2026**.
@@ -137,15 +137,16 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **time:** Doors 17:30 / start 18:00 (HKT)
 - **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** HK$999 / HK$899 restricted-view, all reserved seating. General sale
-  opens 2026-08-07 18:00 HKT via UUTIX and bilibili.
+- **ticket_info:** HK$999 / HK$899 restricted-view, all reserved seating. Public sale
+  began 2026-08-07 18:00 HKT via UUTIX and bilibili. All tickets include a post-show
+  handshake and a hand-delivered signed postcard.
 - **source:**
   - https://www.leo-ieirimobile.com/news/detail/100777 (official ticket announcement)
   - https://www.uutix.com/detail?pId=3849 (ticketing)
   - https://show.bilibili.com/platform/detail.html?id=1004242 (ticketing)
-- **status:** confirmed
-- **notes:** Ieiri's first Hong Kong concert. The HK$999 fan-club allocation included
-  a hand-delivered signed postcard and handshake; public-ticket benefits may differ.
+- **status:** on_sale
+- **notes:** Ieiri's first Hong Kong concert. A designated photography segment is
+  permitted; recording is prohibited.
 
 ## Watchlist
 

@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, September 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-04.
+Last updated: 2026-08-12.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **September 2026**.
@@ -26,41 +26,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Anisong veteran (Shakugan no Shana "Hishoku no Sora", Hayate the Combat
   Butler, Kannazuki no Miko). Found via art-mate/timable sweep.
 
-### 2. FLOW — WORLD TOUR 2026 "NARUTO THE ROCK" in Hong Kong
-- **artist:** FLOW
-- **artist_type:** band (anisong rock)
-- **event_title:** FLOW NARUTO THE ROCK WORLD TOUR 2025-2026 in Hong Kong
-- **date:** 2026-09-11 (Fri)
-- **time:** Doors 19:00 / start 20:00 (HKT)
-- **venue:** TIDES, Whampoa Garden (Site 6, 1/F & MEZZ/F), Hung Hom, Kowloon
-- **city:** Hong Kong
-- **ticket_info:** VIP HK$980 (priority entry, meet & greet, Hi-5, group photo, signed
-  poster) / GA HK$680 (standing). On sale from 2026-06-12 11:00 HKT via Ticketflap.
-- **source:**
-  - https://www.tides.hk/hk/all-events/flow-tickets-ae1490169 (venue / ticketing)
-  - https://gowheretoday.com/en/events/2353/flow-world-tour-2026-naruto-the-rock-hong-kong (listing)
-- **status:** on_sale
-- **notes:** One-night NARUTO/Shippuden/Boruto anisong set ("GO!!!", "Sign", "Silhouette",
-  "Haruka Kanata", "Hero's Come Back!!"). Members KEIGO, KOHSHI, TAKE, GOT'S, IWASAKI.
-
-### 3. INORAN — Jade & Pearl Far East Island ASIA TOUR 2026
-- **artist:** INORAN
-- **artist_type:** singer (rock musician; LUNA SEA guitarist)
-- **event_title:** INORAN Jade & Pearl Far East Island ASIA TOUR 2026 in Hong Kong
-- **date:** 2026-09-13 (Sun)
-- **time:** Start 19:00 (HKT)
-- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
-- **city:** Hong Kong
-- **ticket_info:** Public sale via Ticketflap; price tiers are listed on the official
-  ticket page.
-- **source:**
-  - https://www.tides.hk/hk/all-events/inoran-tickets-ae1687463 (venue)
-  - https://www.ticketflap.com/inoranhkhsbc (ticketing)
-  - https://www.livenation.hk/en/event/inoran-jade-and-pearl-far-east-island-asia-tour-2026-hong-kong-tickets-edp1687464 (promoter)
-- **status:** on_sale
-- **notes:** INORAN's first Hong Kong solo performance since 2016.
-
-### 4. 栗林みな実 (Minami Kuribayashi) — 25th Anniversary Oneman Live in Hong Kong
+### 2. 栗林みな実 (Minami Kuribayashi) — 25th Anniversary Oneman Live in Hong Kong
 - **artist:** Minami Kuribayashi (栗林みな実)
 - **artist_type:** singer (anisong)
 - **event_title:** Minami Kuribayashi 25th Anniversary Oneman Live in Hong Kong
@@ -77,7 +43,77 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** First Hong Kong solo concert; organizer ED Production.
 
-### 5. back number — "Grateful Yesterdays Tour 2026" in Hong Kong
+### 3. FLOW — WORLD TOUR 2026 "NARUTO THE ROCK" in Hong Kong
+- **artist:** FLOW
+- **artist_type:** band (anisong rock)
+- **event_title:** FLOW NARUTO THE ROCK WORLD TOUR 2025-2026 in Hong Kong
+- **date:** 2026-09-11 (Fri)
+- **time:** Doors 19:00 / start 20:00 (HKT)
+- **venue:** TIDES, Whampoa Garden (Site 6, 1/F & MEZZ/F), Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 (priority entry, meet & greet, Hi-5, group photo, signed
+  poster) / GA HK$680 (standing). On sale from 2026-06-12 11:00 HKT via Ticketflap.
+- **source:**
+  - https://www.tides.hk/hk/all-events/flow-tickets-ae1490169 (venue / ticketing)
+  - https://gowheretoday.com/en/events/2353/flow-world-tour-2026-naruto-the-rock-hong-kong (listing)
+- **status:** on_sale
+- **notes:** One-night NARUTO/Shippuden/Boruto anisong set ("GO!!!", "Sign", "Silhouette",
+  "Haruka Kanata", "Hero's Come Back!!"). Members KEIGO, KOHSHI, TAKE, GOT'S, IWASAKI.
+
+### 4. 坂倉花 (Hana Sakakura) — 2026 Hong Kong Fan Meeting
+- **artist:** Hana Sakakura (坂倉花)
+- **artist_type:** voice_actor (声優 / singer)
+- **event_title:** 坂倉花 2026香港粉絲見面會
+- **date:** 2026-09-13 (Sun)
+- **time:** Matinee doors 12:30 / start 13:00; Evening doors 17:30 / start 18:00 (HKT)
+- **venue:** Regala Ballroom II, Regala Skycity Hotel, Chek Lap Kok
+- **city:** Hong Kong
+- **ticket_info:** S HK$1,080 / A HK$780 / regular HK$480, all reserved seating;
+  taxes and handling fees excluded. Maximum 2 tickets per transaction. On sale via
+  art-mate.
+- **source:**
+  - https://www.art-mate.net/doc/99093 (ticketing / organizer listing)
+- **status:** on_sale
+- **notes:** Two sessions. Photography, video, and audio recording are prohibited.
+  Organizer: Flashing Light (閃景燈火); co-organizers: Takumi Production and
+  Cosplay Galerie. Found via art-mate's newly on-sale listings.
+
+### 5. INORAN — Jade & Pearl Far East Island ASIA TOUR 2026
+- **artist:** INORAN
+- **artist_type:** singer (rock musician; LUNA SEA guitarist)
+- **event_title:** INORAN Jade & Pearl Far East Island ASIA TOUR 2026 in Hong Kong
+- **date:** 2026-09-13 (Sun)
+- **time:** Start 19:00 (HKT)
+- **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Public sale via Ticketflap; price tiers are listed on the official
+  ticket page.
+- **source:**
+  - https://www.tides.hk/hk/all-events/inoran-tickets-ae1687463 (venue)
+  - https://www.ticketflap.com/inoranhkhsbc (ticketing)
+  - https://www.livenation.hk/en/event/inoran-jade-and-pearl-far-east-island-asia-tour-2026-hong-kong-tickets-edp1687464 (promoter)
+- **status:** on_sale
+- **notes:** INORAN's first Hong Kong solo performance since 2016.
+
+### 6. 宮崎歩 (Ayumi Miyazaki) — Show Me Your Brave Heart Concert
+- **artist:** Ayumi Miyazaki (宮崎歩)
+- **artist_type:** singer (anisong)
+- **event_title:** 宮崎歩 Show Me Your Brave Heart 演唱會
+- **date:** 2026-09-19 (Sat)
+- **time:** General admission 19:00 (HKT)
+- **venue:** Concert Hall, Shimen Heung Yee Kuk Building (石門鄉議局大樓演奏廳),
+  Sha Tin, New Territories
+- **city:** Hong Kong
+- **ticket_info:** SVIP HK$1,180 / VIP HK$880 / A HK$580, all standing. On sale via
+  art-mate. Ages 6+.
+- **source:**
+  - https://www.art-mate.net/doc/98127 (ticketing / organizer listing)
+- **status:** on_sale
+- **notes:** First Hong Kong concert for the singer of Digimon Adventure evolution
+  song "brave heart". Organizers: WAKUWAKU, IRIS PICTURES, and 多祺文化; co-organizer
+  MIACO. Found via art-mate's ACG 2026 feature.
+
+### 7. back number — "Grateful Yesterdays Tour 2026" in Hong Kong
 - **artist:** back number
 - **artist_type:** band (J-pop/rock)
 - **event_title:** back number "Grateful Yesterdays Tour 2026" in Hong Kong
@@ -96,7 +132,24 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   sold out. Age 12+ and height ≥140 cm; under-16 accompanied.
   ID check, one ticket per person. Official sales channel (Klook) only.
 
-### 6. 蒼井翔太 (Shouta Aoi) — LIVE 2026 WONDER lab. LIMITLESS Hong Kong Performance
+### 8. 春奈るな (Haruna Luna) — LIVE TOUR 2026 "Phases of the Moon" in Hong Kong
+- **artist:** Haruna Luna (春奈るな)
+- **artist_type:** singer (anisong)
+- **event_title:** HARUNA LUNA LIVE TOUR 2026 "Phases of the Moon" 香港站
+- **date:** 2026-09-26 (Sat)
+- **time:** Doors 18:30 / start 19:30 (HKT)
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** SVIP HK$999 (1:1 photo + hand-signed postcard) / VIP HK$799
+  (send-off event + hand-signed postcard). On sale from 2026-06-17 via UUTIX + bilibili.
+- **source:**
+  - https://ugo-hk.com/concert/16638/ (listing / ticketing details)
+  - https://highwaystar.co.jp/news/202606235950/ (official / agency)
+- **status:** on_sale
+- **notes:** First HK solo show in 10 years. Anisong credits incl. Sword Art Online
+  ("overfly"), Fate/Zero. Found via art-mate/bilibili sweep.
+
+### 9. 蒼井翔太 (Shouta Aoi) — LIVE 2026 WONDER lab. LIMITLESS Hong Kong Performance
 - **artist:** Shouta Aoi (蒼井翔太)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Shouta Aoi LIVE 2026 WONDER lab. LIMITLESS 香港公演
@@ -113,24 +166,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** First Hong Kong headline concert. Organizer: EUPHORIC PRODUCTION HK.
 
-### 7. 春奈るな (Haruna Luna) — LIVE TOUR 2026 "Phases of the Moon" in Hong Kong
-- **artist:** Haruna Luna (春奈るな)
-- **artist_type:** singer (anisong)
-- **event_title:** HARUNA LUNA LIVE TOUR 2026 "Phases of the Moon" 香港站
-- **date:** 2026-09-26 (Sat)
-- **time:** Doors 18:30 / start 19:30 (HKT)
-- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
-- **city:** Hong Kong
-- **ticket_info:** SVIP HK$999 (1:1 photo + hand-signed postcard) / VIP HK$799
-  (send-off event + hand-signed postcard). On sale from 2026-06-17 via UUTIX + bilibili.
-- **source:**
-  - https://ugo-hk.com/concert/16638/ (listing / ticketing details)
-  - https://highwaystar.co.jp/news/202606235950/ (official / agency)
-- **status:** confirmed
-- **notes:** First HK solo show in 10 years. Anisong credits incl. Sword Art Online
-  ("overfly"), Fate/Zero. Found via art-mate/bilibili sweep.
-
-### 8. 浜野はるき (Hamano Haruki) — LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
+### 10. 浜野はるき (Hamano Haruki) — LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
 - **artist:** Hamano Haruki (浜野はるき / 浜野春希)
 - **artist_type:** singer
 - **event_title:** HARUKI HAMANO LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
@@ -144,26 +180,8 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **source:**
   - https://www.tickets.neon-lit.com/hamanoharuki (ticketing / promoter)
   - https://www.art-mate.net/doc/97545 (listing, corroboration)
-- **status:** confirmed
-- **notes:** Organizer NEON LIT (business@neon-lit.com). Found via art-mate sweep.
-
-### 9. 宮崎歩 (Ayumi Miyazaki) — Show Me Your Brave Heart Concert
-- **artist:** Ayumi Miyazaki (宮崎歩)
-- **artist_type:** singer (anisong)
-- **event_title:** 宮崎歩 Show Me Your Brave Heart 演唱會
-- **date:** 2026-09-19 (Sat)
-- **time:** General admission 19:00 (HKT)
-- **venue:** Concert Hall, Shimen Heung Yee Kuk Building (石門鄉議局大樓演奏廳),
-  Sha Tin, New Territories
-- **city:** Hong Kong
-- **ticket_info:** SVIP HK$1,180 / VIP HK$880 / A HK$580, all standing. On sale via
-  art-mate. Ages 6+.
-- **source:**
-  - https://www.art-mate.net/doc/98127 (ticketing / organizer listing)
 - **status:** on_sale
-- **notes:** First Hong Kong concert for the singer of Digimon Adventure evolution
-  song "brave heart". Organizers: WAKUWAKU, IRIS PICTURES, and 多祺文化; co-organizer
-  MIACO. Found via art-mate's ACG 2026 feature.
+- **notes:** Organizer NEON LIT (business@neon-lit.com). Found via art-mate sweep.
 
 ## Watchlist (needs verification / not yet a confirmed September date)
 
