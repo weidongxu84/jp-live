@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, October 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-12.
+Last updated: 2026-08-16.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **October 2026**.
@@ -108,20 +108,21 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **artist:** Atarayo (あたらよ)
 - **artist_type:** band (J-rock / anisong)
 - **event_title:** Atarayo ASIA TOUR 2026「在晚夏驟雨過後」LIVE IN HONG KONG
-- **date:** 2026-10-19 (Mon), 2026-10-20 (Tue)
+- **date:** 2026-10-19 (Mon), 2026-10-20 (Tue), 2026-10-22 (Thu)
 - **time:** Doors 19:00 / start 20:00 (HKT)
 - **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
 - **ticket_info:** VIP HK$980 (priority entry, VIP pass, post-show photo, signed
-  poster) / GA HK$680. Via Neon Lit ticketing. The Oct 19 show is sold out; the
-  Oct 20 added show remains on sale. Age 12+, height >=140 cm.
+  poster) / GA HK$680. Via Neon Lit ticketing. All three shows are sold out. Age
+  12+, height >=140 cm.
 - **source:**
   - https://www.tickets.neon-lit.com/atarayo2026hk (ticketing / promoter)
+  - https://atarayo-jp.com/contents/1077914 (official artist tour page)
   - https://www.instagram.com/p/DYML0_WEpBW/ (official artist announcement)
-- **status:** on_sale
-- **notes:** First HK solo run, two nights; the Oct 20 added show followed the Oct 19
-  sell-out. Known for
-  「10月無口な君を忘れる」. Organizer NEON LIT (business@neon-lit.com).
+- **status:** sold_out
+- **notes:** First HK solo run. The Oct 20 and Oct 22 added shows followed the original
+  Oct 19 sell-out. Known for 「10月無口な君を忘れる」. Organizer NEON LIT
+  (business@neon-lit.com).
 
 ### 7. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
 - **artist:** Taichi Mukai (向井太一)

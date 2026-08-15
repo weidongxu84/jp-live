@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, November 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-12.
+Last updated: 2026-08-16.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **November 2026**.
@@ -78,7 +78,30 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Hong Kong stop of the band's Japan/Australia/Hong Kong tour. The touring
   lineup is Jiro Yanase, Riki Hidaka, Umi Ogimi, Tsukasa Shirase, and Romantic.
 
-### 5. 渋谷すばる (Subaru Shibutani) — 30th Anniversary Asia Tour 2026 in Hong Kong
+### 5. 三川華月 (Haruna Mikawa) — Fan Meeting in Hong Kong 2026
+- **artist:** Haruna Mikawa (三川華月)
+- **artist_type:** voice_actor (声優)
+- **event_title:** 三川華月香港粉絲見面會2026
+- **date:** 2026-11-08 (Sun)
+- **time:** Matinee doors 12:00 / start 12:30; Evening doors 17:30 / start 18:00 (HKT)
+- **venue:** MICHELLE Purple, Eaton HK, 380 Nathan Road, Jordan, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$880 (hand-delivered personalized signed shikishi) / regular
+  HK$580 (post-show send-off) / add-on instant-photo ticket HK$300. Public sale began
+  2026-07-31 12:00 HKT via UUTIX; photo tickets require admission to the same session
+  and are limited to three per attendee per session.
+- **source:**
+  - https://www.uutix.com/detail?pId=3846 (ticketing)
+  - https://x.com/VividPulse_HK/status/2082315177240707377 (official organizer)
+  - https://www.art-mate.net/doc/99178 (listing, corroboration)
+  - https://timable.com/hk/zh/event/6a69ab333dfaa92fdf1650b4/ (listing, corroboration)
+- **status:** on_sale
+- **notes:** First overseas solo fan meeting for the voice actor of Hana Suzuki in
+  *The Idolmaster Shiny Colors* and Satsuki Amamiya in *mono*. Two sessions, with
+  interviews, games, autograph activities, photos, and a send-off. Organizers:
+  Vivid Pulse (喜樂現場) and Happy Entertainment (開心娛樂).
+
+### 6. 渋谷すばる (Subaru Shibutani) — 30th Anniversary Asia Tour 2026 in Hong Kong
 - **artist:** Subaru Shibutani (渋谷すばる)
 - **artist_type:** singer
 - **event_title:** Subaru Shibutani 30th Anniversary Asia Tour 2026 in Hong Kong
@@ -96,7 +119,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Passport-name details are required for ticketing and entry verification.
 
-### 6. 梶浦由記 (Yuki Kajiura) — LIVE vol.#22 in Hong Kong
+### 7. 梶浦由記 (Yuki Kajiura) — LIVE vol.#22 in Hong Kong
 - **artist:** Yuki Kajiura (梶浦由記)
 - **artist_type:** band (composer/pianist-led vocal and instrumental ensemble)
 - **event_title:** Yuki Kajiura LIVE vol.#22 ～precious pieces～ SPECIAL SETLIST in Asia
@@ -113,7 +136,26 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Hong Kong stop of the Taipei, Hong Kong, Seoul, and Singapore Asia run.
   Venue, performers, performance time, and ticket details will be announced later.
 
-### 7. 優里 (Yuuri) — LIVE 2026 IN HONG KONG
+### 8. 大熊和奏 (Wakana Ookuma) / Spileben — LIVE in Hong Kong
+- **artist:** Spileben (Wakana Ookuma / 大熊和奏)
+- **artist_type:** voice_actor (声優 / singer)
+- **event_title:** Spileben LIVE in Hong Kong
+- **date:** 2026-11-21 (Sat)
+- **time:** Doors 16:00 / start 17:00 (HKT)
+- **venue:** Y Theatre, Youth Square, 238 Chai Wan Road, Chai Wan, Hong Kong Island
+- **city:** Hong Kong
+- **ticket_info:** Ticket prices, on-sale date, platform, and post-show benefits not
+  yet announced.
+- **source:**
+  - https://www.instagram.com/p/DbyMdyuCVaX/ (official local promoter announcement)
+  - https://www.instagram.com/520stars_network/p/Db8wZSovaG8/ (listing, corroboration)
+  - https://www.facebook.com/acgeventdotcom/posts/1505206431622163/ (ACG media, corroboration)
+- **status:** announced
+- **notes:** First overseas solo live for Ookuma's music project Spileben. Ookuma
+  voices Shiki Wakana in *Love Live! Superstar!!* and performs as part of AiScReam.
+  Organizer: MIACO PLUS. Ticket and benefit details will be announced later.
+
+### 9. 優里 (Yuuri) — LIVE 2026 IN HONG KONG
 - **artist:** Yuuri (優里)
 - **artist_type:** singer
 - **event_title:** YUURI LIVE 2026 IN HONG KONG
@@ -129,7 +171,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Promoted by APPLEWOOD / MOONRAKER.
 
-### 8. 家入レオ (Leo Ieiri) — Live in Hong Kong 2026
+### 10. 家入レオ (Leo Ieiri) — Live in Hong Kong 2026
 - **artist:** Leo Ieiri (家入レオ / 家入莉奧)
 - **artist_type:** singer
 - **event_title:** LEO IEIRI Live in Hong Kong 2026
