@@ -1,38 +1,41 @@
 # Japanese Artist Lives — Hong Kong, October 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-16.
+Last updated: 2026-08-17.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **October 2026**.
 
 ## Confirmed events
 
-### 1. トゲナシトゲアリ (TOGENASHI TOGEARI) — Live in Hong Kong「凛音之理」
+### 1. トゲナシトゲアリ (TOGENASHI TOGEARI) — Live in Hong Kong「凛音の理」
 - **artist:** TOGENASHI TOGEARI (トゲナシトゲアリ; from the anime *Girls Band Cry* / ガールズバンドクライ)
 - **artist_type:** band (anisong; real-instrument seiyuu-fronted band)
-- **event_title:** TOGENASHI TOGEARI Live in HONG KONG「凛音之理」
+- **event_title:** TOGENASHI TOGEARI Live in HONG KONG「凛音の理」Special Edition
 - **date:** 2026-10-02 (Fri)
-- **time:** TBA (Eventernote lists doors 18:30 / start 19:30 HKT, but the ticket
-  announcement does not yet confirm the schedule.)
+- **time:** Doors 17:30 / start 19:00 (HKT)
 - **venue:** AsiaWorld-Summit (亞洲國際博覽館 2號展館 / AsiaWorld-Expo, Hall 2), Chek Lap Kok
 - **city:** Hong Kong
 - **ticket_info:** VVIP HK$1,588 (Hi-Bye session + mesh tote bag) / VIP HK$1,488
   (mesh tote bag) / A HK$1,088 / B HK$888 / C HK$688, plus HK$50 service fee
-  per ticket. Public sale starts 2026-08-11 10:00 HKT via Trip.com/Ctrip.
+  per ticket. Public sale began 2026-08-11 10:00 HKT via Cityline and Trip.com/Ctrip;
+  all tickets are sold out. All seated; ages 3+.
 - **source:**
+  - https://shows.cityline.com/tc/2026/gostogenashi2026.html (official ticketing)
+  - https://girls-band-cry.com/news/post-488.html (official event announcement)
   - https://you.ctrip.com/sight/hongkong38/156455664.html (official ticket sale)
   - https://x.com/EUPD_official/status/2082072563103248876 (official organizer)
   - https://x.com/girlsbandcry/status/2079385874111074402 (official venue announcement)
   - https://timable.com/hk/zh/event/69e1ed3f585d4a908072d41c/ (listing)
   - https://acgevent.com/archives/19084 (ACG media, venue/date announcement)
   - https://www.eventernote.com/events/475347 (JP live database, corroboration)
-- **status:** on_sale
+- **status:** sold_out
 - **notes:** First HK solo concert (following their CON-CON HONG KONG 2026 appearance in
-  April), presented as a Hong Kong Special Edition. The performing lineup is Rina
-  (理名), Yuri (夕莉), and Shuri (朱李); Mirei (美怜) and Natsu (凪都) remain on
-  hiatus and will not perform. Organizers: Amuse Hong Kong, EUPHORIC PRODUCTION HK,
-  Life&Live, and Medialink.
+  April), presented as a Hong Kong Special Edition. A Sep 30 "Special Edition+" show
+  was added after this date sold out; the two dates will have partly different
+  performance content. The performing lineup is Rina (理名), Yuri (夕莉), and Shuri
+  (朱李); Mirei (美怜) and Natsu (凪都) remain on hiatus and will not perform.
+  Organizers: Amuse Hong Kong, EUPHORIC PRODUCTION HK, Life&Live, and Medialink.
 
 ### 2. Vaundy — ASIA ARENA TOUR 2026 "HORO" in Hong Kong
 - **artist:** Vaundy

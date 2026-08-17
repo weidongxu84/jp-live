@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, November 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-16.
+Last updated: 2026-08-17.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **November 2026**.
@@ -189,6 +189,26 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Ieiri's first Hong Kong concert. A designated photography segment is
   permitted; recording is prohibited.
+
+### 11. Joji — SOLARIS Tour in Hong Kong
+- **artist:** Joji (George Kusunoki Miller / ジョージ・楠木・ミラー)
+- **artist_type:** singer (Japanese-Australian singer-songwriter / producer)
+- **event_title:** JOJI: SOLARIS
+- **date:** 2026-11-29 (Sun)
+- **time:** Start 20:00 (HKT); doors TBA
+- **venue:** Runway 11 (Hall 11), AsiaWorld-Expo, 1 Airport Expo Boulevard,
+  Chek Lap Kok
+- **city:** Hong Kong
+- **ticket_info:** General admission from HK$699 / VIP packages from HK$1,999, all
+  standing. Public sale began 2026-04-30 12:00 HKT via Cityline. Standing area is
+  limited to ages 12+ and height >=140 cm.
+- **source:**
+  - https://www.livenation.hk/event/joji-solaris-hong-kong-tickets-edp1668663 (official promoter)
+  - https://shows.cityline.com/tc/2026/jojisolarisgoshk.html (official ticketing)
+  - https://www.art-mate.net/doc/95195 (listing, corroboration)
+- **status:** on_sale
+- **notes:** Joji's first Hong Kong headline concert, supporting the album
+  *Piss in the Wind*. Promoter: Live Nation Hong Kong.
 
 ## Watchlist
 
