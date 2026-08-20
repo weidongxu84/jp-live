@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, September 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-17.
+Last updated: 2026-08-20.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **September 2026**.
@@ -193,11 +193,11 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **city:** Hong Kong
 - **ticket_info:** VVIP HK$1,588 (Hi-Bye session + mesh tote bag) / VIP HK$1,488
   (mesh tote bag) / A HK$1,088 / B HK$888 / C HK$688, plus HK$50 service fee
-  per ticket. Public sale starts 2026-08-20 10:00 HKT via Cityline. All seated;
+  per ticket. Public sale began 2026-08-20 10:00 HKT via Cityline. All seated;
   ages 3+.
 - **source:**
   - https://shows.cityline.com/tc/2026/gostogenashi2026.html (official ticketing)
-- **status:** confirmed
+- **status:** on_sale
 - **notes:** Added show following the sold-out Oct 2 performance. The two dates will
   have partly different performance content. The performing lineup is Rina (理名),
   Yuri (夕莉), and Shuri (朱李); Mirei (美怜) and Natsu (凪都) remain on hiatus
