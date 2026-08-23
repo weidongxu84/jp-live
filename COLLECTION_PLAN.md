@@ -1,8 +1,8 @@
-# Collection Plan — Japanese Artist Lives in Hong Kong (Aug-Nov 2026)
+# Collection Plan — Japanese Artist Lives in Hong Kong (Aug-Dec 2026)
 
 How we discover, verify, and record live event information from **public sources**.
 Target: Japanese singers, voice actors/actresses (声優), and bands performing in
-**Hong Kong** during **August through November 2026**.
+**Hong Kong** during **August through December 2026**.
 
 ---
 
@@ -140,7 +140,7 @@ table (Section 4) as a staging area.
 
 ### Step 3 — Verify
 Promote a lead only when confirmed by an **official** or **ticketing** source.
-Check: correct artist, correct city (Hong Kong), date within Aug 2026, real venue,
+Check: correct artist, correct city (Hong Kong), date within Aug-Dec 2026, real venue,
 and that it isn't an old/cancelled announcement. Keep the confirming URL.
 
 ### Step 4 — Normalize
@@ -197,7 +197,7 @@ Verified `confirmed` leads graduate into the main dataset per `AGENTS.md`.
 - **Never invent** dates, prices, or venues. If unknown, leave blank and note it.
 - **Prefer primary sources**; downgrade `status` to `announced` when only community
   sources exist and flag the uncertainty in `notes`.
-- **Scope filter:** discard anything not in Hong Kong or outside Aug-Nov 2026 (unless
+- **Scope filter:** discard anything not in Hong Kong or outside Aug-Dec 2026 (unless
   scope is explicitly expanded).
 - **Timezone:** all dates/times in **HKT (UTC+8)**.
 - **Keep provenance:** every dataset entry retains at least one source URL.

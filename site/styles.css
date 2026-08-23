@@ -88,6 +88,7 @@ footer p { max-width: 50rem; }
 
 @media (max-width: 650px) {
   .masthead__inner { padding-top: 34px; }
+  .month-tabs { flex-wrap: wrap; row-gap: 12px; }
   .event-grid { grid-template-columns: 1fr; }
   .summary { margin-bottom: 30px; }
   .summary div { padding: 10px; }
