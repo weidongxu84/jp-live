@@ -276,7 +276,26 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong performance for the Japanese drummer, singer, and voice
   actor, appearing with a full band. Organizer: NEON LIT.
 
-### 16. 優里 (Yuuri) — LIVE 2026 IN HONG KONG
+### 16. Cö shu Nie — Live in Hong Kong "SATURATED IN MONOCHROME"
+- **artist:** Cö shu Nie
+- **artist_type:** band (experimental alternative rock / anisong)
+- **event_title:** Cö shu Nie Live in Hong Kong ~SATURATED IN MONOCHROME~
+- **date:** 2026-11-25 (Wed)
+- **time:** Start 20:00 (HKT); doors TBA
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 / GA HK$680, all standing, plus HK$32 handling fee.
+  Public sale began 2026-08-27 12:00 HKT via KKTIX. VIP includes priority entry and
+  viewing area, a commemorative pass, a signed postcard, and a post-show postcard
+  handover.
+- **source:**
+  - https://edproduction.kktix.cc/events/coshunie-2026-hk (ticketing / organizer)
+  - https://www.ed-production.com.hk/co-shu-nie-live-in-hk (official promoter)
+- **status:** on_sale
+- **notes:** First Hong Kong headline show and part of the band's first Asia tour.
+  Ages 12+; dynamic-QR electronic tickets. Organizer: ED Production.
+
+### 17. 優里 (Yuuri) — LIVE 2026 IN HONG KONG
 - **artist:** Yuuri (優里)
 - **artist_type:** singer
 - **event_title:** YUURI LIVE 2026 IN HONG KONG
@@ -292,7 +311,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Promoted by APPLEWOOD / MOONRAKER.
 
-### 17. 反田葉月 (Tanda Hazuki) — Fan Meeting in Hong Kong
+### 18. 反田葉月 (Tanda Hazuki) — Fan Meeting in Hong Kong
 - **artist:** Tanda Hazuki (反田葉月)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** 反田葉月香港粉絲見面會
@@ -307,7 +326,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Separate from the 2026-08-16 Hong Kong fan meeting.
 
-### 18. 家入レオ (Leo Ieiri) — Live in Hong Kong 2026
+### 19. 家入レオ (Leo Ieiri) — Live in Hong Kong 2026
 - **artist:** Leo Ieiri (家入レオ / 家入莉奧)
 - **artist_type:** singer
 - **event_title:** LEO IEIRI Live in Hong Kong 2026
@@ -326,7 +345,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Ieiri's first Hong Kong concert. A designated photography segment is
   permitted; recording is prohibited.
 
-### 19. Joji — SOLARIS Tour in Hong Kong
+### 20. Joji — SOLARIS Tour in Hong Kong
 - **artist:** Joji (George Kusunoki Miller / ジョージ・楠木・ミラー)
 - **artist_type:** singer (Japanese-Australian singer-songwriter / producer)
 - **event_title:** JOJI: SOLARIS

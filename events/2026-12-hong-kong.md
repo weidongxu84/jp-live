@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, December 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-23.
+Last updated: 2026-08-27.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **December 2026**.
