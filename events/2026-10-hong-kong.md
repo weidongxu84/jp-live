@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, October 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-23.
+Last updated: 2026-08-27.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **October 2026**.
@@ -107,7 +107,22 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Performing with a band. Anime credits include Re:ZERO, Summer Pockets,
   No Game No Life, and The Pet Girl of Sakurasou. Organizer: ED Production.
 
-### 6. Atarayo (あたらよ) — ASIA TOUR 2026 "After the Late Summer Shower" in Hong Kong
+### 6. Fear, and Loathing in Las Vegas — One Man Show in Hong Kong
+- **artist:** Fear, and Loathing in Las Vegas
+- **artist_type:** band (electronicore / rock)
+- **event_title:** Fear, and Loathing in Las Vegas ONE MAN SHOW in Hong Kong
+- **date:** 2026-10-17 (Sat)
+- **time:** Doors 18:00 / start 19:00 (HKT)
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$999 (post-show hi-five with all members and printed-signature
+  postcard) / GA HK$799 (commemorative postcard), standing, plus HK$12 UUTIX fee.
+- **source:** https://www.uutix.com/detail?pId=3802 (ticketing)
+- **status:** on_sale
+- **notes:** First Hong Kong solo show. Dynamic-QR electronic tickets; ages 12+ and
+  height >=140 cm. Photography, video, and audio recording are prohibited.
+
+### 7. Atarayo (あたらよ) — ASIA TOUR 2026 "After the Late Summer Shower" in Hong Kong
 - **artist:** Atarayo (あたらよ)
 - **artist_type:** band (J-rock / anisong)
 - **event_title:** Atarayo ASIA TOUR 2026「在晚夏驟雨過後」LIVE IN HONG KONG
@@ -127,7 +142,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   Oct 19 sell-out. Known for 「10月無口な君を忘れる」. Organizer NEON LIT
   (business@neon-lit.com).
 
-### 7. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
+### 8. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
 - **artist:** Taichi Mukai (向井太一)
 - **artist_type:** singer (R&B singer-songwriter)
 - **event_title:** MUKAI TAICHI 2026「THE 34 TOUR」in Hong Kong
@@ -143,7 +158,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Hong Kong stop of Mukai's first tour after becoming independent.
 
-### 8. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
+### 9. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
 - **artist:** Nami Tamaki (玉置成實)
 - **artist_type:** singer (anisong)
 - **event_title:** 玉置成實 Nami Tamaki LIVE 2026 -STARBOUND TOUR- in Hong Kong
@@ -160,7 +175,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Return Hong Kong concert after her 2025 show sold out. Free photography is
   permitted only during a designated segment.
 
-### 9. East Of Eden — Live in Hong Kong 2026
+### 10. East Of Eden — Live in Hong Kong 2026
 - **artist:** East Of Eden (Ayasa, Minato Akane / 湊あかね, Yuki, MINA, MIZUKI)
 - **artist_type:** band (women's rock / anisong)
 - **event_title:** East Of Eden Live in Hong Kong 2026
@@ -179,7 +194,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong show for the Japanese five-member rock band led by
   violinist Ayasa. Age 12+. Organizer: ED Production.
 
-### 10. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
+### 11. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
 - **artist:** Nakajima Yuki (中島由貴)
 - **artist_type:** voice_actor (声優; Roselia's Imai Lisa in BanG Dream!)
 - **event_title:** 2026 中島由貴香港粉絲見面會 (Nakashima Yuki Fan Meeting in Hong Kong)

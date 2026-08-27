@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, August 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-12.
+Last updated: 2026-08-27.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **August 2026**.
@@ -208,7 +208,22 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Two nights (added 26th). Found via art-mate/timable sweep.
 
-### 12. Chilli Beans. — Tour 2026-2027 Live in Hong Kong
+### 12. 法元明菜 (Akina Homoto) — Hong Kong Fan Meeting 2026
+- **artist:** Akina Homoto (法元明菜)
+- **artist_type:** voice_actor (声優 / singer)
+- **event_title:** Homoto Akina HongKong Fanmeeting 2026 ～HO-MIN Holiday～
+- **date:** 2026-08-29 (Sat)
+- **time:** Session 1 start 14:00; Session 2 start 18:00 (HKT); doors TBA
+- **venue:** P'Artiste, 38 Nelson Street, Mong Kok, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** HK$990 / HK$500, plus HK$12 UUTIX fee. Public sale began
+  2026-07-18 at 18:00 for Session 1 and 18:10 for Session 2.
+- **source:** https://www.uutix.com/detail?pId=3828 (ticketing)
+- **status:** on_sale
+- **notes:** Real-name electronic ticketing; maximum two tickets per account and
+  transaction.
+
+### 13. Chilli Beans. — Tour 2026-2027 Live in Hong Kong
 - **artist:** Chilli Beans.
 - **artist_type:** band (indie rock trio — Moto, Maika, Lily)
 - **event_title:** Chilli Beans. Tour 2026-2027 Live in Hong Kong
