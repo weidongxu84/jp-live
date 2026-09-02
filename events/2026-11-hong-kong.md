@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, November 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-27.
+Last updated: 2026-09-02.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **November 2026**.
@@ -18,9 +18,9 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **city:** Hong Kong
 - **ticket_info:** HK$999 reserved seating, plus HK$12 UUTIX fee. Includes a 1:1
   phone photo and a hand-delivered signed postcard. Evening sold out; added matinee
-  public sale begins 2026-08-28 18:00 HKT via UUTIX.
+  public sale began 2026-08-28 18:00 HKT via UUTIX.
 - **source:** https://www.uutix.com/detail?pId=3883 (ticketing)
-- **status:** confirmed
+- **status:** on_sale
 - **notes:** Iwata's first Hong Kong fan meeting. Roles include Mahiru Tsuyuzaki in
   *Revue Starlight* and Towa Hanamaki in *D4DJ*; she is also a member of harmoe.
   Cantonese and Mandarin interpretation will be provided.
@@ -200,9 +200,10 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   a card handover, and an acrylic keychain; VIP includes a send-off and keychain.
 - **source:**
   - https://aimi.info/live-event/schedule/17897 (official artist schedule)
+  - https://euphoric.kktix.cc/events/aimi-star-rising-2026-hk (ticketing)
   - https://aimi.info/news/18230 (official ticket announcement)
   - https://timable.com/hk/en/event/6a84240297024b799a25ac8a/ (listing, corroboration)
-- **status:** confirmed
+- **status:** on_sale
 - **notes:** Aimi's first Hong Kong solo concert, supporting the EP *AIM STAR*.
   Voice roles include Kasumi Toyama in *BanG Dream!*.
 
@@ -267,12 +268,13 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **venue:** PORTAL, 1/F & 2/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
 - **ticket_info:** VIP HK$980 (priority entry, signed poster, VIP pass) / GA HK$680.
-  Public sale begins 2026-08-28 11:00 HKT via Neon Lit ticketing.
+  Public sale began 2026-08-28 11:00 HKT via Neon Lit ticketing.
 - **source:**
   - https://akaneyonezawa.com/news/30209 (official artist announcement)
+  - https://www.tickets.neon-lit.com/akaneyonezawa-blackpasta (official ticketing)
   - https://timable.com/hk/zh/event/6a8510d11e2442085c94a2d3/ (ticketing / promoter listing)
   - https://www.instagram.com/p/DcLPdKaFG4P/ (official promoter announcement)
-- **status:** confirmed
+- **status:** on_sale
 - **notes:** First Hong Kong performance for the Japanese drummer, singer, and voice
   actor, appearing with a full band. Organizer: NEON LIT.
 

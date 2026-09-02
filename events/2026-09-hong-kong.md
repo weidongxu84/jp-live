@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, September 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-08-27.
+Last updated: 2026-09-02.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **September 2026**.
@@ -166,7 +166,27 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   song "brave heart". Organizers: WAKUWAKU, IRIS PICTURES, and 多祺文化; co-organizer
   MIACO. Found via art-mate's ACG 2026 feature.
 
-### 10. back number — "Grateful Yesterdays Tour 2026" in Hong Kong
+### 10. te’ — 20th Anniversary Tour Live in Hong Kong
+- **artist:** te’
+- **artist_type:** band (instrumental post-rock)
+- **event_title:** te’ 20th Anniversary Tour Live in Hong Kong
+- **date:** 2026-09-21 (Mon)
+- **time:** Start 20:00 (HKT); doors TBA
+- **venue:** Chamame Livehouse, Unit A, 1/F, Bolton Technology Centre, 368 Kwun
+  Tong Road, Ngau Tau Kok, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** GA HK$580 via Neon Lit / Ticketflap. Public sale began
+  2026-04-27 13:00 HKT.
+- **source:**
+  - https://www.tickets.neon-lit.com/te2026hk (official ticketing)
+  - https://www.art-mate.net/doc/96683 (listing, corroboration)
+  - https://timable.com/hk/zh/event/69e6e281717a05976eadd515 (listing, corroboration)
+- **status:** on_sale
+- **notes:** Hong Kong stop of the Japanese instrumental band's 20th anniversary
+  tour. Performing lineup: kono, matsuda, tachibana, and support guitarist Ojima.
+  Organizer: NEON LIT.
+
+### 11. back number — "Grateful Yesterdays Tour 2026" in Hong Kong
 - **artist:** back number
 - **artist_type:** band (J-pop/rock)
 - **event_title:** back number "Grateful Yesterdays Tour 2026" in Hong Kong
@@ -185,7 +205,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   sold out. Age 12+ and height ≥140 cm; under-16 accompanied.
   ID check, one ticket per person. Official sales channel (Klook) only.
 
-### 11. 春奈るな (Haruna Luna) — LIVE TOUR 2026 "Phases of the Moon" in Hong Kong
+### 12. 春奈るな (Haruna Luna) — LIVE TOUR 2026 "Phases of the Moon" in Hong Kong
 - **artist:** Haruna Luna (春奈るな)
 - **artist_type:** singer (anisong)
 - **event_title:** HARUNA LUNA LIVE TOUR 2026 "Phases of the Moon" 香港站
@@ -202,7 +222,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First HK solo show in 10 years. Anisong credits incl. Sword Art Online
   ("overfly"), Fate/Zero. Found via art-mate/bilibili sweep.
 
-### 12. 蒼井翔太 (Shouta Aoi) — LIVE 2026 WONDER lab. LIMITLESS Hong Kong Performance
+### 13. 蒼井翔太 (Shouta Aoi) — LIVE 2026 WONDER lab. LIMITLESS Hong Kong Performance
 - **artist:** Shouta Aoi (蒼井翔太)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Shouta Aoi LIVE 2026 WONDER lab. LIMITLESS 香港公演
@@ -219,7 +239,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** First Hong Kong headline concert. Organizer: EUPHORIC PRODUCTION HK.
 
-### 13. 浜野はるき (Hamano Haruki) — LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
+### 14. 浜野はるき (Hamano Haruki) — LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
 - **artist:** Hamano Haruki (浜野はるき / 浜野春希)
 - **artist_type:** singer
 - **event_title:** HARUKI HAMANO LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
@@ -236,7 +256,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Organizer NEON LIT (business@neon-lit.com). Found via art-mate sweep.
 
-### 14. トゲナシトゲアリ (TOGENASHI TOGEARI) — Live in Hong Kong「凛音の理」Special Edition+
+### 15. トゲナシトゲアリ (TOGENASHI TOGEARI) — Live in Hong Kong「凛音の理」Special Edition+
 - **artist:** TOGENASHI TOGEARI (トゲナシトゲアリ; from the anime *Girls Band Cry* / ガールズバンドクライ)
 - **artist_type:** band (anisong; real-instrument seiyuu-fronted band)
 - **event_title:** TOGENASHI TOGEARI Live in HONG KONG「凛音の理」Special Edition+
