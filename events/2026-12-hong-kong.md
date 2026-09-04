@@ -1,14 +1,33 @@
 # Japanese Artist Lives — Hong Kong, December 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-09-02.
+Last updated: 2026-09-04.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **December 2026**.
 
 ## Confirmed events
 
-### 1. kurayamisaka — "kurayamisaka tte, doko? #9" Tour in Hong Kong
+### 1. She Her Her Hers — Special Live in Hong Kong 2026
+- **artist:** She Her Her Hers
+- **artist_type:** band (dream pop / shoegaze / electronic)
+- **event_title:** She Her Her Hers Special Live in Hong Kong 2026 "明日將至" —
+  Miles for Tomorrow's Sun —
+- **date:** 2026-12-20 (Sun)
+- **time:** VIP doors 18:00 / GA doors 18:30 / start 19:00 (HKT)
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 (priority entry, post-show group photo, personalized
+  signed poster, and exclusive merchandise handover) / GA HK$580, all standing.
+  Public sale began 2026-08-31 17:00 HKT via Ticketflap.
+- **source:**
+  - https://www.ticketflap.com/zh-hant/shhh (official ticketing)
+  - https://ugo-hk.com/concert/19103/ (listing, corroboration)
+- **status:** on_sale
+- **notes:** One-night special concert themed around keyboardist Tomasong's "Miles
+  for Tomorrow's Sun" project. Attendees under 16 must be accompanied by an adult.
+
+### 2. kurayamisaka — "kurayamisaka tte, doko? #9" Tour in Hong Kong
 - **artist:** kurayamisaka
 - **artist_type:** band (alternative rock / shoegaze)
 - **event_title:** kurayamisaka tte, doko? #9 Tour to Greet the End of Summer – Hong Kong
