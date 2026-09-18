@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, November 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-09-12.
+Last updated: 2026-09-18.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **November 2026**.
@@ -82,16 +82,19 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **artist_type:** band (alternative music unit; dream pop / shoegaze)
 - **event_title:** iVy Asia Tour 2026 in Hong Kong
 - **date:** 2026-11-07 (Sat)
-- **time:** TBA
-- **venue:** TBA, Hong Kong
+- **time:** Start 20:00 / scheduled end 22:00 (HKT); doors TBA
+- **venue:** MOM Livehouse, Unit B39, 7 Seas Shopping Centre, 117-121 King's Road,
+  North Point, Hong Kong Island
 - **city:** Hong Kong
-- **ticket_info:** Price tiers, on-sale date, and platform not yet announced.
+- **ticket_info:** Advance HK$480 / door HK$580. Public sale began 2026-08-18
+  12:00 HKT via TickCats.
 - **source:**
   - https://avyss-magazine.com/2026/07/09/73099/ (Japanese music media / tour announcement)
   - https://timable.com/hk/zh/event/6a54567196e447c944b67790/Ivy%E4%BA%9E%E6%B4%B2%E5%B7%A1%E8%BF%B4%E6%BC%94%E5%94%B1%E6%9C%83-2026 (listing, corroboration)
-- **status:** announced
-- **notes:** First Asia tour for the Japanese alternative unit. A post-show workshop
-  with Hong Kong artist haru is planned; venue and participant details are pending.
+- **status:** on_sale
+- **notes:** First Asia tour for the Japanese alternative unit, appearing with Hong
+  Kong shoegaze band Lucid Express. A post-show workshop with Hong Kong artist haru
+  is also planned.
 
 ### 6. 三川華月 (Haruna Mikawa) — Fan Meeting in Hong Kong 2026
 - **artist:** Haruna Mikawa (三川華月)
@@ -250,33 +253,20 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **venue:** MacPherson Stadium, 38 Nelson Street, Mong Kok, Kowloon
 - **city:** Hong Kong
 - **ticket_info:** VIP HK$1,580 / HK$1,380 / HK$1,180, all reserved seating, via
-  KKTIX. Public sale begins 2026-09-17 12:00 HKT. VIP priority applications ran
+  KKTIX. Public sale began 2026-09-17 12:00 HKT. VIP priority applications ran
   2026-09-08 through 2026-09-10 and include a front-floor seat and signed pass.
 - **source:**
   - https://fictionjunction.com/live/13125/ (official tour announcement)
+  - https://edproduction.kktix.cc/events/yuki-kajiura-hk-2026 (ticketing)
   - https://www.ed-production.com.hk/yuki-kajiura-live-vol22-in-hk (official promoter / ticket details)
   - https://x.com/YKajiura_staff/status/2085305128522072502 (official staff announcement)
   - https://x.com/edproductionhk/status/2085305024142581844 (official HK promoter announcement)
-- **status:** confirmed
+- **status:** on_sale
 - **notes:** Hong Kong stop of the Taipei, Hong Kong, Seoul, and Singapore Asia run.
   Performers include vocalists KAORI, YURIKO KAIDA, Joelle, LINO LEIA, and EMIKO,
   with the Front Band Members. Real-name ticketing and ID checks apply.
 
-### 15. しゅーず (Shoose) — Live in Hong Kong 2026 “Signal”
-- **artist:** Shoose (しゅーず)
-- **artist_type:** singer (utaite)
-- **event_title:** Shoose Live in Hong Kong 2026 “Signal”
-- **date:** 2026-11-15 (Sun)
-- **time:** TBA
-- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
-- **city:** Hong Kong
-- **ticket_info:** VIP HK$980 (priority entry, instant photo, signed postcard) /
-  A HK$680. On-sale date and ticketing platform TBA.
-- **source:** https://www.threads.com/@acgeventdotcom/post/DclK3GeEppN/ (ACGEvent announcement)
-- **status:** announced
-- **notes:** Ticketing and performance times have not yet been announced.
-
-### 16. 佐々木李子 (Rico Sasaki) — Hong Kong Fan Meeting 2026
+### 15. 佐々木李子 (Rico Sasaki) — Hong Kong Fan Meeting 2026
 - **artist:** Rico Sasaki (佐々木李子)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Sasaki Rico Hong Kong Fanmeeting 2026 ～香港・李好～
@@ -291,7 +281,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Real-name ticketing; the attendee name must match the purchaser's
   registration. Organizer contact: hello@pineapplestudio.top.
 
-### 17. 大熊和奏 (Wakana Ookuma) / Spileben — LIVE in Hong Kong
+### 16. 大熊和奏 (Wakana Ookuma) / Spileben — LIVE in Hong Kong
 - **artist:** Spileben (Wakana Ookuma / 大熊和奏)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Spileben LIVE in Hong Kong
@@ -311,7 +301,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   voices Shiki Wakana in *Love Live! Superstar!!* and performs as part of AiScReam.
   Organizer: MIACO PLUS. Ticket and benefit details will be announced later.
 
-### 18. 吉森信 (Makoto Yoshimori) Trio — Live in Hong Kong 2026
+### 17. 吉森信 (Makoto Yoshimori) Trio — Live in Hong Kong 2026
 - **artist:** Makoto Yoshimori (吉森信), Shinya Fukumori (福盛進也), and
   Koichiro Muroya (室屋光一郎)
 - **artist_type:** band (composer-led piano trio)
@@ -327,7 +317,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   composer and pianist Yoshimori, known for *Natsume's Book of Friends*, *Durarara!!*,
   and *Baccano!*, with drummer Fukumori and violinist Muroya.
 
-### 19. 米澤茜 (Akane Yonezawa) — "Black Pasta" TOUR in Hong Kong
+### 18. 米澤茜 (Akane Yonezawa) — "Black Pasta" TOUR in Hong Kong
 - **artist:** Akane Yonezawa (米澤茜)
 - **artist_type:** singer (drummer / voice_actor)
 - **event_title:** AKANE YONEZAWA "Black Pasta" TOUR in Hong Kong
@@ -346,7 +336,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong performance for the Japanese drummer, singer, and voice
   actor, appearing with a full band. Organizer: NEON LIT.
 
-### 20. BLU-SWING — “Across the Blue” World Tour 2026 in Hong Kong
+### 19. BLU-SWING — “Across the Blue” World Tour 2026 in Hong Kong
 - **artist:** BLU-SWING
 - **artist_type:** band (urban jazz / city pop)
 - **event_title:** BLU-SWING “Across the Blue” World Tour 2026 Live in Hong Kong
@@ -362,7 +352,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong headline show for the five-member Japanese urban-jazz
   band. Organizer: NEON LIT.
 
-### 21. Cö shu Nie — Live in Hong Kong "SATURATED IN MONOCHROME"
+### 20. Cö shu Nie — Live in Hong Kong "SATURATED IN MONOCHROME"
 - **artist:** Cö shu Nie
 - **artist_type:** band (experimental alternative rock / anisong)
 - **event_title:** Cö shu Nie Live in Hong Kong ~SATURATED IN MONOCHROME~
@@ -381,7 +371,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong headline show and part of the band's first Asia tour.
   Ages 12+; dynamic-QR electronic tickets. Organizer: ED Production.
 
-### 22. 優里 (Yuuri) — LIVE 2026 IN HONG KONG
+### 21. 優里 (Yuuri) — LIVE 2026 IN HONG KONG
 - **artist:** Yuuri (優里)
 - **artist_type:** singer
 - **event_title:** YUURI LIVE 2026 IN HONG KONG
@@ -397,7 +387,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Promoted by APPLEWOOD / MOONRAKER.
 
-### 23. 反田葉月 (Tanda Hazuki) — Fan Meeting in Hong Kong
+### 22. 反田葉月 (Tanda Hazuki) — Fan Meeting in Hong Kong
 - **artist:** Tanda Hazuki (反田葉月)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** 反田葉月香港粉絲見面會
@@ -412,26 +402,54 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Separate from the 2026-08-16 Hong Kong fan meeting.
 
+### 23. 紡木吏佐 (Risa Tsumugi) — 2026 Hong Kong Fan Meeting
+- **artist:** Risa Tsumugi (紡木吏佐)
+- **artist_type:** voice_actor (声優 / DJ)
+- **event_title:** 紡木吏佐2026香港粉絲見面會
+- **date:** 2026-11-28 (Sat)
+- **time:** First listed session starts 13:00 (HKT); full session schedule and doors TBA
+- **venue:** maggie [玉], Eaton HK, 380 Nathan Road, Jordan, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** HK$880 / HK$480. UUTIX lists the event as coming soon; public
+  sale date and detailed benefits are TBA.
+- **source:** https://www.uutix.com/ (official ticketing listing)
+- **status:** announced
+- **notes:** Ticketing details have not yet been published on a dedicated event page.
+
 ### 24. 家入レオ (Leo Ieiri) — Live in Hong Kong 2026
 - **artist:** Leo Ieiri (家入レオ / 家入莉奧)
 - **artist_type:** singer
 - **event_title:** LEO IEIRI Live in Hong Kong 2026
 - **date:** 2026-11-28 (Sat)
-- **time:** Doors 17:30 / start 18:00 (HKT)
+- **time:** Matinee doors 14:00 / start 14:30; Evening doors 17:30 / start 18:00 (HKT)
 - **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
 - **ticket_info:** HK$999 / HK$899 restricted-view, all reserved seating. Public sale
-  began 2026-08-07 18:00 HKT via UUTIX and bilibili. All tickets include a post-show
-  handshake and a hand-delivered signed postcard.
+  began 2026-08-07 18:00 HKT via UUTIX and bilibili; the evening is sold out and the
+  added matinee remains on sale. All tickets include a post-show handshake and a
+  hand-delivered signed postcard.
 - **source:**
   - https://www.leo-ieirimobile.com/news/detail/100777 (official ticket announcement)
   - https://www.uutix.com/detail?pId=3849 (ticketing)
   - https://show.bilibili.com/platform/detail.html?id=1004242 (ticketing)
 - **status:** on_sale
-- **notes:** Ieiri's first Hong Kong concert. A designated photography segment is
-  permitted; recording is prohibited.
+- **notes:** Ieiri's first Hong Kong concert. The matinee was added after the evening
+  sold out. A designated photography segment is permitted; recording is prohibited.
 
-### 25. Joji — SOLARIS Tour in Hong Kong
+### 25. しゅーず (Shoose) — Live in Hong Kong 2026 “Signal”
+- **artist:** Shoose (しゅーず)
+- **artist_type:** singer (utaite)
+- **event_title:** Shoose Live in Hong Kong 2026 “Signal”
+- **date:** 2026-11-28 (Sat)
+- **time:** TBA
+- **venue:** Y Theatre, Youth Square, 238 Chai Wan Road, Chai Wan, Hong Kong Island
+- **city:** Hong Kong
+- **ticket_info:** Ticket prices, on-sale date, platform, and benefits TBA.
+- **source:** https://www.instagram.com/miacoplus385/p/Db0LL7zjLGG/ (official organizer announcement)
+- **status:** announced
+- **notes:** Organizer MIACO PLUS says performance details will be announced later.
+
+### 26. Joji — SOLARIS Tour in Hong Kong
 - **artist:** Joji (George Kusunoki Miller / ジョージ・楠木・ミラー)
 - **artist_type:** singer (Japanese-Australian singer-songwriter / producer)
 - **event_title:** JOJI: SOLARIS

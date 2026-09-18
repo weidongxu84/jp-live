@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, October 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-09-12.
+Last updated: 2026-09-18.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **October 2026**.
@@ -145,7 +145,26 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** The 18:00 performance was added after the original show. Both sessions
   feature the Japanese neo-soul guitarist.
 
-### 8. Fear, and Loathing in Las Vegas — One Man Show in Hong Kong
+### 8. ANZA — “Open Your Heart” Hong Kong Concert
+- **artist:** ANZA
+- **artist_type:** singer (anisong / musical theatre)
+- **event_title:** ANZA｜打開心扉香港演唱會
+- **date:** 2026-10-17 (Sat)
+- **time:** General admission 16:30 (HKT); start time TBA
+- **venue:** Concert Hall, Shimen Heung Yee Kuk Building (石門鄉議局大樓演奏廳),
+  Sha Tin, New Territories
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 / A HK$580. Public sale began 2026-08-14 12:00 HKT
+  via art-mate.
+- **source:**
+  - https://www.instagram.com/miacoplus385/p/DbzvsTNjPGn/ (official organizer announcement)
+  - https://www.instagram.com/anzahpp/ (official artist)
+- **status:** on_sale
+- **notes:** Hong Kong solo concert by the original singer of “Tobira wo Akete,”
+  the second opening theme for *Cardcaptor Sakura*. Organizers: WAKU WAKU,
+  IRIS PICTURES, and 多祺文化.
+
+### 9. Fear, and Loathing in Las Vegas — One Man Show in Hong Kong
 - **artist:** Fear, and Loathing in Las Vegas
 - **artist_type:** band (electronicore / rock)
 - **event_title:** Fear, and Loathing in Las Vegas ONE MAN SHOW in Hong Kong
@@ -160,7 +179,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong solo show. Dynamic-QR electronic tickets; ages 12+ and
   height >=140 cm. Photography, video, and audio recording are prohibited.
 
-### 9. Atarayo (あたらよ) — ASIA TOUR 2026 "After the Late Summer Shower" in Hong Kong
+### 10. Atarayo (あたらよ) — ASIA TOUR 2026 "After the Late Summer Shower" in Hong Kong
 - **artist:** Atarayo (あたらよ)
 - **artist_type:** band (J-rock / anisong)
 - **event_title:** Atarayo ASIA TOUR 2026「在晚夏驟雨過後」LIVE IN HONG KONG
@@ -180,7 +199,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   Oct 19 sell-out. Known for 「10月無口な君を忘れる」. Organizer NEON LIT
   (business@neon-lit.com).
 
-### 10. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
+### 11. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
 - **artist:** Taichi Mukai (向井太一)
 - **artist_type:** singer (R&B singer-songwriter)
 - **event_title:** MUKAI TAICHI 2026「THE 34 TOUR」in Hong Kong
@@ -196,7 +215,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Hong Kong stop of Mukai's first tour after becoming independent.
 
-### 11. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
+### 12. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
 - **artist:** Nami Tamaki (玉置成實)
 - **artist_type:** singer (anisong)
 - **event_title:** 玉置成實 Nami Tamaki LIVE 2026 -STARBOUND TOUR- in Hong Kong
@@ -213,7 +232,23 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Return Hong Kong concert after her 2025 show sold out. Free photography is
   permitted only during a designated segment.
 
-### 12. East Of Eden — Live in Hong Kong 2026
+### 13. honeydip — ASIA TOUR 2026 “Before Sunrise” in Hong Kong
+- **artist:** honeydip
+- **artist_type:** band (shoegaze)
+- **event_title:** honeydip ASIA TOUR 2026 Before Sunrise - Hong Kong -
+- **date:** 2026-10-25 (Sun)
+- **time:** Doors 19:00 / start 19:30 (HKT)
+- **venue:** MOM Livehouse, Unit B39, 7 Seas Shopping Centre, 117-121 King's Road,
+  North Point, Hong Kong Island
+- **city:** Hong Kong
+- **ticket_info:** Early bird HK$420 / regular HK$490, all standing. Public sale
+  began 2026-07-22 12:00 HKT via TickCats; the early-bird period ended August 31.
+- **source:** https://tickcats.com/event/honeydip (official ticketing)
+- **status:** on_sale
+- **notes:** Solo Hong Kong show by the reunited Japanese shoegaze band. Organizer:
+  Exclamation Music (嘆音樂).
+
+### 14. East Of Eden — Live in Hong Kong 2026
 - **artist:** East Of Eden (Ayasa, Minato Akane / 湊あかね, Yuki, MINA, MIZUKI)
 - **artist_type:** band (women's rock / anisong)
 - **event_title:** East Of Eden Live in Hong Kong 2026
@@ -232,7 +267,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong show for the Japanese five-member rock band led by
   violinist Ayasa. Age 12+. Organizer: ED Production.
 
-### 13. Astels — Live in Hong Kong 2026
+### 15. Astels — Live in Hong Kong 2026
 - **artist:** Astels
 - **artist_type:** band (electronic duo)
 - **event_title:** Astels Live in Hong Kong 2026
@@ -247,7 +282,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong performance by the Japanese electronic duo, whose music
   blends funk, jazz, R&B, and electronic production.
 
-### 14. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
+### 16. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
 - **artist:** Nakajima Yuki (中島由貴)
 - **artist_type:** voice_actor (声優; Roselia's Imai Lisa in BanG Dream!)
 - **event_title:** 2026 中島由貴香港粉絲見面會 (Nakashima Yuki Fan Meeting in Hong Kong)
