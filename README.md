@@ -1,6 +1,6 @@
 # JP Live HK
 
-A source-backed calendar of Japanese singers, bands, and voice actors performing in Hong Kong. The current collection covers September through December 2026, with all times in HKT (UTC+8).
+A source-backed calendar of Japanese singers, bands, and voice actors performing in Hong Kong. The current collection covers September 2026 through February 2027, with all times in HKT (UTC+8).
 
 ## Website
 
@@ -16,6 +16,8 @@ Each monthly section displays the data file's own update date. Event data remain
 - [October 2026 events](events/2026-10-hong-kong.md)
 - [November 2026 events](events/2026-11-hong-kong.md)
 - [December 2026 events](events/2026-12-hong-kong.md)
+- [January 2027 events](events/2027-01-hong-kong.md)
+- [February 2027 events](events/2027-02-hong-kong.md)
 - [Collection plan](COLLECTION_PLAN.md)
 
 Listings link to official artist, promoter, venue, or ticketing sources where possible. Confirm current time, availability, and ticket terms with the linked source before buying tickets or travelling.

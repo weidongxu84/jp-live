@@ -1,8 +1,10 @@
 const sources = [
-  { file: "2026-09-hong-kong.md", id: "september", label: "September 2026" },
-  { file: "2026-10-hong-kong.md", id: "october", label: "October 2026" },
-  { file: "2026-11-hong-kong.md", id: "november", label: "November 2026" },
-  { file: "2026-12-hong-kong.md", id: "december", label: "December 2026" },
+  { file: "2026-09-hong-kong.md", id: "september", label: "September 2026", year: 2026, month: 9 },
+  { file: "2026-10-hong-kong.md", id: "october", label: "October 2026", year: 2026, month: 10 },
+  { file: "2026-11-hong-kong.md", id: "november", label: "November 2026", year: 2026, month: 11 },
+  { file: "2026-12-hong-kong.md", id: "december", label: "December 2026", year: 2026, month: 12 },
+  { file: "2027-01-hong-kong.md", id: "january", label: "January 2027", year: 2027, month: 1 },
+  { file: "2027-02-hong-kong.md", id: "february", label: "February 2027", year: 2027, month: 2 },
 ];
 
 const text = (value) => value.replace(/\s+/g, " ").trim();
@@ -51,9 +53,7 @@ function eventDates(event) {
 }
 
 function calendarMonth(page) {
-  const firstDate = page.events.flatMap(eventDates)[0];
-  const year = Number(page.events.find((event) => event.date.includes("2026"))?.date.slice(0, 4));
-  const month = Number(page.events.find((event) => event.date.includes("2026"))?.date.slice(5, 7));
+  const { year, month } = page;
   const daysInMonth = new Date(Date.UTC(year, month, 0)).getUTCDate();
   const firstWeekday = new Date(Date.UTC(year, month - 1, 1)).getUTCDay();
   const eventsByDay = new Map();

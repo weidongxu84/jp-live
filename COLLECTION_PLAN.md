@@ -1,8 +1,8 @@
-# Collection Plan — Japanese Artist Lives in Hong Kong (Aug-Dec 2026)
+# Collection Plan — Japanese Artist Lives in Hong Kong (Aug 2026-Feb 2027)
 
 How we discover, verify, and record live event information from **public sources**.
 Target: Japanese singers, voice actors/actresses (声優), and bands performing in
-**Hong Kong** during **August through December 2026**.
+**Hong Kong** during **August 2026 through February 2027**.
 
 ---
 
