@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, September 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-09-18.
+Last updated: 2026-09-22.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **September 2026**.
@@ -38,7 +38,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://www.popticket.hk/zh/event/the-bible-2 (ticketing)
   - https://threenine.co.jp/news/4115/ (official / agency)
   - https://www.art-mate.net/doc/97303 (listing, corroboration)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** Anisong veteran (Shakugan no Shana "Hishoku no Sora", Hayate the Combat
   Butler, Kannazuki no Miko). Found via art-mate/timable sweep.
 
@@ -88,7 +88,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://edproduction.kktix.cc/events/minamikuribayashi-hk-2026 (ticketing / organizer)
   - https://www.ed-production.com.hk/ (organizer)
   - https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60368211/%E6%A0%97%E6%9E%97%E3%81%BF%E3%81%AA%E5%AE%9F%E6%BC%94%E5%94%B1%E6%9C%832026%E9%A6%99%E6%B8%AF-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90-%E5%BA%A7%E4%BD%8D%E8%A1%A8 (media, corroboration)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** First Hong Kong solo concert; organizer ED Production.
 
 ### 6. FLOW — WORLD TOUR 2026 "NARUTO THE ROCK" in Hong Kong
@@ -104,7 +104,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **source:**
   - https://www.tides.hk/hk/all-events/flow-tickets-ae1490169 (venue / ticketing)
   - https://gowheretoday.com/en/events/2353/flow-world-tour-2026-naruto-the-rock-hong-kong (listing)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** One-night NARUTO/Shippuden/Boruto anisong set ("GO!!!", "Sign", "Silhouette",
   "Haruka Kanata", "Hero's Come Back!!"). Members KEIGO, KOHSHI, TAKE, GOT'S, IWASAKI.
 
@@ -122,7 +122,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **source:**
   - https://www.art-mate.net/doc/99091 (ticketing / organizer listing)
   - https://www.instagram.com/p/DbafEWxk9s2/ (official organizer announcement)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** Two sessions. Photography, video, and audio recording are prohibited.
   Organizer: Flashing Light (閃景燈火); co-organizers: Takumi Production and
   Cosplay Galerie. Voice roles include Mikoto Aketa in *The Idolmaster Shiny
@@ -139,7 +139,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **ticket_info:** VVIP HK$1,980 / VIP HK$1,180 / GA HK$580, all standing. Public
   sale began 2026-07-15 11:00 HKT via Neon Lit / Ticketflap; VVIP is sold out.
 - **source:** https://www.tickets.neon-lit.com/takasetoya-2026 (official ticketing)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** Album-release band show with guest singer-songwriter Noda Emi. Organizer:
   NEON LIT.
 
@@ -156,7 +156,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   art-mate.
 - **source:**
   - https://www.art-mate.net/doc/99093 (ticketing / organizer listing)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** Two sessions. Photography, video, and audio recording are prohibited.
   Organizer: Flashing Light (閃景燈火); co-organizers: Takumi Production and
   Cosplay Galerie. Found via art-mate's newly on-sale listings.
@@ -174,7 +174,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   commemorative photo, send-off, priority entry) / GA HK$480 (commemorative photo
   and send-off), plus HK$12 UUTIX fee. Public sale began 2026-08-14 12:00 HKT.
 - **source:** https://www.uutix.com/detail?pId=3864 (ticketing)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** Dynamic-QR electronic tickets. Ages 1.2 m and above require a ticket;
   children under 1.2 m are not admitted.
 
@@ -192,7 +192,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://www.tides.hk/hk/all-events/inoran-tickets-ae1687463 (venue)
   - https://www.ticketflap.com/inoranhkhsbc (ticketing)
   - https://www.livenation.hk/en/event/inoran-jade-and-pearl-far-east-island-asia-tour-2026-hong-kong-tickets-edp1687464 (promoter)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** INORAN's first Hong Kong solo performance since 2016.
 
 ### 12. 宮崎歩 (Ayumi Miyazaki) — Show Me Your Brave Heart Concert
@@ -208,7 +208,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   art-mate. Ages 6+.
 - **source:**
   - https://www.art-mate.net/doc/98127 (ticketing / organizer listing)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** First Hong Kong concert for the singer of Digimon Adventure evolution
   song "brave heart". Organizers: WAKUWAKU, IRIS PICTURES, and 多祺文化; co-organizer
   MIACO. Found via art-mate's ACG 2026 feature.
@@ -224,7 +224,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **city:** Hong Kong
 - **ticket_info:** HK$400, all standing, via art-mate.
 - **source:** https://www.art-mate.net/doc/99098 (ticketing / organizer listing)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** Hong Kong stop of the Tokyo shoegaze band's 2026 Asia tour. Organizer:
   Bandmennofool (班門弄斧).
 
@@ -243,7 +243,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://www.tickets.neon-lit.com/te2026hk (official ticketing)
   - https://www.art-mate.net/doc/96683 (listing, corroboration)
   - https://timable.com/hk/zh/event/69e6e281717a05976eadd515 (listing, corroboration)
-- **status:** on_sale
+- **status:** confirmed
 - **notes:** Hong Kong stop of the Japanese instrumental band's 20th anniversary
   tour. Performing lineup: kono, matsuda, tachibana, and support guitarist Ojima.
   Organizer: NEON LIT.
@@ -266,7 +266,23 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Standing zones are restricted to ages 12+ and height >=140 cm; seated
   zones are restricted to ages 3+.
 
-### 16. back number — "Grateful Yesterdays Tour 2026" in Hong Kong
+### 16. 林鼓子 (Coco Hayashi) — 2026 Hong Kong Fan Meeting
+- **artist:** Coco Hayashi (林鼓子)
+- **artist_type:** voice_actor (声優 / singer)
+- **event_title:** 林鼓子 2026 香港粉絲見面會
+- **date:** 2026-09-26 (Sat)
+- **time:** First show doors 13:30 / start 14:00; second show doors 17:30 /
+  start 18:00 (HKT)
+- **venue:** Ballroom, Hotel Alexandra, 32 City Garden Road, North Point,
+  Hong Kong Island
+- **city:** Hong Kong
+- **ticket_info:** S HK$980 / regular HK$580, via art-mate. Public sale began
+  2026-08-24 at 18:00 for the first show and 18:10 for the second.
+- **source:** https://www.art-mate.net/doc/99381 (ticketing / organizer listing)
+- **status:** on_sale
+- **notes:** Two fan-meeting sessions.
+
+### 17. back number — "Grateful Yesterdays Tour 2026" in Hong Kong
 - **artist:** back number
 - **artist_type:** band (J-pop/rock)
 - **event_title:** back number "Grateful Yesterdays Tour 2026" in Hong Kong
@@ -285,7 +301,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   sold out. Age 12+ and height ≥140 cm; under-16 accompanied.
   ID check, one ticket per person. Official sales channel (Klook) only.
 
-### 17. 春奈るな (Haruna Luna) — LIVE TOUR 2026 "Phases of the Moon" in Hong Kong
+### 18. 春奈るな (Haruna Luna) — LIVE TOUR 2026 "Phases of the Moon" in Hong Kong
 - **artist:** Haruna Luna (春奈るな)
 - **artist_type:** singer (anisong)
 - **event_title:** HARUNA LUNA LIVE TOUR 2026 "Phases of the Moon" 香港站
@@ -302,7 +318,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First HK solo show in 10 years. Anisong credits incl. Sword Art Online
   ("overfly"), Fate/Zero. Found via art-mate/bilibili sweep.
 
-### 18. 蒼井翔太 (Shouta Aoi) — LIVE 2026 WONDER lab. LIMITLESS Hong Kong Performance
+### 19. 蒼井翔太 (Shouta Aoi) — LIVE 2026 WONDER lab. LIMITLESS Hong Kong Performance
 - **artist:** Shouta Aoi (蒼井翔太)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Shouta Aoi LIVE 2026 WONDER lab. LIMITLESS 香港公演
@@ -319,7 +335,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** First Hong Kong headline concert. Organizer: EUPHORIC PRODUCTION HK.
 
-### 19. 浜野はるき (Hamano Haruki) — LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
+### 20. 浜野はるき (Hamano Haruki) — LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
 - **artist:** Hamano Haruki (浜野はるき / 浜野春希)
 - **artist_type:** singer
 - **event_title:** HARUKI HAMANO LIVE TOUR 2026 "COVER GIRLS" in Hong Kong
@@ -337,7 +353,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Organizer NEON LIT (business@neon-lit.com). Found via art-mate sweep.
 
-### 20. トゲナシトゲアリ (TOGENASHI TOGEARI) — Live in Hong Kong「凛音の理」Special Edition+
+### 21. トゲナシトゲアリ (TOGENASHI TOGEARI) — Live in Hong Kong「凛音の理」Special Edition+
 - **artist:** TOGENASHI TOGEARI (トゲナシトゲアリ; from the anime *Girls Band Cry* / ガールズバンドクライ)
 - **artist_type:** band (anisong; real-instrument seiyuu-fronted band)
 - **event_title:** TOGENASHI TOGEARI Live in HONG KONG「凛音の理」Special Edition+

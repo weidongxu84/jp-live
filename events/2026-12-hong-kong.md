@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, December 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-09-18.
+Last updated: 2026-09-22.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **December 2026**.
@@ -13,30 +13,32 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **artist_type:** voice_actor (声優 / actor)
 - **event_title:** 生田輝 2026 香港見面會
 - **date:** 2026-12-05 (Sat)
-- **time:** First listed session starts 13:00 (HKT); full session schedule and doors TBA
+- **time:** Matinee doors 12:30 / start 13:00; evening doors 17:30 / start
+  18:00 (HKT)
 - **venue:** P'Artiste, 38 Nelson Street, Mong Kok, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** HK$999. UUTIX lists the event as coming soon; public sale date
-  and detailed benefits are TBA.
-- **source:** https://www.uutix.com/ (official ticketing listing)
+- **ticket_info:** VIP HK$999 assigned seating, plus HK$12 UUTIX fee. Public sale
+  begins 2026-09-23 at 12:00 for the matinee and 12:30 for the evening.
+- **source:** https://www.uutix.com/detail?pId=3949 (official ticketing)
 - **status:** announced
-- **notes:** Ticketing details have not yet been published on a dedicated event page.
+- **notes:** Two fan-meeting sessions.
 
 ### 2. 伊藤美来 (Miku Ito) — 10th Anniversary Live Tour “39rpm”
 - **artist:** Miku Ito (伊藤美来)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** ITO MIKU 10th ANNIVERSARY LIVE TOUR “39rpm” IN HONG KONG
 - **date:** 2026-12-12 (Sat)
-- **time:** TBA
+- **time:** Start 18:00 (HKT); doors TBA
 - **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** Real-name ticketing via KKTIX. Lottery registration runs from
-  2026-09-14 13:00 through 2026-09-20 22:59 HKT; results are issued September 24,
-  with payment due September 27. Second-phase sale details are TBA.
+- **ticket_info:** VIP HK$980 / GA HK$680, plus HK$32 handling fee, with real-name
+  ticketing via KKTIX. Lottery registration closed 2026-09-20 22:59 HKT; results
+  are issued September 24, with payment due September 27. Public-sale details are
+  TBA.
 - **source:**
   - https://www.ed-production.com.hk/ito-miku-10th-anniv-live-tour-in-hk (official promoter)
   - https://edproduction.kktix.cc/events/ito-miku-39rpm-hk (ticketing)
-- **status:** on_sale
+- **status:** announced
 - **notes:** Hong Kong stop of Ito's tenth-anniversary singer-debut tour. Identity
   verification applies at entry.
 

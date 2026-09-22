@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, November 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-09-18.
+Last updated: 2026-09-22.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **November 2026**.
@@ -472,5 +472,13 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 ## Watchlist
 
 No additional November listings meet the project verification standard yet.
+
+## Watchlist
+
+- **Reina Kondo (近藤玲奈)** — ACGEvent reports that her first Hong Kong fan
+  meeting will be held on 2026-11-14 at Tseung Kwan O Data Centre. No artist,
+  organizer, or ticketing page was available at the refresh cutoff; time and
+  tickets remain TBA. `status: verifying`.
+  Source: https://www.facebook.com/acgeventdotcom/posts/1545375234271949/
 
 _Re-check monthly per COLLECTION_PLAN.md cadence; update statuses rather than deleting._
