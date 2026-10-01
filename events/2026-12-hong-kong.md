@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, December 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-09-22.
+Last updated: 2026-10-01.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **December 2026**.
@@ -18,9 +18,9 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **venue:** P'Artiste, 38 Nelson Street, Mong Kok, Kowloon
 - **city:** Hong Kong
 - **ticket_info:** VIP HK$999 assigned seating, plus HK$12 UUTIX fee. Public sale
-  begins 2026-09-23 at 12:00 for the matinee and 12:30 for the evening.
+  began 2026-09-23 at 12:00 for the matinee and 12:30 for the evening.
 - **source:** https://www.uutix.com/detail?pId=3949 (official ticketing)
-- **status:** announced
+- **status:** on_sale
 - **notes:** Two fan-meeting sessions.
 
 ### 2. 伊藤美来 (Miku Ito) — 10th Anniversary Live Tour “39rpm”
@@ -32,17 +32,38 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
 - **ticket_info:** VIP HK$980 / GA HK$680, plus HK$32 handling fee, with real-name
-  ticketing via KKTIX. Lottery registration closed 2026-09-20 22:59 HKT; results
-  are issued September 24, with payment due September 27. Public-sale details are
-  TBA.
+  dynamic-QR ticketing via KKTIX. Lottery registration closed 2026-09-20 22:59
+  HKT; results were issued September 24 and payment closed September 27. Remaining
+  tickets entered public sale on 2026-09-29 12:00 HKT.
 - **source:**
   - https://www.ed-production.com.hk/ito-miku-10th-anniv-live-tour-in-hk (official promoter)
   - https://edproduction.kktix.cc/events/ito-miku-39rpm-hk (ticketing)
-- **status:** announced
+- **status:** on_sale
 - **notes:** Hong Kong stop of Ito's tenth-anniversary singer-debut tour. Identity
   verification applies at entry.
 
-### 3. She Her Her Hers — Special Live in Hong Kong 2026
+### 3. 本渡楓 (Kaede Hondo) — Hong Kong Fan Meeting 2026
+- **artist:** Kaede Hondo (本渡楓)
+- **artist_type:** voice_actor (声優)
+- **event_title:** Voice Stars 01－本渡楓香港見面會2026
+- **date:** 2026-12-13 (Sun)
+- **time:** Session 1 doors 11:30 / start 12:00; Session 2 doors 17:00 / start
+  17:30 (HKT)
+- **venue:** Picasso Room, InterContinental Grand Stanford Hong Kong, 70 Mody Road,
+  Tsim Sha Tsui East, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** SVIP HK$880 / VIP HK$680. Both include electronic and
+  commemorative tickets, hi-bye, and an event poster; SVIP also includes priority
+  entry, an SVIP pass, postcard handover, and eligibility for the signed-shikishi
+  drawing. Public sale begins 2026-10-02 18:00 HKT via Monster King Entertainment.
+- **source:**
+  - https://monsterkingent.com/p/jpvs01 (official promoter / ticketing)
+  - https://acgevent.com/archives/40110 (ACG media, corroboration)
+- **status:** announced
+- **notes:** First event in Monster King Entertainment's “Voice Stars” seiyuu
+  fan-meeting series.
+
+### 4. She Her Her Hers — Special Live in Hong Kong 2026
 - **artist:** She Her Her Hers
 - **artist_type:** band (dream pop / shoegaze / electronic)
 - **event_title:** She Her Her Hers Special Live in Hong Kong 2026 "明日將至" —
@@ -61,7 +82,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** One-night special concert themed around keyboardist Tomasong's "Miles
   for Tomorrow's Sun" project. Attendees under 16 must be accompanied by an adult.
 
-### 4. kurayamisaka — "kurayamisaka tte, doko? #9" Tour in Hong Kong
+### 5. kurayamisaka — "kurayamisaka tte, doko? #9" Tour in Hong Kong
 - **artist:** kurayamisaka
 - **artist_type:** band (alternative rock / shoegaze)
 - **event_title:** kurayamisaka tte, doko? #9 Tour to Greet the End of Summer – Hong Kong

@@ -75,6 +75,7 @@ and conventions above are intended to generalize. When expanding scope, keep `ci
 - Save all collected information as **Markdown (`.md`)** files.
 - Event datasets live under `events\` named `YYYY-MM-<city>.md`
   (e.g. `events\2026-08-hong-kong.md`).
+- Archived event datasets live under `events\archive`. There is no need to update them.
 - The collection methodology lives in `COLLECTION_PLAN.md`.
 - Record **important, durable** facts (scope, conventions, key sourcing lessons) here
   in **`AGENTS.md`** so they persist across tasks.
