@@ -1,5 +1,4 @@
 const sources = [
-  { file: "2026-09-hong-kong.md", id: "september", label: "September 2026", year: 2026, month: 9 },
   { file: "2026-10-hong-kong.md", id: "october", label: "October 2026", year: 2026, month: 10 },
   { file: "2026-11-hong-kong.md", id: "november", label: "November 2026", year: 2026, month: 11 },
   { file: "2026-12-hong-kong.md", id: "december", label: "December 2026", year: 2026, month: 12 },
@@ -91,20 +90,25 @@ async function loadSite() {
   const target = document.querySelector("#months");
   const status = document.querySelector("#site-status");
   try {
-    const pages = await Promise.all(sources.map(async (source) => {
+    const results = await Promise.allSettled(sources.map(async (source) => {
       const response = await fetch(`events/${source.file}`);
       if (!response.ok) throw new Error(`Could not load ${source.label}`);
       const markdown = await response.text();
       const updated = markdown.match(/Last updated:\s*([0-9-]+)/)?.[1] || "Unknown";
       return { ...source, updated, events: eventsFromMarkdown(markdown).map((event, index) => ({ ...event, id: `${source.id}-${index}` })) };
     }));
+    const pages = results.filter((result) => result.status === "fulfilled").map((result) => result.value);
+    const failed = results.flatMap((result, index) => result.status === "rejected" ? [sources[index].label] : []);
+    results.filter((result) => result.status === "rejected").forEach((result) => console.error(result.reason));
     const count = pages.reduce((total, page) => total + page.events.length, 0);
     document.querySelector("#event-count").textContent = count;
     target.innerHTML = pages.map((page) => `<section id="${page.id}" class="month month--list">
       <div class="month-heading"><h2>${page.label}</h2><span class="data-updated">Data updated: ${page.updated}</span></div>
       <div class="event-grid">${page.events.map(eventCard).join("")}</div>
     </section>${calendarMonth(page)}`).join("");
-    status.textContent = "";
+    status.textContent = failed.length
+      ? `Could not load ${failed.join(", ")}. ${pages.length ? "Other months are shown." : "Please try again shortly."}`
+      : "";
   } catch (error) {
     status.textContent = "The event data could not be loaded. Please try again shortly.";
     console.error(error);
