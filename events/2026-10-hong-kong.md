@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, October 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-10-01.
+Last updated: 2026-10-10.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **October 2026**.
@@ -56,7 +56,26 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First HK headline show. Promoters NEON LIT / Clockenflap. Bag checks +
   wristbands at entry.
 
-### 3. 斉藤朱夏 (Shuka Saito) — Hong Kong Oneman Live 2026
+### 3. 村上奈津実 (Natsumi Murakami) — 2026 Hong Kong Fan Meeting
+- **artist:** Natsumi Murakami (村上奈津実)
+- **artist_type:** voice_actor (声優)
+- **event_title:** 村上奈津實 2026香港粉絲見面會
+- **date:** 2026-10-04 (Sun)
+- **time:** Session 1 doors 13:30 / start 14:00; Session 2 doors 17:00 / start
+  17:30 (HKT)
+- **venue:** MICHELLE Purple, Eaton HK, 380 Nathan Road, Jordan, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** S HK$880 (photo opportunity and printed-signature bromide) /
+  regular HK$480 (send-off and printed-signature bromide), reserved seating.
+  Public sale began 2026-09-09 18:00 HKT via art-mate.
+- **source:**
+  - https://www.art-mate.net/tc/doc/99716 (official ticketing)
+  - https://yu-rin.com/pro-woman/murakami-natsumi (official agency profile)
+  - https://www.eventernote.com/events/489884 (JP live database, corroboration)
+- **status:** confirmed
+- **notes:** Two fan-meeting sessions.
+
+### 4. 斉藤朱夏 (Shuka Saito) — Hong Kong Oneman Live 2026
 - **artist:** Shuka Saito (斉藤朱夏)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Saito Shuka Hong Kong Oneman Live 2026 ~IT'S SHUUU TIME~
@@ -75,7 +94,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   includes a post-show send-off. Attendees holding both session stubs receive a
   mini photo book. Organizer contact: pineappleinfo2024@gmail.com.
 
-### 4. Omoinotake — ONE MAN TOUR 2026 Live in Hong Kong
+### 5. Omoinotake — ONE MAN TOUR 2026 Live in Hong Kong
 - **artist:** Omoinotake
 - **artist_type:** band (J-pop / R&B)
 - **event_title:** Omoinotake ONE MAN TOUR 2026 Live in Hong Kong
@@ -91,7 +110,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** First Hong Kong show. Organizer: NEON LIT.
 
-### 5. 茉ひる (Mahiru) — ONE-MAN ASIA TOUR 2026-2027 "Auralisia" in Hong Kong
+### 6. 茉ひる (Mahiru) — ONE-MAN ASIA TOUR 2026-2027 "Auralisia" in Hong Kong
 - **artist:** Mahiru (茉ひる)
 - **artist_type:** singer
 - **event_title:** Mahiru ONE-MAN ASIA TOUR 2026-2027 "Auralisia" in Hong Kong
@@ -108,7 +127,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** The official artist and promoter have announced the Hong Kong stop.
 
-### 6. 鈴木このみ (Konomi Suzuki) — Asia Tour 2026 in Hong Kong
+### 7. 鈴木このみ (Konomi Suzuki) — Asia Tour 2026 in Hong Kong
 - **artist:** Konomi Suzuki (鈴木このみ)
 - **artist_type:** singer (anisong)
 - **event_title:** Konomi Suzuki Asia Tour 2026 in Hong Kong
@@ -126,7 +145,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Performing with a band. Anime credits include Re:ZERO, Summer Pockets,
   No Game No Life, and The Pet Girl of Sakurasou. Organizer: ED Production.
 
-### 7. 副島俊樹 (Toshiki Soejima) — Live in Hong Kong 2026
+### 8. 副島俊樹 (Toshiki Soejima) — Live in Hong Kong 2026
 - **artist:** Toshiki Soejima (副島俊樹)
 - **artist_type:** singer (instrumental neo-soul guitarist)
 - **event_title:** Toshiki Soejima Live in Hong Kong 2026
@@ -145,7 +164,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** The 18:00 performance was added after the original show. Both sessions
   feature the Japanese neo-soul guitarist.
 
-### 8. 櫻川めぐ (Megumi Sakuragawa) — Hong Kong Fan Meeting 2026
+### 9. 櫻川めぐ (Megumi Sakuragawa) — Hong Kong Fan Meeting 2026
 - **artist:** Megumi Sakuragawa (櫻川めぐ)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** 櫻川めぐ香港見面會2026
@@ -164,7 +183,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Two sessions. Organizers: MIACO PLUS, WAKU WAKU, IRIS PICTURES, and
   多祺文化.
 
-### 9. ANZA — “Open Your Heart” Hong Kong Concert [Cancelled]
+### 10. ANZA — “Open Your Heart” Hong Kong Concert [Cancelled]
 - **artist:** ANZA
 - **artist_type:** singer (anisong / musical theatre)
 - **event_title:** ANZA｜打開心扉香港演唱會
@@ -184,7 +203,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** The organizer cancelled the concert; ticket holders do not need to
   submit a refund form.
 
-### 10. Fear, and Loathing in Las Vegas — One Man Show in Hong Kong
+### 11. Fear, and Loathing in Las Vegas — One Man Show in Hong Kong
 - **artist:** Fear, and Loathing in Las Vegas
 - **artist_type:** band (electronicore / rock)
 - **event_title:** Fear, and Loathing in Las Vegas ONE MAN SHOW in Hong Kong
@@ -199,7 +218,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong solo show. Dynamic-QR electronic tickets; ages 12+ and
   height >=140 cm. Photography, video, and audio recording are prohibited.
 
-### 11. Atarayo (あたらよ) — ASIA TOUR 2026 "After the Late Summer Shower" in Hong Kong
+### 12. Atarayo (あたらよ) — ASIA TOUR 2026 "After the Late Summer Shower" in Hong Kong
 - **artist:** Atarayo (あたらよ)
 - **artist_type:** band (J-rock / anisong)
 - **event_title:** Atarayo ASIA TOUR 2026「在晚夏驟雨過後」LIVE IN HONG KONG
@@ -219,7 +238,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   Oct 19 sell-out. Known for 「10月無口な君を忘れる」. Organizer NEON LIT
   (business@neon-lit.com).
 
-### 12. 田中有紀 (Yuki Tanaka) — Hong Kong Fan Meeting
+### 13. 田中有紀 (Yuki Tanaka) — Hong Kong Fan Meeting
 - **artist:** Yuki Tanaka (田中有紀)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** 聲聲不息 2026 Vol.05 田中有紀 香港粉絲見面會
@@ -237,7 +256,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First overseas fan meeting; no singing segment. Organizers and
   collaborators: Eventer, Aoqi Media, NEON LIT, and Queen Culture.
 
-### 13. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
+### 14. 向井太一 (Taichi Mukai) — THE 34 TOUR in Hong Kong
 - **artist:** Taichi Mukai (向井太一)
 - **artist_type:** singer (R&B singer-songwriter)
 - **event_title:** MUKAI TAICHI 2026「THE 34 TOUR」in Hong Kong
@@ -253,7 +272,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Hong Kong stop of Mukai's first tour after becoming independent.
 
-### 14. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
+### 15. 玉置成實 (Nami Tamaki) — LIVE 2026 -STARBOUND TOUR- in Hong Kong
 - **artist:** Nami Tamaki (玉置成實)
 - **artist_type:** singer (anisong)
 - **event_title:** 玉置成實 Nami Tamaki LIVE 2026 -STARBOUND TOUR- in Hong Kong
@@ -270,7 +289,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Return Hong Kong concert after her 2025 show sold out. Free photography is
   permitted only during a designated segment.
 
-### 15. honeydip — ASIA TOUR 2026 “Before Sunrise” in Hong Kong
+### 16. honeydip — ASIA TOUR 2026 “Before Sunrise” in Hong Kong
 - **artist:** honeydip
 - **artist_type:** band (shoegaze)
 - **event_title:** honeydip ASIA TOUR 2026 Before Sunrise - Hong Kong -
@@ -286,7 +305,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Solo Hong Kong show by the reunited Japanese shoegaze band. Organizer:
   Exclamation Music (嘆音樂).
 
-### 16. East Of Eden — Live in Hong Kong 2026
+### 17. East Of Eden — Live in Hong Kong 2026
 - **artist:** East Of Eden (Ayasa, Minato Akane / 湊あかね, Yuki, MINA, MIZUKI)
 - **artist_type:** band (women's rock / anisong)
 - **event_title:** East Of Eden Live in Hong Kong 2026
@@ -305,7 +324,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong show for the Japanese five-member rock band led by
   violinist Ayasa. Age 12+. Organizer: ED Production.
 
-### 17. Astels — Live in Hong Kong 2026
+### 18. Astels — Live in Hong Kong 2026
 - **artist:** Astels
 - **artist_type:** band (electronic duo)
 - **event_title:** Astels Live in Hong Kong 2026
@@ -320,7 +339,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong performance by the Japanese electronic duo, whose music
   blends funk, jazz, R&B, and electronic production.
 
-### 18. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
+### 19. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
 - **artist:** Nakajima Yuki (中島由貴)
 - **artist_type:** voice_actor (声優; Roselia's Imai Lisa in BanG Dream!)
 - **event_title:** 2026 中島由貴香港粉絲見面會 (Nakashima Yuki Fan Meeting in Hong Kong)

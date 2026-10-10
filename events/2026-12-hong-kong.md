@@ -1,14 +1,32 @@
 # Japanese Artist Lives — Hong Kong, December 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-10-01.
+Last updated: 2026-10-10.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **December 2026**.
 
 ## Confirmed events
 
-### 1. 生田輝 (Teru Ikuta) — 2026 Hong Kong Fan Meeting
+### 1. IRIS MONDO — “LIFELINE” ASIA TOUR 2026 in Hong Kong
+- **artist:** IRIS MONDO
+- **artist_type:** band (alternative rock)
+- **event_title:** IRIS MONDO “LIFELINE” ASIA TOUR 2026 in Hong Kong
+- **date:** 2026-12-02 (Wed)
+- **time:** Doors 19:00 / start 20:00 (HKT)
+- **venue:** MOM Livehouse, Unit B39, 7 Seas Shopping Centre, 117-121 King's Road,
+  North Point, Hong Kong Island
+- **city:** Hong Kong
+- **ticket_info:** GA HK$450. Public sale began 2026-09-27 22:00 HKT via Neon Lit /
+  Ticketflap.
+- **source:**
+  - https://www.tickets.neon-lit.com/zh-hant/irismondo-2026 (official promoter / ticketing)
+  - https://www.irismondo.tokyo/ (official artist)
+  - https://timable.com/hk/zh/event/6aba34599bbd8535a9f62cc1/ (listing, corroboration)
+- **status:** on_sale
+- **notes:** Hong Kong stop of the band's 2026 Asia tour.
+
+### 2. 生田輝 (Teru Ikuta) — 2026 Hong Kong Fan Meeting
 - **artist:** Teru Ikuta (生田輝)
 - **artist_type:** voice_actor (声優 / actor)
 - **event_title:** 生田輝 2026 香港見面會
@@ -23,7 +41,24 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Two fan-meeting sessions.
 
-### 2. 伊藤美来 (Miku Ito) — 10th Anniversary Live Tour “39rpm”
+### 3. 中村繪里子 (Eriko Nakamura) — Fan Meeting “ON AIR” in Hong Kong
+- **artist:** Eriko Nakamura (中村繪里子)
+- **artist_type:** voice_actor (声優)
+- **event_title:** 中村繪里子粉絲見面會～ON AIR～ in香港【中村老師的校內廣播】
+- **date:** 2026-12-12 (Sat)
+- **time:** Session 1 doors 12:00 / start 12:30; Session 2 doors 18:00 / start
+  18:30 (HKT)
+- **venue:** Tsuen Fook Room, Dorsett Tsuen Wan Hong Kong, Kwai Chung, New Territories
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 (one-to-one cheki, personalized signed-shikishi
+  handover, and commemorative-ticket sticker) / GA HK$580 (sticker), reserved
+  seating. Public sale began 2026-09-14 12:00 HKT via art-mate; maximum four
+  tickets per transaction.
+- **source:** https://www.art-mate.net/doc/99949 (official ticketing)
+- **status:** on_sale
+- **notes:** Two sessions; children under three are not admitted.
+
+### 4. 伊藤美来 (Miku Ito) — 10th Anniversary Live Tour “39rpm”
 - **artist:** Miku Ito (伊藤美来)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** ITO MIKU 10th ANNIVERSARY LIVE TOUR “39rpm” IN HONG KONG
@@ -42,7 +77,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Hong Kong stop of Ito's tenth-anniversary singer-debut tour. Identity
   verification applies at entry.
 
-### 3. 本渡楓 (Kaede Hondo) — Hong Kong Fan Meeting 2026
+### 5. 本渡楓 (Kaede Hondo) — Hong Kong Fan Meeting 2026
 - **artist:** Kaede Hondo (本渡楓)
 - **artist_type:** voice_actor (声優)
 - **event_title:** Voice Stars 01－本渡楓香港見面會2026
@@ -55,15 +90,15 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **ticket_info:** SVIP HK$880 / VIP HK$680. Both include electronic and
   commemorative tickets, hi-bye, and an event poster; SVIP also includes priority
   entry, an SVIP pass, postcard handover, and eligibility for the signed-shikishi
-  drawing. Public sale begins 2026-10-02 18:00 HKT via Monster King Entertainment.
+  drawing. Public sale began 2026-10-02 18:00 HKT via Monster King Entertainment.
 - **source:**
   - https://monsterkingent.com/p/jpvs01 (official promoter / ticketing)
   - https://acgevent.com/archives/40110 (ACG media, corroboration)
-- **status:** announced
+- **status:** on_sale
 - **notes:** First event in Monster King Entertainment's “Voice Stars” seiyuu
   fan-meeting series.
 
-### 4. She Her Her Hers — Special Live in Hong Kong 2026
+### 6. She Her Her Hers — Special Live in Hong Kong 2026
 - **artist:** She Her Her Hers
 - **artist_type:** band (dream pop / shoegaze / electronic)
 - **event_title:** She Her Her Hers Special Live in Hong Kong 2026 "明日將至" —
@@ -82,7 +117,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** One-night special concert themed around keyboardist Tomasong's "Miles
   for Tomorrow's Sun" project. Attendees under 16 must be accompanied by an adult.
 
-### 5. kurayamisaka — "kurayamisaka tte, doko? #9" Tour in Hong Kong
+### 7. kurayamisaka — "kurayamisaka tte, doko? #9" Tour in Hong Kong
 - **artist:** kurayamisaka
 - **artist_type:** band (alternative rock / shoegaze)
 - **event_title:** kurayamisaka tte, doko? #9 Tour to Greet the End of Summer – Hong Kong
