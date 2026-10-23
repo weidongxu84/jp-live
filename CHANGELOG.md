@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- Refreshed active listings on October 23 and extended coverage through March 2027.
+- Added Miya Minato, Yukana (announced), and MYTH & ROID; updated milet tickets,
+  betcover!!'s added date, and Makoto Yoshimori Trio's venue.
+- Recorded source-access gaps and conflicting Satomi Amano start times.
+- Moved French duo Astels and actor Kaito Hori to out-of-scope notes.
 - Added a GitHub Pages site for the Hong Kong event calendar.
 - Added an interactive monthly calendar view alongside detailed event listings.
 - The site reads the Markdown event datasets and shows each month’s `Last updated` date.

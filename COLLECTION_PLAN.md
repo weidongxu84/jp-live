@@ -1,8 +1,8 @@
-# Collection Plan — Japanese Artist Lives in Hong Kong (Aug 2026-Feb 2027)
+# Collection Plan — Japanese Artist Lives in Hong Kong (Oct 2026-Mar 2027)
 
 How we discover, verify, and record live event information from **public sources**.
 Target: Japanese singers, voice actors/actresses (声優), and bands performing in
-**Hong Kong** during **August 2026 through February 2027**.
+**Hong Kong** during **October 2026 through March 2027**.
 
 ---
 
@@ -140,7 +140,7 @@ table (Section 4) as a staging area.
 
 ### Step 3 — Verify
 Promote a lead only when confirmed by an **official** or **ticketing** source.
-Check: correct artist, correct city (Hong Kong), date within Aug-Dec 2026, real venue,
+Check: correct artist, correct city (Hong Kong), date within October 2026-March 2027, real venue,
 and that it isn't an old/cancelled announcement. Keep the confirming URL.
 
 ### Step 4 — Normalize
@@ -165,7 +165,7 @@ times, and ticket info instead of deleting entries.
 
 - **Weekly sweep** of official sites, promoter/venue calendars, and ticketing
   platforms for new announcements.
-- **Daily light check** as August 2026 approaches (T-8 weeks onward), since on-sale
+- **Daily light check** for events within eight weeks, since on-sale
   dates and sell-outs move fast.
 - **Event-triggered**: whenever a lead appears in community channels, verify within
   a day or two.
@@ -197,10 +197,12 @@ Verified `confirmed` leads graduate into the main dataset per `AGENTS.md`.
 - **Never invent** dates, prices, or venues. If unknown, leave blank and note it.
 - **Prefer primary sources**; downgrade `status` to `announced` when only community
   sources exist and flag the uncertainty in `notes`.
-- **Scope filter:** discard anything not in Hong Kong or outside Aug-Dec 2026 (unless
+- **Scope filter:** discard anything not in Hong Kong or outside October 2026-March 2027 (unless
   scope is explicitly expanded).
 - **Timezone:** all dates/times in **HKT (UTC+8)**.
 - **Keep provenance:** every dataset entry retains at least one source URL.
+- **Verification gaps:** record blocked pages and conflicting sources; an updated
+  file date does not mean every ticket tier was independently re-verified.
 
 ## 6. Legal / ethical
 
@@ -217,4 +219,4 @@ Verified `confirmed` leads graduate into the main dataset per `AGENTS.md`.
 - Scripted searches / RSS or social-feed monitors for a watchlist of artists.
 - Venue & ticketing calendar scrapers (respecting ToS) writing into `inbox_entries`.
 - A dedupe + validation script that promotes verified leads into the dataset.
-- Alerting when a watched artist gets a new HK Aug-2026 announcement.
+- Alerting when a watched artist gets a new announcement within the target period.

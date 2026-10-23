@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, October 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-10-10.
+Last updated: 2026-10-23.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **October 2026**.
@@ -252,6 +252,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **source:**
   - https://www.ticketflap.com/ja/ssbxvol5 (official ticketing)
   - https://acgevent.com/archives/40116 (ACG media, corroboration)
+  - https://www.art-mate.net/doc/100894 (organizer listing, rechecked October 23)
 - **status:** on_sale
 - **notes:** First overseas fan meeting; no singing segment. Organizers and
   collaborators: Eventer, Aoqi Media, NEON LIT, and Queen Culture.
@@ -264,8 +265,10 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **time:** Start 18:00 (HKT)
 - **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** Public sale via KKTIX; see the official ticket page for current
-  ticket tiers and benefits.
+- **ticket_info:** SVIP HK$1,028 / VIP HK$838 / mezzanine HK$678 / rear 1F
+  HK$488, all standing, plus HK$12 booking fee. Public sale began 2026-07-28
+  16:00 HKT via KKTIX. SVIP includes a one-to-one photo; VIP includes a hi-touch
+  send-off. Entry requires the KKTIX app's dynamic QR code.
 - **source:**
   - https://www.tides.hk/hk/all-events/%E5%90%91%E4%BA%95%E5%A4%AA%E4%B8%80-tickets-ae1689398 (venue)
   - https://hopestarent.kktix.cc/events/mukaitaichi-2026 (ticketing)
@@ -285,6 +288,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **source:**
   - https://www.uutix.com/detail?pId=3823 (ticketing)
   - https://x.com/NamiTamaki_Int/status/2061070941711466603 (official artist announcement)
+  - https://www.art-mate.net/doc/98383 (listing, rechecked October 23)
 - **status:** on_sale
 - **notes:** Return Hong Kong concert after her 2025 show sold out. Free photography is
   permitted only during a designated segment.
@@ -324,22 +328,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong show for the Japanese five-member rock band led by
   violinist Ayasa. Age 12+. Organizer: ED Production.
 
-### 18. Astels — Live in Hong Kong 2026
-- **artist:** Astels
-- **artist_type:** band (electronic duo)
-- **event_title:** Astels Live in Hong Kong 2026
-- **date:** 2026-10-25 (Sun)
-- **time:** Doors 19:30 / start 20:00 (HKT)
-- **venue:** The Aftermath, Lower G/F, Sunny Building, 57-59 Wyndham Street,
-  Central, Hong Kong Island
-- **city:** Hong Kong
-- **ticket_info:** HK$380 via Hope Star.
-- **source:** https://hopestar.biz/shop/astels26/ (official ticketing / promoter)
-- **status:** on_sale
-- **notes:** First Hong Kong performance by the Japanese electronic duo, whose music
-  blends funk, jazz, R&B, and electronic production.
-
-### 19. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
+### 18. 中島由貴 (Nakajima Yuki) — Fan Meeting in Hong Kong 2026
 - **artist:** Nakajima Yuki (中島由貴)
 - **artist_type:** voice_actor (声優; Roselia's Imai Lisa in BanG Dream!)
 - **event_title:** 2026 中島由貴香港粉絲見面會 (Nakashima Yuki Fan Meeting in Hong Kong)
@@ -380,5 +369,16 @@ Japanese acts with Hong Kong 2026 shows **outside October**, or **cancelled**:
 | Haruna Luna (春奈るな) | singer | 2026-09-26 | September (see 2026-09 file) |
 | Hamano Haruki (浜野はるき) | singer | 2026-09-29 | September (see 2026-09 file) |
 | Fujii Kaze (藤井風) | singer | 2026 (Prema Tour) | **HK leg cancelled** (announced Apr 2026) |
+| Astels | band | Previously listed 2026-10-25 | French electronic duo, not Japanese; removed from the in-scope calendar. https://shotgun.live/fr/artists/astelstheduo |
+
+## Verification notes — October 23
+
+- Rechecked upcoming Taichi Mukai, Nami Tamaki, honeydip, and Nakajima Yuki
+  details against KKTIX, art-mate, TickCats, and the rendered UUTIX page.
+- The Konomi Suzuki promoter page reports the October 10 show concluded;
+  past-event sales statuses are retained as historical, not current availability.
+- Ticketflap/Neon Lit browser challenges, some UUTIX timeouts, and inaccessible
+  promoter socials prevented a complete availability audit. Astels' old promoter
+  link now returns 404; its nationality was cross-checked through music listings.
 
 _Re-check monthly per COLLECTION_PLAN.md cadence; update statuses rather than deleting._

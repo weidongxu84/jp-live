@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, December 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-10-10.
+Last updated: 2026-10-23.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **December 2026**.
@@ -75,7 +75,9 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://edproduction.kktix.cc/events/ito-miku-39rpm-hk (ticketing)
 - **status:** on_sale
 - **notes:** Hong Kong stop of Ito's tenth-anniversary singer-debut tour. Identity
-  verification applies at entry.
+  verification applies at entry. The promoter's October 14 guidance accepts
+  letters only, not gifts or banners; flower stands require registration by
+  November 27.
 
 ### 5. 本渡楓 (Kaede Hondo) — Hong Kong Fan Meeting 2026
 - **artist:** Kaede Hondo (本渡楓)
@@ -140,5 +142,13 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **YOASOBI** — "Asia 10-City Dome & Stadium Tour 2026-27" includes a Hong Kong
   stop, but no date or venue has been officially confirmed. `status: verifying`.
   Source: https://timable.com/hk/zh/event/692d050b67fc5f31050747f6/
+
+## Verification notes — October 23
+
+- Rechecked Miku Ito's official promoter page, Eriko Nakamura's art-mate ticket
+  page, and kurayamisaka's official schedule and organizer listing.
+- No additional December events were verified in this sweep. Ticketflap/Neon Lit
+  challenges, UUTIX timeouts, and Kaede Hondo's unavailable promoter page prevented
+  a full ticket-availability recheck; unchanged details retain their earlier sources.
 
 _Re-check monthly per COLLECTION_PLAN.md cadence; update statuses rather than deleting._

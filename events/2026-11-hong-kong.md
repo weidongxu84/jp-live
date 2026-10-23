@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, November 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-10-13.
+Last updated: 2026-10-23.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **November 2026**.
@@ -13,7 +13,8 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **artist_type:** voice_actor (声優)
 - **event_title:** 声々流転Vol.6 天野聡美 香港ファンミーティング
 - **date:** 2026-11-01 (Sun)
-- **time:** Doors 12:30 / start 13:00 (HKT)
+- **time:** Agency lists doors 12:30 / start 13:00; art-mate lists start 14:30
+  (HKT). Conflicting sources; confirm with the organizer before attending.
 - **venue:** Sun Fook Kee Yu Garden, 2/F, Holiday Inn Express Hong Kong Causeway
   Bay, Causeway Bay, Hong Kong Island
 - **city:** Hong Kong
@@ -23,7 +24,9 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://www.ticketflap.com/ssbxvol6 (official ticketing)
   - https://www.art-mate.net/doc/100888 (listing, corroboration)
 - **status:** on_sale
-- **notes:** Volume 6 of the 声々流転 fan-meeting series.
+- **notes:** Volume 6 of the 声々流転 fan-meeting series. The agency and art-mate
+  still disagree on the start time as of October 23; Ticketflap could not be read
+  because of its browser challenge.
 
 ### 2. 安齋由香里 (Yukari Anzai) — 2026 Hong Kong Fan Meeting
 - **artist:** Yukari Anzai (安齋由香里)
@@ -216,13 +219,15 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **artist_type:** singer
 - **event_title:** TOMONARI SORA LIVE in HONG KONG
 - **date:** 2026-11-08 (Sun)
-- **time:** Start 20:00 (HKT); doors TBA
+- **time:** Doors 19:30 / start 20:00 (HKT)
 - **venue:** MOM Livehouse, Unit B39, 7 Seas Shopping Centre, 117-121 King's Road,
   North Point, Hong Kong Island
 - **city:** Hong Kong
 - **ticket_info:** SVIP HK$798 / VIP HK$598 / GA HK$498 / early-bird GA HK$398,
   all standing, plus HK$12 UUTIX fee. Public sale began 2026-08-01 14:00 HKT.
-- **source:** https://www.uutix.com/detail?pId=3838 (ticketing)
+- **source:**
+  - https://www.uutix.com/detail?pId=3838 (ticketing)
+  - https://hopestar.biz/shop/tomonarisora26/ (official promoter / ticketing)
 - **status:** on_sale
 - **notes:** Electronic tickets; maximum three tickets per account and transaction.
 
@@ -230,12 +235,13 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **artist:** betcover!!
 - **artist_type:** band (indie rock)
 - **event_title:** betcover!! "new portrait tour" in Hong Kong
-- **date:** 2026-11-08 (Sun)
+- **date:** 2026-11-08 (Sun), 2026-11-09 (Mon; added show)
 - **time:** Start 20:00 (HKT); doors TBA
 - **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
 - **city:** Hong Kong
 - **ticket_info:** HK$450, all standing, plus HK$12 KKTIX booking fee. Public sale
-  began 2026-09-25 11:00 HKT.
+  began 2026-09-25 11:00 HKT for the original show; added-show tickets went on
+  sale 2026-10-08 11:00 HKT.
 - **source:**
   - https://www.instagram.com/p/DaNEw-py8sX/ (official band tour announcement)
   - https://domi.kktix.cc/events/betcover-hk-2026 (ticketing)
@@ -244,25 +250,9 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Hong Kong stop of the band's Japan/Australia/Hong Kong tour. The touring
   lineup is Jiro Yanase, Riki Hidaka, Umi Ogimi, Tsukasa Shirase, and Romantic.
+  The November 9 performance is now listed on the official KKTIX page.
 
-### 14. 堀海登 (Kaito Hori) — Hong Kong Fan Meeting
-- **artist:** Kaito Hori (堀海登)
-- **artist_type:** actor
-- **event_title:** 堀海登 香港粉絲見面會
-- **date:** 2026-11-14 (Sat)
-- **time:** Session 1 doors 11:00 / start 12:00; Session 2 doors 16:00 / start
-  17:00 (HKT)
-- **venue:** Ballroom, Dorsett Tsuen Wan Hong Kong, Kwai Chung, New Territories
-- **city:** Hong Kong
-- **ticket_info:** SVIP HK$1,380 / VIP HK$1,080 / A-zone HK$880, reserved
-  seating. Benefits vary by tier and include combinations of group or two-shot
-  photos, autographs, hi-touch, and signed items. Maximum five tickets per
-  transaction; children under six are not admitted.
-- **source:** https://www.art-mate.net/doc/99554 (official ticketing)
-- **status:** on_sale
-- **notes:** Two fan-meeting sessions.
-
-### 15. 近藤玲奈 (Reina Kondo) — Hong Kong Fan Meeting 2026
+### 14. 近藤玲奈 (Reina Kondo) — Hong Kong Fan Meeting 2026
 - **artist:** Reina Kondo (近藤玲奈)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** 近藤玲奈 香港粉絲見面會 2026
@@ -280,7 +270,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Kondo's first Hong Kong fan meeting.
 
-### 16. 渋谷すばる (Subaru Shibutani) — 30th Anniversary Asia Tour 2026 in Hong Kong
+### 15. 渋谷すばる (Subaru Shibutani) — 30th Anniversary Asia Tour 2026 in Hong Kong
 - **artist:** Subaru Shibutani (渋谷すばる)
 - **artist_type:** singer
 - **event_title:** Subaru Shibutani 30th Anniversary Asia Tour 2026 in Hong Kong
@@ -298,7 +288,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Passport-name details are required for ticketing and entry verification.
 
-### 17. AKASAKI — 1st World Tour "ONIGIRI" in Hong Kong [Cancelled]
+### 16. AKASAKI — 1st World Tour "ONIGIRI" in Hong Kong [Cancelled]
 - **artist:** AKASAKI
 - **artist_type:** singer
 - **event_title:** AKASAKI 1st World Tour "ONIGIRI" in Hong Kong
@@ -315,7 +305,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** NEON LIT MUSIC cancelled the entire "ONIGIRI" world tour on 2026-08-13,
   citing force-majeure circumstances within the company.
 
-### 18. 愛美 (Aimi) — ASIA TOUR 2026 "STAR RISING" in Hong Kong
+### 17. 愛美 (Aimi) — ASIA TOUR 2026 "STAR RISING" in Hong Kong
 - **artist:** Aimi (愛美)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** AIMI ASIA TOUR 2026 "STAR RISING" in Hong Kong
@@ -323,7 +313,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **time:** Doors 16:00 / start 17:00 (HKT)
 - **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** SVIP HK$1,080 / VIP HK$780 / GA HK$580. Public sale begins
+- **ticket_info:** SVIP HK$1,080 / VIP HK$780 / GA HK$580. Public sale began
   2026-08-28 18:00 HKT via KKTIX, Ctrip, and Trip.com. SVIP includes priority entry,
   a card handover, and an acrylic keychain; VIP includes a send-off and keychain.
 - **source:**
@@ -335,7 +325,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Aimi's first Hong Kong solo concert, supporting the EP *AIM STAR*.
   Voice roles include Kasumi Toyama in *BanG Dream!*.
 
-### 19. しゅーず (Shoose) — Live in Hong Kong 2026 “Signal”
+### 18. しゅーず (Shoose) — Live in Hong Kong 2026 “Signal”
 - **artist:** Shoose (しゅーず)
 - **artist_type:** singer (utaite)
 - **event_title:** Shoose Live in Hong Kong 2026 “Signal”
@@ -350,7 +340,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong solo concert. These details supersede the preliminary
   November 28 / Y Theatre announcement.
 
-### 20. 梶浦由記 (Yuki Kajiura) — LIVE vol.#22 in Hong Kong
+### 19. 梶浦由記 (Yuki Kajiura) — LIVE vol.#22 in Hong Kong
 - **artist:** Yuki Kajiura (梶浦由記)
 - **artist_type:** band (composer/pianist-led vocal and instrumental ensemble)
 - **event_title:** Yuki Kajiura LIVE vol.#22 ～precious pieces～ SPECIAL SETLIST in Asia
@@ -371,8 +361,10 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Hong Kong stop of the Taipei, Hong Kong, Seoul, and Singapore Asia run.
   Performers include vocalists KAORI, YURIKO KAIDA, Joelle, LINO LEIA, and EMIKO,
   with the Front Band Members. Real-name ticketing and ID checks apply.
+  The promoter's October 19 guidance requires flower-stand registration by
+  November 6; gifts and letters must be left at the organizer's collection point.
 
-### 21. 佐々木李子 (Rico Sasaki) — Hong Kong Fan Meeting 2026
+### 20. 佐々木李子 (Rico Sasaki) — Hong Kong Fan Meeting 2026
 - **artist:** Rico Sasaki (佐々木李子)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Sasaki Rico Hong Kong Fanmeeting 2026 ～香港・李好～
@@ -387,7 +379,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Real-name ticketing; the attendee name must match the purchaser's
   registration. Organizer contact: hello@pineapplestudio.top.
 
-### 22. 大熊和奏 (Wakana Ookuma) / Spileben — LIVE in Hong Kong
+### 21. 大熊和奏 (Wakana Ookuma) / Spileben — LIVE in Hong Kong
 - **artist:** Spileben (Wakana Ookuma / 大熊和奏)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Spileben LIVE in Hong Kong
@@ -407,21 +399,41 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   voices Shiki Wakana in *Love Live! Superstar!!* and performs as part of AiScReam.
   Organizer: MIACO PLUS. Ticket and benefit details will be announced later.
 
-### 23. 吉森信 (Makoto Yoshimori) Trio — Live in Hong Kong 2026
+### 22. 吉森信 (Makoto Yoshimori) Trio — Live in Hong Kong 2026
 - **artist:** Makoto Yoshimori (吉森信), Shinya Fukumori (福盛進也), and
   Koichiro Muroya (室屋光一郎)
 - **artist_type:** band (composer-led piano trio)
 - **event_title:** Makoto Yoshimori Trio Live in Hong Kong 2026
 - **date:** 2026-11-21 (Sat)
 - **time:** Doors 19:00 / start 19:30 (HKT)
-- **venue:** Y Theatre, Youth Square, 238 Chai Wan Road, Chai Wan, Hong Kong Island
+- **venue:** Y Studio, Youth Square, 238 Chai Wan Road, Chai Wan, Hong Kong Island
 - **city:** Hong Kong
 - **ticket_info:** HK$488 via Hope Star.
 - **source:** https://hopestar.biz/shop/makotoyoshimori26/ (official ticketing / promoter)
 - **status:** on_sale
 - **notes:** First Hong Kong performance by the trio. The program features music by
   composer and pianist Yoshimori, known for *Natsume's Book of Friends*, *Durarara!!*,
-  and *Baccano!*, with drummer Fukumori and violinist Muroya.
+  and *Baccano!*, with drummer Fukumori and violinist Muroya. Venue corrected
+  from Y Theatre to Y Studio to match the official promoter page.
+
+### 23. 湊みや (Miya Minato) — Hong Kong Fan Meeting
+- **artist:** Miya Minato (湊みや)
+- **artist_type:** voice_actor
+- **event_title:** 湊みや 香港粉絲見面會
+- **date:** 2026-11-22 (Sun)
+- **time:** Session 1 doors 11:30 / start 12:00; Session 2 doors 15:30 / start
+  16:00 (HKT)
+- **venue:** P'Artiste, 38 Nelson Street, Mong Kok, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$880 (personalized signed-shikishi handover and send-off) /
+  GA HK$480 (send-off). Sale from 2026-10-22 via ZAIKO.
+- **source:**
+  - https://cosmospro.zaiko.io/zh-hant/e/minatohkfm (official ticketing)
+  - https://acgevent.com/archives/40208 (ACG media, corroboration)
+- **status:** on_sale
+- **notes:** Two sessions for the voice actor of Sumika Shiun in *Gakuen
+  Idolmaster*. Personalized shikishi are signed in advance and handed over at
+  the send-off.
 
 ### 24. 米澤茜 (Akane Yonezawa) — "Black Pasta" TOUR in Hong Kong
 - **artist:** Akane Yonezawa (米澤茜)
@@ -485,7 +497,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **time:** Start 20:00 (HKT)
 - **venue:** Hall 10, AsiaWorld-Expo, 1 Airport Expo Boulevard, Chek Lap Kok
 - **city:** Hong Kong
-- **ticket_info:** HK$980 / HK$1,280 / HK$1,480 / HK$1,680. Public sale begins
+- **ticket_info:** HK$980 / HK$1,280 / HK$1,480 / HK$1,680. Public sale began
   2026-08-07 12:00 HKT via KKTIX.
 - **source:**
   - https://asiaworld-expo.kktix.cc/events/yuurihk2026 (ticketing)
@@ -544,7 +556,29 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Ieiri's first Hong Kong concert. The matinee was added after the evening
   sold out. A designated photography segment is permitted; recording is prohibited.
 
-### 31. fhána — 15th Anniversary Tour 2026 “Worldlines” in Hong Kong
+### 31. ゆかな (Yukana) — Sub-Cult Xpo 04 Fan Meeting
+- **artist:** Yukana (ゆかな)
+- **artist_type:** voice_actor
+- **event_title:** Sub-Cult Xpo 04 ゆかな聲優香港見面會
+- **date:** 2026-11-29 (Sun)
+- **time:** Stage meeting 13:00-14:00; autograph session 16:00 (HKT).
+  Exhibition opens 12:00; VIP admission from 11:00.
+- **venue:** Grand Hall, Building 12W, Hong Kong Science Park Phase 3, Sha Tin,
+  New Territories; autograph session in Function Hall
+- **city:** Hong Kong
+- **ticket_info:** Reported HK$580 package includes exhibition admission,
+  autograph voucher, priority stage area, and fast-track pass. Reported sale:
+  2026-10-30 10:00 HKT via art-mate; direct ticket-page URL not yet verified.
+- **source:**
+  - https://acgevent.com/archives/40190 (ACG media)
+  - https://www.facebook.com/subcultxpo/ (organizer; public profile confirms event date only)
+  - https://doujinark.hk/event/info/456 (community calendar, event date corroboration)
+- **status:** announced
+- **notes:** Yukana's appearance, session times, and package details are currently
+  supported by ACGEvent only; primary-source verification is pending. The
+  organizer's full social feed could not be read.
+
+### 32. fhána — 15th Anniversary Tour 2026 “Worldlines” in Hong Kong
 - **artist:** fhána
 - **artist_type:** band (anisong)
 - **event_title:** fhána 15th Anniversary Tour 2026 “Worldlines” in HongKong
@@ -564,7 +598,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Hong Kong band meheme is the support act.
 
-### 32. Joji — SOLARIS Tour in Hong Kong
+### 33. Joji — SOLARIS Tour in Hong Kong
 - **artist:** Joji (George Kusunoki Miller / ジョージ・楠木・ミラー)
 - **artist_type:** singer (Japanese-Australian singer-songwriter / producer)
 - **event_title:** JOJI: SOLARIS
@@ -587,5 +621,22 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 ## Watchlist
 
 No additional November listings meet the project verification standard yet.
+
+## Out of scope
+
+- **Kaito Hori (堀海登), November 14** — moved out of the calendar: the official
+  ticket page describes an actor/professional mahjong player, not an in-scope
+  singer, band, or voice actor. Source: https://www.art-mate.net/doc/99554.
+
+## Verification notes — October 23
+
+- Rechecked ED Production/KKTIX, Hope Star, art-mate, ACGEvent, and Spileben's
+  official schedule. Spileben still lists ticket/benefit details as forthcoming.
+- Ticketflap/Neon Lit returned browser challenges; several UUTIX pages timed out,
+  and promoter social feeds were inaccessible. Existing availability and benefits
+  are retained unless a readable source supports a change.
+- Satomi Amano's conflicting times remain unresolved; Yukana stays `announced`
+  until an official appearance announcement or ticket page is verified.
+- Rico Sasaki's rendered UUTIX page still shows sold out.
 
 _Re-check monthly per COLLECTION_PLAN.md cadence; update statuses rather than deleting._

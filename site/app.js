@@ -4,6 +4,7 @@ const sources = [
   { file: "2026-12-hong-kong.md", id: "december", label: "December 2026", year: 2026, month: 12 },
   { file: "2027-01-hong-kong.md", id: "january", label: "January 2027", year: 2027, month: 1 },
   { file: "2027-02-hong-kong.md", id: "february", label: "February 2027", year: 2027, month: 2 },
+  { file: "2027-03-hong-kong.md", id: "march", label: "March 2027", year: 2027, month: 3 },
 ];
 
 const text = (value) => value.replace(/\s+/g, " ").trim();
@@ -104,7 +105,9 @@ async function loadSite() {
     document.querySelector("#event-count").textContent = count;
     target.innerHTML = pages.map((page) => `<section id="${page.id}" class="month month--list">
       <div class="month-heading"><h2>${page.label}</h2><span class="data-updated">Data updated: ${page.updated}</span></div>
-      <div class="event-grid">${page.events.map(eventCard).join("")}</div>
+      ${page.events.length
+        ? `<div class="event-grid">${page.events.map(eventCard).join("")}</div>`
+        : "<p>No source-backed events have been identified yet.</p>"}
     </section>${calendarMonth(page)}`).join("");
     status.textContent = failed.length
       ? `Could not load ${failed.join(", ")}. ${pages.length ? "Other months are shown." : "Please try again shortly."}`

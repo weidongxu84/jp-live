@@ -1,6 +1,6 @@
 # JP Live HK
 
-A source-backed calendar of Japanese singers, bands, and voice actors performing in Hong Kong. The current collection covers October 2026 through February 2027, with all times in HKT (UTC+8).
+A source-backed calendar of Japanese singers, bands, and voice actors performing in Hong Kong. The current collection covers October 2026 through March 2027, with all times in HKT (UTC+8).
 
 ## Website
 
@@ -18,9 +18,15 @@ Each monthly section displays the data file's own update date. Event data remain
 - [December 2026 events](events/2026-12-hong-kong.md)
 - [January 2027 events](events/2027-01-hong-kong.md)
 - [February 2027 events](events/2027-02-hong-kong.md)
+- [March 2027 events](events/2027-03-hong-kong.md)
 - [Collection plan](COLLECTION_PLAN.md)
 
 Listings link to official artist, promoter, venue, or ticketing sources where possible. Confirm current time, availability, and ticket terms with the linked source before buying tickets or travelling.
+
+The October 23 refresh adds Miya Minato, Yukana (awaiting primary-source verification),
+and MYTH & ROID, plus updated milet tickets and betcover!!'s added date. No source-backed
+February or March events were found in this sweep. Monthly verification notes record
+access gaps; unchanged ticket availability is not a fresh inventory guarantee.
 
 ## Publishing changes
 
