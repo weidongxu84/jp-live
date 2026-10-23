@@ -1,5 +1,4 @@
 const sources = [
-  { file: "2026-10-hong-kong.md", id: "october", label: "October 2026", year: 2026, month: 10 },
   { file: "2026-11-hong-kong.md", id: "november", label: "November 2026", year: 2026, month: 11 },
   { file: "2026-12-hong-kong.md", id: "december", label: "December 2026", year: 2026, month: 12 },
   { file: "2027-01-hong-kong.md", id: "january", label: "January 2027", year: 2027, month: 1 },

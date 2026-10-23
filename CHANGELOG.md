@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Archived October 2026 at the user's request; active coverage starts in November.
 - Refreshed active listings on October 23 and extended coverage through March 2027.
 - Added Miya Minato, Yukana (announced), and MYTH & ROID; updated milet tickets,
   betcover!!'s added date, and Makoto Yoshimori Trio's venue.
