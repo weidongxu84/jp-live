@@ -117,11 +117,11 @@ Discover (search sources)
 
 ### Step 1 — Discover
 Run periodic searches across the sources in Section 1. Useful query patterns:
-- `"<artist>" 香港 2026`, `"<artist>" Hong Kong live 2026`
-- `<artist> 海外公演 / アジアツアー / Asia tour 2026`
+- `"<artist>" 香港 2027`, `"<artist>" Hong Kong live 2027`
+- `<artist> 海外公演 / アジアツアー / Asia tour 2027`
 - `香港 <artist> concert / live / ファンミ`
 - **Search by anime IP, not just artist** — for currently-airing/hot works, search the
-  franchise + `香港`/`Hong Kong` (e.g. `ガールズバンドクライ 香港 2026`,
+  franchise + `香港`/`Hong Kong` (e.g. `ガールズバンドクライ 香港 2027`,
   `Girls Band Cry Togenashi Togeari Hong Kong`). Announcements are often framed around
   the anime, and the band/seiyuu name alone can miss them.
 - Venue calendars filtered to the target month.

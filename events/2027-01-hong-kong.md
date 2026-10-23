@@ -8,7 +8,29 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 
 ## Confirmed events
 
-### 1. 藍井エイル (Eir Aoi) — LIVE TOUR 2026-2027 “UNBOUND”
+### 1. MyGO!!!!! — 9th LIVE「つなぎ目の向こうに」- 香港還想編 -
+- **artist:** MyGO!!!!! (BanG Dream!)
+- **artist_type:** band
+- **event_title:** MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 香港還想編 -
+- **date:** 2027-01-03 (Sun)
+- **time:** Start 19:00 (HKT; planned); doors TBA
+- **venue:** Hall 5, AsiaWorld-Expo, 1 Airport Expo Boulevard, Chek Lap Kok
+- **city:** Hong Kong
+- **ticket_info:** Real-name ticket lottery registration runs 2026-11-04 12:00
+  through 2026-11-08 23:59 HKT. Prices and ticketing-platform link TBA.
+  Registration requires each attendee's name and document number: identity card
+  for Hong Kong/Macau residents, Exit-Entry Permit for Travelling to and from
+  Hong Kong and Macau for mainland China residents, or passport for overseas
+  residents.
+- **source:**
+  - https://bang-dream.com/events/mygo_9th_hongkong/ (official event announcement)
+  - https://www.eventernote.com/events/497580 (JP live database, corroboration)
+- **status:** confirmed
+- **notes:** Organizers: EUPHORIC PRODUCTION HK and Neon Lit Music; special
+  cooperation: Bushiroad Music. Lottery registration has not started as of
+  October 23. The official start time is provisional.
+
+### 2. 藍井エイル (Eir Aoi) — LIVE TOUR 2026-2027 “UNBOUND”
 - **artist:** Eir Aoi (藍井エイル)
 - **artist_type:** singer (anisong)
 - **event_title:** EIR AOI LIVE TOUR 2026-2027 “UNBOUND” in HONG KONG
@@ -27,7 +49,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   2027-02-13 at Zepp Taipei, which may explain February listings in some searches.
   Organizer: NEON LIT.
 
-### 2. MYTH & ROID — Tour 2026-2027 “I know your fire” in Hong Kong
+### 3. MYTH & ROID — Tour 2026-2027 “I know your fire” in Hong Kong
 - **artist:** MYTH & ROID (Tom-H@ck and KIHOW)
 - **artist_type:** band
 - **event_title:** MYTH & ROID Tour 2026-2027 “I know your fire” in Hong Kong
@@ -46,7 +68,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Public sale has not started as of October 23. If VIP tickets sell out
   in the lottery, none will be offered in public sale. Organizer: ED Production.
 
-### 3. milet — Asia Tour 2027 in Hong Kong
+### 4. milet — Asia Tour 2027 in Hong Kong
 - **artist:** milet
 - **artist_type:** singer
 - **event_title:** milet Asia Tour 2027 in Hong Kong
@@ -70,6 +92,8 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 
 ## Verification notes — October 23
 
+- Added MyGO!!!!! after checking BanG Dream!'s official announcement against
+  eventernote: January 3, Hall 5, planned start 19:00; lottery November 4-8.
 - Eir Aoi's official tour schedule and art-mate listing still agree on January 9
   at TIDES. MYTH & ROID's promoter confirms January 14 at 20:00.
 - milet's organizer listing supplies the newly published prices, time, and sale
