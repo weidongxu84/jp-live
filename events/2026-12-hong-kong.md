@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, December 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-10-23.
+Last updated: 2026-11-03.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **December 2026**.
@@ -41,7 +41,29 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Two fan-meeting sessions.
 
-### 3. 中村繪里子 (Eriko Nakamura) — Fan Meeting “ON AIR” in Hong Kong
+### 3. 新田恵海 (Emi Nitta) — “Emoment” Hong Kong Birthday Fan Meeting
+- **artist:** Emi Nitta (新田恵海 / 新田惠海)
+- **artist_type:** voice_actor (声優 / singer)
+- **event_title:** 新田惠海 “Emoment” 香港生日見面會
+- **date:** 2026-12-12 (Sat)
+- **time:** Matinee start 12:30; evening start 18:30 (HKT), approximately
+  90 minutes each; doors TBA
+- **venue:** The Wave, 8/F, 4 Hing Yip Street, Kwun Tong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** SVIP HK$1,280 / VIP HK$880 / GA HK$680; two-session bundles
+  SVIP HK$2,304 / VIP HK$1,584. Public sale began 2026-10-29 15:00 HKT via
+  POPTICKET. Seated by ticket zone, with unnumbered seats and entry-order seating.
+  SVIP/VIP include a one-to-one phone photo and signed birthday poster; SVIP
+  adds a birthday party and group photo.
+- **source:**
+  - https://emi-nitta.net/contents/1121585 (official artist announcement)
+  - https://www.popticket.hk/event/emi-nitta-emoment (official ticketing)
+- **status:** on_sale
+- **notes:** First solo Hong Kong fan meeting. Organizer: Full Fun Entertainment.
+  The artist lists the sale time as 16:00 JST, equivalent to 15:00 HKT.
+  Live ticket inventory was not independently checked.
+
+### 4. 中村繪里子 (Eriko Nakamura) — Fan Meeting “ON AIR” in Hong Kong
 - **artist:** Eriko Nakamura (中村繪里子)
 - **artist_type:** voice_actor (声優)
 - **event_title:** 中村繪里子粉絲見面會～ON AIR～ in香港【中村老師的校內廣播】
@@ -58,7 +80,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Two sessions; children under three are not admitted.
 
-### 4. 伊藤美来 (Miku Ito) — 10th Anniversary Live Tour “39rpm”
+### 5. 伊藤美来 (Miku Ito) — 10th Anniversary Live Tour “39rpm”
 - **artist:** Miku Ito (伊藤美来)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** ITO MIKU 10th ANNIVERSARY LIVE TOUR “39rpm” IN HONG KONG
@@ -79,7 +101,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   letters only, not gifts or banners; flower stands require registration by
   November 27.
 
-### 5. 本渡楓 (Kaede Hondo) — Hong Kong Fan Meeting 2026
+### 6. 本渡楓 (Kaede Hondo) — Hong Kong Fan Meeting 2026
 - **artist:** Kaede Hondo (本渡楓)
 - **artist_type:** voice_actor (声優)
 - **event_title:** Voice Stars 01－本渡楓香港見面會2026
@@ -100,13 +122,54 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First event in Monster King Entertainment's “Voice Stars” seiyuu
   fan-meeting series.
 
-### 6. She Her Her Hers — Special Live in Hong Kong 2026
+### 7. EMNW — Live in Hong Kong 2026
+- **artist:** EMNW (えむにゅー; Emma and Menu)
+- **artist_type:** band (nu-metal / rap-rock vocal duo)
+- **event_title:** EMNW LIVE IN HONG KONG 2026
+- **date:** 2026-12-17 (Thu)
+- **time:** Doors 19:00 / start 20:00 (HKT)
+- **venue:** Chamame Livehouse, Unit A, 1/F, Boton Technology Innovation Tower,
+  368 Kwun Tong Road, Ngau Tau Kok, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$800 / GA HK$500 via Neon Lit / Ticketflap. The artist
+  states both tiers include one drink. VIP includes a post-show two-shot photo,
+  VIP pass, priority entry, and signed poster. On-sale date not verified.
+- **source:**
+  - https://emnw.jp/live/%e9%a6%99%e6%b8%af%ef%bd%9cemnw-live-in-hong-kong-2026/ (official artist schedule)
+  - https://www.tickets.neon-lit.com/zh-hant/emnw-2026 (official ticketing; indexed details)
+- **status:** on_sale
+- **notes:** Organizers: NEON LIT and ZUK PRODUCTION. Ticketing's indexed terms
+  specify standing admission for ages 12+ and height >=140 cm. The live ticketing
+  page returned a browser challenge, so current inventory could not be checked.
+
+### 8. 柏大輔 (KASHIWA Daisuke) — Live in Hong Kong 2026 (Band Set)
+- **artist:** KASHIWA Daisuke (柏大輔), band set
+- **artist_type:** band (composer-led instrumental ensemble)
+- **event_title:** KASHIWA Daisuke LIVE IN HONG KONG 2026 (Band Set)
+- **date:** 2026-12-17 (Thu)
+- **time:** TBA (HKT)
+- **venue:** MOM Livehouse, Unit B39, 7 Seas Shopping Centre, 117-121 King's Road,
+  North Point, Hong Kong Island
+- **city:** Hong Kong
+- **ticket_info:** Reported student HK$380 / advance HK$480 / door HK$580 via
+  Zenegeist. Direct event ticket URL and current availability not verified.
+- **source:**
+  - https://timable.com/hk/en/event/6ac5b5dc9bb0baabc320341c/ (listing)
+  - https://gowheretoday.com/en/events/5181/kashiwa-daisuke-live-in-hong-kong-2026 (listing, corroboration)
+  - https://www.zenegeist.com/ (reported ticketing platform; returned HTTP 403)
+- **status:** announced
+- **notes:** Secondary-source lead pending primary confirmation. Listed as a full-band
+  performance with Hong Kong instrumental band 0.4 supporting. Included for the
+  band-set format, not as a solo instrumental recital.
+
+### 9. She Her Her Hers — Special Live in Hong Kong 2026
 - **artist:** She Her Her Hers
 - **artist_type:** band (dream pop / shoegaze / electronic)
 - **event_title:** She Her Her Hers Special Live in Hong Kong 2026 "明日將至" —
   Miles for Tomorrow's Sun —
 - **date:** 2026-12-20 (Sun)
-- **time:** VIP doors 18:00 / GA doors 18:30 / start 19:00 (HKT)
+- **time:** VIP doors 18:00 / GA doors 18:20 / start 19:00 (HKT);
+  subject to organizer adjustments
 - **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
 - **ticket_info:** VIP HK$980 (priority entry, post-show group photo, personalized
@@ -119,7 +182,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** One-night special concert themed around keyboardist Tomasong's "Miles
   for Tomorrow's Sun" project. Attendees under 16 must be accompanied by an adult.
 
-### 7. kurayamisaka — "kurayamisaka tte, doko? #9" Tour in Hong Kong
+### 10. kurayamisaka — "kurayamisaka tte, doko? #9" Tour in Hong Kong
 - **artist:** kurayamisaka
 - **artist_type:** band (alternative rock / shoegaze)
 - **event_title:** kurayamisaka tte, doko? #9 Tour to Greet the End of Summer – Hong Kong
@@ -142,6 +205,19 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **YOASOBI** — "Asia 10-City Dome & Stadium Tour 2026-27" includes a Hong Kong
   stop, but no date or venue has been officially confirmed. `status: verifying`.
   Source: https://timable.com/hk/zh/event/692d050b67fc5f31050747f6/
+
+## Verification notes — November 3
+
+- Added Emi Nitta using her official announcement and POPTICKET; converted the
+  Japanese sale time to HKT. Added EMNW from its official artist schedule and
+  indexed ticketing details.
+- Recorded KASHIWA Daisuke's band-set show as `announced`, not confirmed:
+  the reported Zenegeist ticket platform returned HTTP 403.
+- ED Production's schedule and KKTIX still list Miku Ito's December 12 show.
+  Ticketflap's indexed She Her Her Hers page specifies GA doors 18:20, correcting
+  the previous 18:30; the live page remains challenge-blocked.
+- Current ticket inventory was not independently verified. Other unchanged
+  listings retain their earlier sources.
 
 ## Verification notes — October 23
 

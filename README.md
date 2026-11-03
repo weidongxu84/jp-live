@@ -23,10 +23,11 @@ Each monthly section displays the data file's own update date. Event data remain
 
 Listings link to official artist, promoter, venue, or ticketing sources where possible. Confirm current time, availability, and ticket terms with the linked source before buying tickets or travelling.
 
-The October 23 refresh adds Miya Minato, Yukana (awaiting primary-source verification),
-and MYTH & ROID, plus updated milet tickets and betcover!!'s added date. No source-backed
-February or March events were found in this sweep. Monthly verification notes record
-access gaps; unchanged ticket availability is not a fresh inventory guarantee.
+The November 3 refresh adds Emi Nitta, EMNW, MONO NO AWARE, and HOTEI, plus
+KASHIWA Daisuke and Spileben's reported replacement as unverified announcements.
+Yuki Kajiura is sold out; MYTH & ROID has entered public sale. No qualifying February
+event was verified. Monthly notes record access gaps and Spileben's reported
+postponement; unchanged ticket availability is not a fresh inventory guarantee.
 
 ## Publishing changes
 

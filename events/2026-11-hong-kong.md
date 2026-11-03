@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, November 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-10-23.
+Last updated: 2026-11-03.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **November 2026**.
@@ -351,13 +351,15 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **ticket_info:** VIP HK$1,580 / HK$1,380 / HK$1,180, all reserved seating, via
   KKTIX. Public sale began 2026-09-17 12:00 HKT. VIP priority applications ran
   2026-09-08 through 2026-09-10 and include a front-floor seat and signed pass.
+  Sold out according to the promoter's schedule, checked November 3.
 - **source:**
   - https://fictionjunction.com/live/13125/ (official tour announcement)
   - https://edproduction.kktix.cc/events/yuki-kajiura-hk-2026 (ticketing)
   - https://www.ed-production.com.hk/yuki-kajiura-live-vol22-in-hk (official promoter / ticket details)
+  - https://www.ed-production.com.hk/schedule (official promoter / sold-out notice)
   - https://x.com/YKajiura_staff/status/2085305128522072502 (official staff announcement)
   - https://x.com/edproductionhk/status/2085305024142581844 (official HK promoter announcement)
-- **status:** on_sale
+- **status:** sold_out
 - **notes:** Hong Kong stop of the Taipei, Hong Kong, Seoul, and Singapore Asia run.
   Performers include vocalists KAORI, YURIKO KAIDA, Joelle, LINO LEIA, and EMIKO,
   with the Front Band Members. Real-name ticketing and ID checks apply.
@@ -379,25 +381,35 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Real-name ticketing; the attendee name must match the purchaser's
   registration. Organizer contact: hello@pineapplestudio.top.
 
-### 21. 大熊和奏 (Wakana Ookuma) / Spileben — LIVE in Hong Kong
+### 21. 大熊和奏 (Wakana Ookuma) / Spileben — LIVE in Hong Kong [Postponement reported]
 - **artist:** Spileben (Wakana Ookuma / 大熊和奏)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Spileben LIVE in Hong Kong
 - **date:** 2026-11-21 (Sat)
-- **time:** Doors 16:00 / start 17:00 (HKT)
+- **time:** Postponement reported; originally doors 16:00 / start 17:00 (HKT).
+  Do not rely on the original schedule without organizer confirmation.
 - **venue:** Y Theatre, Youth Square, 238 Chai Wan Road, Chai Wan, Hong Kong Island
 - **city:** Hong Kong
 - **ticket_info:** Ticket prices, on-sale date, platform, and post-show benefits not
-  yet announced.
+  yet verified. Timable reports a replacement event on 2027-01-10 at PORTAL;
+  primary-source verification is pending.
 - **source:**
   - https://www.instagram.com/p/DbyMdyuCVaX/ (official local promoter announcement)
   - https://spileben.com/schedule/30112 (official artist schedule)
   - https://www.instagram.com/520stars_network/p/Db8wZSovaG8/ (listing, corroboration)
   - https://www.facebook.com/acgeventdotcom/posts/1505206431622163/ (ACG media, corroboration)
+  - https://www.eventernote.com/events/488303 (JP live database / postponement report)
+  - https://ugo-hk.com/concert/18574 (media / postponement report)
+  - https://x.com/spileben/status/2091827857672528171 (official post linked by eventernote; text inaccessible)
+  - https://timable.com/hk/en/event/6ae2e8161ede37ec9dd3bc5b/ (replacement-event report)
 - **status:** announced
 - **notes:** First overseas solo live for Ookuma's music project Spileben. Ookuma
   voices Shiki Wakana in *Love Live! Superstar!!* and performs as part of AiScReam.
-  Organizer: MIACO PLUS. Ticket and benefit details will be announced later.
+  Original organizer: MIACO PLUS. Eventernote and U GO mark this show postponed;
+  Timable reports January 10 at PORTAL, presented by Waku Waku Studio. The artist's
+  old schedule still lists November 21 and the linked official X post is unreadable.
+  Retained as `announced` pending primary-source confirmation of the change;
+  see the January entry for the reported replacement.
 
 ### 22. 吉森信 (Makoto Yoshimori) Trio — Live in Hong Kong 2026
 - **artist:** Makoto Yoshimori (吉森信), Shinya Fukumori (福盛進也), and
@@ -627,6 +639,18 @@ No additional November listings meet the project verification standard yet.
 - **Kaito Hori (堀海登), November 14** — moved out of the calendar: the official
   ticket page describes an actor/professional mahjong player, not an in-scope
   singer, band, or voice actor. Source: https://www.art-mate.net/doc/99554.
+
+## Verification notes — November 3
+
+- ED Production's schedule now marks Yuki Kajiura sold out; Cö shu Nie remains
+  listed as on public sale. Yuuri's KKTIX page still specifies Hall 10.
+- Flagged Spileben's reported postponement and January replacement without
+  treating secondary reports as primary confirmation.
+- Spileben's official schedule remains unchanged. Yukana's primary appearance
+  and ticket details remain unverified; promoter social feeds were login-gated
+  or inaccessible. Neon Lit/Ticketflap returned browser challenges.
+- November 1 listings are retained as historical announcements, not current
+  ticket-availability claims. Other unchanged details retain their earlier sources.
 
 ## Verification notes — October 23
 

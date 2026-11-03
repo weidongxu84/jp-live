@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, January 2027
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-10-23.
+Last updated: 2026-11-03.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **January 2027**.
@@ -28,7 +28,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** confirmed
 - **notes:** Organizers: EUPHORIC PRODUCTION HK and Neon Lit Music; special
   cooperation: Bushiroad Music. Lottery registration has not started as of
-  October 23. The official start time is provisional.
+  November 3. The official start time is provisional.
 
 ### 2. 藍井エイル (Eir Aoi) — LIVE TOUR 2026-2027 “UNBOUND”
 - **artist:** Eir Aoi (藍井エイル)
@@ -49,7 +49,27 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   2027-02-13 at Zepp Taipei, which may explain February listings in some searches.
   Organizer: NEON LIT.
 
-### 3. MYTH & ROID — Tour 2026-2027 “I know your fire” in Hong Kong
+### 3. 大熊和奏 (Wakana Ookuma) / Spileben — Special Event in Hong Kong
+- **artist:** Spileben (Wakana Ookuma / 大熊和奏)
+- **artist_type:** voice_actor (声優 / singer)
+- **event_title:** Spileben Special Event in Hong Kong
+- **date:** 2027-01-10 (Sun)
+- **time:** Reported matinee doors 12:00 / start 13:00; evening doors 17:30 /
+  start 18:30 (HKT)
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Prices, on-sale date, and ticketing platform TBA.
+  Reported replacement for the November 21 show; primary confirmation pending.
+- **source:**
+  - https://timable.com/hk/en/event/6ae2e8161ede37ec9dd3bc5b/ (replacement-event report)
+  - https://gowheretoday.com/en/events/5708/spileben-special-event-in-hong-kong-2027 (listing, corroboration)
+- **status:** announced
+- **notes:** Timable attributes the announcement to Waku Waku Studio and reports
+  that venue issues caused the earlier postponement. The artist's old November
+  schedule remains online; the primary replacement announcement was not readable.
+  Date, venue, sessions, and organizer require primary-source verification.
+
+### 4. MYTH & ROID — Tour 2026-2027 “I know your fire” in Hong Kong
 - **artist:** MYTH & ROID (Tom-H@ck and KIHOW)
 - **artist_type:** band
 - **event_title:** MYTH & ROID Tour 2026-2027 “I know your fire” in Hong Kong
@@ -57,18 +77,35 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **time:** Start 20:00 (HKT); doors TBA
 - **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** VIP HK$980 / GA HK$680, all standing. Public sale starts
-  2026-10-30 12:00 HKT via KKTIX; direct ticket-page link TBA. VIP lottery
-  applications ran October 16-18, with HK$40 handling fee per VIP ticket.
+- **ticket_info:** VIP HK$980 / GA HK$680, all standing, plus HK$32 handling fee
+  per public-sale ticket. Public sale began 2026-10-30 12:00 HKT via KKTIX.
+  VIP lottery applications ran October 16-18, with HK$40 handling fee per lottery ticket.
   VIP includes priority entry/viewing area, a pass, and a signed-postcard handover.
 - **source:**
   - https://www.ed-production.com.hk/myth-and-roid-tour-in-hk (official promoter)
+  - https://edproduction.kktix.cc/events/myth-roid-2027-hk (official ticketing)
   - https://acgevent.com/archives/40194 (ACG media, corroboration)
-- **status:** confirmed
-- **notes:** Public sale has not started as of October 23. If VIP tickets sell out
-  in the lottery, none will be offered in public sale. Organizer: ED Production.
+- **status:** on_sale
+- **notes:** Ages 12+; dynamic-QR electronic tickets via the KKTIX app.
+  Current availability of individual tiers was not independently checked.
+  Organizer: ED Production.
 
-### 4. milet — Asia Tour 2027 in Hong Kong
+### 5. MONO NO AWARE — “Passion Tour 2027” Live in Hong Kong
+- **artist:** MONO NO AWARE (物の哀れ)
+- **artist_type:** band (alternative rock)
+- **event_title:** DOMIPRODUCTION Present: Mono No Aware Passion Tour 2027 Live in Hong Kong
+- **date:** 2027-01-18 (Mon)
+- **time:** Doors 19:00 / start 20:00 (HKT)
+- **venue:** MOM Livehouse, Unit B39, 7 Seas Shopping Centre, 117-121 King's Road,
+  North Point, Hong Kong Island
+- **city:** Hong Kong
+- **ticket_info:** Advance HK$450 / door HK$500 via TickCats. Public sale began
+  2026-09-14 12:00 HKT; live inventory not independently checked.
+- **source:** https://tickcats.com/event/mono-no-aware (official ticketing / organizer)
+- **status:** on_sale
+- **notes:** First Hong Kong headline performance. Organizer: Domi Production.
+
+### 6. milet — Asia Tour 2027 in Hong Kong
 - **artist:** milet
 - **artist_type:** singer
 - **event_title:** milet Asia Tour 2027 in Hong Kong
@@ -89,6 +126,17 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Hong Kong date of milet's second Asia tour. Organizers listed by
   art-mate: Clockenflap, NEON LIT, and Sony Music Hong Kong.
+
+## Verification notes — November 3
+
+- BanG Dream!'s MyGO!!!!! page still lists January 3 and lottery registration
+  November 4-8; prices and a direct registration URL remain unpublished there.
+- Updated MYTH & ROID to `on_sale` from its readable KKTIX page, including the
+  public-sale fee and age restriction. Added MONO NO AWARE from TickCats.
+- Recorded Spileben's reported January 10 replacement as `announced` only;
+  primary-source verification remains pending.
+- Ticketing status describes published sales, not a guarantee of available
+  inventory. Other unchanged details retain their earlier sources.
 
 ## Verification notes — October 23
 

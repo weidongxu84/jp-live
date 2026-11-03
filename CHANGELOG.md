@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Refreshed November 2026-March 2027 data on November 3: added Emi Nitta, EMNW,
+  MONO NO AWARE, HOTEI, and unverified KASHIWA Daisuke/Spileben announcements.
+- Updated Yuki Kajiura to sold out, MYTH & ROID to on sale, She Her Her Hers'
+  GA entry time, and Spileben's reported postponement.
 - Added the officially confirmed MyGO!!!!! January 3, 2027 Hong Kong live.
 - Archived October 2026 at the user's request; active coverage starts in November.
 - Refreshed active listings on October 23 and extended coverage through March 2027.
