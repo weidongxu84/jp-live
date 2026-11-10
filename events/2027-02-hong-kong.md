@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, February 2027
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-11-03.
+Last updated: 2026-11-10.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **February 2027**.
@@ -9,6 +9,11 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 ## Confirmed events
 
 No source-backed events have been identified yet.
+
+## Verification notes — November 10
+
+- Rechecked Hong Kong listings, including EventCollection and ACGEvent. No
+  qualifying February date was verified; inaccessible promoter feeds limit coverage.
 
 ## Verification notes — November 3
 

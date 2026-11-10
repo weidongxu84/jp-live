@@ -98,7 +98,9 @@ ACG event-listing platforms** — poll these as the **primary discovery channel*
 - **art-mate.net** — HK arts/ACG listings (browse 音樂 / ACG categories),
 - **timable.com** — HK event calendar,
 - **ACGEvent.com** — HK ACG live-event news,
-- **shadowzo.com** — HK ACG news.
+- **shadowzo.com** — HK ACG news,
+- **hk.eventcollection.info** — Japanese-artist live and fan-meeting calendar;
+  verify its leads, ticket dates, and venues against official sources.
 
 **Second lesson (learned 2026-07):** shows in the `announced` state — date/venue set but
 tickets **not yet on sale** — are missed by ticketing-platform and general-web searches.

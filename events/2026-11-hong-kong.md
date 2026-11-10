@@ -1,7 +1,7 @@
 # Japanese Artist Lives — Hong Kong, November 2026
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-11-03.
+Last updated: 2026-11-10.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **November 2026**.
@@ -366,22 +366,67 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   The promoter's October 19 guidance requires flower-stand registration by
   November 6; gifts and letters must be left at the organizer's collection point.
 
-### 20. 佐々木李子 (Rico Sasaki) — Hong Kong Fan Meeting 2026
+### 20. WHITE SCORPION — One Man Live in Hong Kong
+- **artist:** WHITE SCORPION
+- **artist_type:** band (idol vocal group)
+- **event_title:** WHITE SCORPION One Man Live In Hong Kong 2026
+- **date:** 2026-11-20 (Fri)
+- **time:** Doors 18:30 / start 19:15 (HKT)
+- **venue:** P'Artiste, 38 Nelson Street, Mong Kok, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** VIP HK$980 / regular HK$320, plus HK$20 platform fee. Sale
+  began 2026-10-28 20:00 HKT via NonStop Hong Kong. VIP includes a signed
+  photo and a November 22 sightseeing bus tour with the members.
+- **source:**
+  - https://whitescorpion.jp/news/2026/10/27/11678/ (official artist)
+  - https://nonstophongkong.com/product/whitescorpion-oneman-20261120-vip/ (organizer / ticketing)
+- **status:** on_sale
+- **notes:** Post-show benefits session planned.
+
+### 21. WHITE SCORPION — NonStop Party In Nov!!!
+- **artist:** WHITE SCORPION
+- **artist_type:** band (idol vocal group)
+- **event_title:** NonStop Party In Nov!!!
+- **date:** 2026-11-21 (Sat)
+- **time:** Day doors 12:30 / start 13:00; night doors 17:30 / start 18:00 (HKT)
+- **venue:** P'Artiste, 38 Nelson Street, Mong Kok, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Per session: VIP HK$380 / regular HK$280. Two-session pass:
+  VIP HK$480 / regular HK$380. Standing, plus HK$20 platform fee; sale began
+  2026-10-29 20:00 HKT via NonStop Hong Kong.
+- **source:**
+  - https://whitescorpion.jp/news/2026/10/27/11679/ (official artist)
+  - https://nonstophongkong.com/product/nonstopparty-innov-20261121-night-vip/ (organizer / ticketing)
+- **status:** on_sale
+- **notes:** Joint live with ten Hong Kong acts. Night-session VIP tickets were
+  listed in stock on November 10; other tiers were not checked.
+
+### 22. 佐々木李子 (Rico Sasaki) — Hong Kong Fan Meeting 2026
 - **artist:** Rico Sasaki (佐々木李子)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Sasaki Rico Hong Kong Fanmeeting 2026 ～香港・李好～
 - **date:** 2026-11-21 (Sat)
-- **time:** Session 1 start 14:30; Session 2 start 19:00 (HKT); doors TBA
+- **time:** Session 1 start 14:30; Session 2 start 19:00 (HKT); doors TBA.
+  The organizer's returned-ticket selector shows conflicting session labels
+  and times.
 - **venue:** TIDES, Site 6, The Whampoa, 1 Tak On Street, Hung Hom, Kowloon
 - **city:** Hong Kong
-- **ticket_info:** HK$1,198 / HK$898 / HK$668 via UUTIX. Public sale began
-  2026-08-25 at 16:00 for Session 1 and 16:10 for Session 2; currently sold out.
-- **source:** https://www.uutix.com/detail?pId=3893 (ticketing)
-- **status:** sold_out
+- **ticket_info:** HK$1,198 / HK$898 / HK$668 via UUTIX and KKTIX. UUTIX
+  previously showed sold out. Original public sales began 2026-08-25 at 16:00
+  and 16:10 HKT for the two sessions. The organizer's HK$668 returned tickets,
+  released 2026-10-30, showed sold out for both sessions on November 10;
+  current KKTIX inventory could not be checked.
+- **source:**
+  - https://www.uutix.com/detail?pId=3893 (ticketing)
+  - https://cityvoice.kktix.cc/events/sasakirico-2026 (ticketing; session times)
+  - https://www.pineapplestudio.top/news/cmsxgflmy000312ovvhdosppv (official organizer)
+  - https://www.pineapplestudio.top/tickets/cmsybdxqi00091332eviugud9 (returned tickets)
+  - https://acgevent.com/archives/40413 (resale report)
+- **status:** confirmed
 - **notes:** Real-name ticketing; the attendee name must match the purchaser's
   registration. Organizer contact: hello@pineapplestudio.top.
 
-### 21. 大熊和奏 (Wakana Ookuma) / Spileben — LIVE in Hong Kong [Postponement reported]
+### 23. 大熊和奏 (Wakana Ookuma) / Spileben — LIVE in Hong Kong [Postponement reported]
 - **artist:** Spileben (Wakana Ookuma / 大熊和奏)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** Spileben LIVE in Hong Kong
@@ -402,16 +447,35 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   - https://ugo-hk.com/concert/18574 (media / postponement report)
   - https://x.com/spileben/status/2091827857672528171 (official post linked by eventernote; text inaccessible)
   - https://timable.com/hk/en/event/6ae2e8161ede37ec9dd3bc5b/ (replacement-event report)
+  - https://acgevent.com/archives/40421 (postponement and replacement report)
 - **status:** announced
 - **notes:** First overseas solo live for Ookuma's music project Spileben. Ookuma
   voices Shiki Wakana in *Love Live! Superstar!!* and performs as part of AiScReam.
-  Original organizer: MIACO PLUS. Eventernote and U GO mark this show postponed;
-  Timable reports January 10 at PORTAL, presented by Waku Waku Studio. The artist's
-  old schedule still lists November 21 and the linked official X post is unreadable.
-  Retained as `announced` pending primary-source confirmation of the change;
-  see the January entry for the reported replacement.
+  Original organizer: MIACO PLUS. Eventernote, U GO, and ACGEvent report a
+  postponement and January 10 replacement. The artist's old schedule still lists
+  November 21 and the linked official X post is unreadable. Status remains
+  `announced` pending primary confirmation; see the January entry for the
+  reported replacement.
 
-### 22. 吉森信 (Makoto Yoshimori) Trio — Live in Hong Kong 2026
+### 24. D'ESPAIRSRAY — LIVE 2026 RAPTURE in Hong Kong
+- **artist:** D'ESPAIRSRAY
+- **artist_type:** band (visual kei / rock)
+- **event_title:** D'ESPAIRSRAY LIVE 2026 RAPTURE in Hong Kong
+- **date:** 2026-11-21 (Sat)
+- **time:** Doors 18:15 / start 19:15 (HKT)
+- **venue:** PORTAL, 1/F, The Burrow, 212 Choi Hung Road, San Po Kong, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** Advance S HK$1,580 / A HK$880 / B HK$680 / student HK$580;
+  B and student door tickets HK$780 / HK$680. Standing, via TickCats. The
+  November 10 ticket selector showed S sold out and the other tiers selectable.
+- **source:**
+  - https://despairsray.com/schedules/117929 (official artist)
+  - https://despairsray.com/contents/424705 (official S-ticket update)
+  - https://tickcats.com/event/despairsray (official ticketing)
+- **status:** on_sale
+- **notes:** Student tickets require a valid full-time student ID.
+
+### 25. 吉森信 (Makoto Yoshimori) Trio — Live in Hong Kong 2026
 - **artist:** Makoto Yoshimori (吉森信), Shinya Fukumori (福盛進也), and
   Koichiro Muroya (室屋光一郎)
 - **artist_type:** band (composer-led piano trio)
@@ -428,7 +492,25 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   and *Baccano!*, with drummer Fukumori and violinist Muroya. Venue corrected
   from Y Theatre to Y Studio to match the official promoter page.
 
-### 23. 湊みや (Miya Minato) — Hong Kong Fan Meeting
+### 26. WHITE SCORPION — Fans Meeting 飲茶會
+- **artist:** WHITE SCORPION
+- **artist_type:** band (idol vocal group)
+- **event_title:** WHITE SCORPION Fans Meeting 飲茶會
+- **date:** 2026-11-22 (Sun)
+- **time:** Start 10:30 (HKT)
+- **venue:** Ocean Fortune Chinese Restaurant, Shop 126, 1/F, Metro Harbour
+  Plaza, 8 Fuk Lee Street, Tai Kok Tsui, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** HK$350 including dim sum, plus HK$20 platform fee. Sale runs
+  2026-10-28 20:00 through 2026-11-20 23:59 HKT via NonStop Hong Kong.
+- **source:**
+  - https://whitescorpion.jp/news/2026/10/27/11680/ (official artist)
+  - https://nonstophongkong.com/product/whitescorpion-fansmeeting-2026/ (organizer / ticketing)
+- **status:** on_sale
+- **notes:** Members-only event; membership is granted automatically on payment.
+  No tickets sold at the door.
+
+### 27. 湊みや (Miya Minato) — Hong Kong Fan Meeting
 - **artist:** Miya Minato (湊みや)
 - **artist_type:** voice_actor
 - **event_title:** 湊みや 香港粉絲見面會
@@ -447,7 +529,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   Idolmaster*. Personalized shikishi are signed in advance and handed over at
   the send-off.
 
-### 24. 米澤茜 (Akane Yonezawa) — "Black Pasta" TOUR in Hong Kong
+### 28. 米澤茜 (Akane Yonezawa) — "Black Pasta" TOUR in Hong Kong
 - **artist:** Akane Yonezawa (米澤茜)
 - **artist_type:** singer (drummer / voice_actor)
 - **event_title:** AKANE YONEZAWA "Black Pasta" TOUR in Hong Kong
@@ -466,7 +548,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong performance for the Japanese drummer, singer, and voice
   actor, appearing with a full band. Organizer: NEON LIT.
 
-### 25. BLU-SWING — “Across the Blue” World Tour 2026 in Hong Kong
+### 29. BLU-SWING — “Across the Blue” World Tour 2026 in Hong Kong
 - **artist:** BLU-SWING
 - **artist_type:** band (urban jazz / city pop)
 - **event_title:** BLU-SWING “Across the Blue” World Tour 2026 Live in Hong Kong
@@ -482,7 +564,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong headline show for the five-member Japanese urban-jazz
   band. Organizer: NEON LIT.
 
-### 26. Cö shu Nie — Live in Hong Kong "SATURATED IN MONOCHROME"
+### 30. Cö shu Nie — Live in Hong Kong "SATURATED IN MONOCHROME"
 - **artist:** Cö shu Nie
 - **artist_type:** band (experimental alternative rock / anisong)
 - **event_title:** Cö shu Nie Live in Hong Kong ~SATURATED IN MONOCHROME~
@@ -501,7 +583,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** First Hong Kong headline show and part of the band's first Asia tour.
   Ages 12+; dynamic-QR electronic tickets. Organizer: ED Production.
 
-### 27. 優里 (Yuuri) — LIVE 2026 IN HONG KONG
+### 31. 優里 (Yuuri) — LIVE 2026 IN HONG KONG
 - **artist:** Yuuri (優里)
 - **artist_type:** singer
 - **event_title:** YUURI LIVE 2026 IN HONG KONG
@@ -517,7 +599,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Promoted by APPLEWOOD / MOONRAKER.
 
-### 28. 反田葉月 (Tanda Hazuki) — Fan Meeting in Hong Kong
+### 32. 反田葉月 (Tanda Hazuki) — Fan Meeting in Hong Kong
 - **artist:** Tanda Hazuki (反田葉月)
 - **artist_type:** voice_actor (声優 / singer)
 - **event_title:** 反田葉月香港粉絲見面會
@@ -532,7 +614,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Separate from the 2026-08-16 Hong Kong fan meeting.
 
-### 29. 紡木吏佐 (Risa Tsumugi) — 2026 Hong Kong Fan Meeting
+### 33. 紡木吏佐 (Risa Tsumugi) — 2026 Hong Kong Fan Meeting
 - **artist:** Risa Tsumugi (紡木吏佐)
 - **artist_type:** voice_actor (声優 / DJ)
 - **event_title:** 紡木吏佐2026香港粉絲見面會
@@ -548,7 +630,26 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Two fan-meeting sessions.
 
-### 30. 家入レオ (Leo Ieiri) — Live in Hong Kong 2026
+### 34. ゆかな (Yukana) — Hong Kong Fan Meeting and Signing
+- **artist:** Yukana (ゆかな)
+- **artist_type:** voice_actor
+- **event_title:** ゆかな聲優香港見面會及簽名會
+- **date:** 2026-11-28 (Sat)
+- **time:** Doors 12:30 / meeting 13:00 / signing 14:30 (HKT)
+- **venue:** Chamame Livehouse, Unit A, 1/F, Boton Technology Innovation Tower,
+  368 Kwun Tong Road, Ngau Tau Kok, Kowloon
+- **city:** Hong Kong
+- **ticket_info:** HK$680 including admission and a signing place. Sale began
+  2026-11-09 10:00 HKT via art-mate; current inventory not independently checked.
+- **source:**
+  - https://www.facebook.com/subcultxpo/posts/pfbid0m1fqSPgQ2LRZFEQMUTDAZocVB8hJWGYL4k1efJwQyp326mkDpdU7phApFZ1KYk1Jl (official organizer)
+  - https://www.art-mate.net/doc/101407 (official ticketing; indexed details)
+  - https://acgevent.com/archives/40345 (signing time)
+- **status:** confirmed
+- **notes:** Standalone replacement for the appearance at the cancelled
+  November 29 Sub-Cult Xpo 04.
+
+### 35. 家入レオ (Leo Ieiri) — Live in Hong Kong 2026
 - **artist:** Leo Ieiri (家入レオ / 家入莉奧)
 - **artist_type:** singer
 - **event_title:** LEO IEIRI Live in Hong Kong 2026
@@ -568,29 +669,30 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **notes:** Ieiri's first Hong Kong concert. The matinee was added after the evening
   sold out. A designated photography segment is permitted; recording is prohibited.
 
-### 31. ゆかな (Yukana) — Sub-Cult Xpo 04 Fan Meeting
+### 36. ゆかな (Yukana) — Sub-Cult Xpo 04 Fan Meeting [Cancelled]
 - **artist:** Yukana (ゆかな)
 - **artist_type:** voice_actor
 - **event_title:** Sub-Cult Xpo 04 ゆかな聲優香港見面會
 - **date:** 2026-11-29 (Sun)
-- **time:** Stage meeting 13:00-14:00; autograph session 16:00 (HKT).
-  Exhibition opens 12:00; VIP admission from 11:00.
+- **time:** Cancelled; originally stage meeting 13:00-14:00 and autograph
+  session 16:00 (HKT).
 - **venue:** Grand Hall, Building 12W, Hong Kong Science Park Phase 3, Sha Tin,
   New Territories; autograph session in Function Hall
 - **city:** Hong Kong
-- **ticket_info:** Reported HK$580 package includes exhibition admission,
-  autograph voucher, priority stage area, and fast-track pass. Reported sale:
-  2026-10-30 10:00 HKT via art-mate; direct ticket-page URL not yet verified.
+- **ticket_info:** Cancelled. The originally reported HK$580 exhibition package
+  does not describe the replacement event.
 - **source:**
-  - https://acgevent.com/archives/40190 (ACG media)
-  - https://www.facebook.com/subcultxpo/ (organizer; public profile confirms event date only)
-  - https://doujinark.hk/event/info/456 (community calendar, event date corroboration)
-- **status:** announced
-- **notes:** Yukana's appearance, session times, and package details are currently
-  supported by ACGEvent only; primary-source verification is pending. The
-  organizer's full social feed could not be read.
+  - https://acgevent.com/archives/40190 (original appearance report)
+  - https://www.facebook.com/subcultxpo/ (official organizer)
+  - https://www.facebook.com/subcultxpo/posts/pfbid0rZqSMukYKRLfR2hqUqGGmyg2sZyr2FZ3taUyTXEBoLjYWewaYB8kA43myxSBWVHMl (organizer cancellation)
+  - https://doujinark.hk/event/info/456 (original expo listing)
+  - https://acgevent.com/archives/40345 (expo cancellation and replacement)
+  - https://hk.eventcollection.info/events/2234/ (cancellation and replacement)
+- **status:** cancelled
+- **notes:** The expo was cancelled; Yukana's standalone meeting moved to
+  November 28 at Chamame. See the separate listing above.
 
-### 32. fhána — 15th Anniversary Tour 2026 “Worldlines” in Hong Kong
+### 37. fhána — 15th Anniversary Tour 2026 “Worldlines” in Hong Kong
 - **artist:** fhána
 - **artist_type:** band (anisong)
 - **event_title:** fhána 15th Anniversary Tour 2026 “Worldlines” in HongKong
@@ -610,7 +712,7 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **status:** on_sale
 - **notes:** Hong Kong band meheme is the support act.
 
-### 33. Joji — SOLARIS Tour in Hong Kong
+### 38. Joji — SOLARIS Tour in Hong Kong
 - **artist:** Joji (George Kusunoki Miller / ジョージ・楠木・ミラー)
 - **artist_type:** singer (Japanese-Australian singer-songwriter / producer)
 - **event_title:** JOJI: SOLARIS
@@ -639,6 +741,17 @@ No additional November listings meet the project verification standard yet.
 - **Kaito Hori (堀海登), November 14** — moved out of the calendar: the official
   ticket page describes an actor/professional mahjong player, not an in-scope
   singer, band, or voice actor. Source: https://www.art-mate.net/doc/99554.
+
+## Verification notes — November 10
+
+- Added three WHITE SCORPION events and D'ESPAIRSRAY from artist and ticketing
+  sources. Updated the cancelled Sub-Cult Xpo appearance and its November 28
+  replacement from the organizer and art-mate.
+- Added another report of Spileben's postponement; the artist's original
+  schedule remains unchanged. Rico Sasaki's returned tickets showed sold out;
+  live KKTIX inventory was inaccessible.
+- Events before November 10 are historical; their statuses are not current
+  ticket-availability claims. Other unchanged entries retain earlier sources.
 
 ## Verification notes — November 3
 

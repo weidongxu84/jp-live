@@ -1,14 +1,32 @@
 # Japanese Artist Lives — Hong Kong, March 2027
 
 Collected per `AGENTS.md` and `COLLECTION_PLAN.md`. All dates/times in **HKT (UTC+8)**.
-Last updated: 2026-11-03.
+Last updated: 2026-11-10.
 
 Scope: Japanese singers, voice actors/actresses (声優), and bands performing in
 **Hong Kong** during **March 2027**.
 
 ## Confirmed events
 
-### 1. HOTEI (布袋寅泰) — World Tour 2027 “GUITARHYTHM”
+### 1. 田中ちえ美 (Chiemi Tanaka) — Hong Kong Fan Meeting
+- **artist:** Chiemi Tanaka (田中ちえ美)
+- **artist_type:** voice_actor (声優 / singer)
+- **event_title:** 田中ちえ美ファンミーティング in 香港
+- **date:** 2027-03-06 (Sat)
+- **time:** TBA (HKT); two sessions reported
+- **venue:** Data Technology Hub, Tseung Kwan O, New Territories; room unconfirmed
+- **city:** Hong Kong
+- **ticket_info:** Prices, sale date, and platform TBA.
+- **source:**
+  - https://x.com/sankakunyan/status/2112755759595360535 (official organizer)
+  - https://hk.eventcollection.info/events/2230/ (session and room listing)
+  - https://www.eventernote.com/events/497430 (alternate room listing)
+- **status:** confirmed
+- **notes:** The organizer confirms the building, but not a room or number of
+  sessions. EventCollection lists Peta+Exa+Zetta and two sessions; eventernote
+  lists Yotta. Check the organizer for the final room and schedule.
+
+### 2. HOTEI (布袋寅泰) — World Tour 2027 “GUITARHYTHM”
 - **artist:** HOTEI (Tomoyasu Hotei / 布袋寅泰)
 - **artist_type:** singer (rock singer / guitarist)
 - **event_title:** HOTEI WORLD TOUR 2027 – GUITARHYTHM –
@@ -19,18 +37,20 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
 - **ticket_info:** HK$899, all standing, via Cityline. HSBC Mastercard presale
   ran 2026-10-26 14:00-23:59 HKT; Live Nation members' presale ran October 27
   14:00-23:59 HKT. Public sale began 2026-10-28 14:00 HKT; purchase through the
-  official promoter's ticket link.
+  official promoter's ticket link. Current inventory was not independently checked.
 - **source:**
   - https://www.livenation.hk/en/event/hotei-world-tour-2027-guitarhythm--hong-kong-tickets-edp1706077 (official promoter)
-  - https://www.hotei.com/en/2026/10/20/world-tour-2027-ticket-information/ (official artist / indexed tour announcement)
+  - https://jp.hotei.com/info/live-event/2979.html (official artist)
 - **status:** on_sale
 - **notes:** Promoter: Live Nation Hong Kong. Standing admission requires
-  age 12+ and height >=140 cm. Current ticket inventory not independently checked.
+  age 12+ and height >=140 cm.
 
-## Watchlist
+## Verification notes — November 10
 
-- **YOASOBI** — Hong Kong remains an undated lead, not a confirmed March event.
-  Source: https://timable.com/hk/zh/event/692d050b67fc5f31050747f6/
+- Added Chiemi Tanaka from the organizer's date and building announcement; the
+  room and reported two sessions need confirmation.
+- Corrected HOTEI's artist link to the Japanese official tour page.
+- YOASOBI's Hong Kong dates are January 21-22; see the January dataset.
 
 ## Verification notes — November 3
 
@@ -38,8 +58,8 @@ Scope: Japanese singers, voice actors/actresses (声優), and bands performing i
   price, and sale schedule against the indexed official artist tour announcement.
 - ACGEvent's new Kessoku Band Hong Kong date is May 22, outside this collection's
   period, so it is excluded: https://acgevent.com/archives/40315.
-- YOASOBI remains undated and is not a confirmed March listing. Login-gated
-  promoter feeds and ticketing access gaps prevent exhaustive coverage.
+- YOASOBI's date was still unconfirmed in this November 3 sweep. Login-gated
+  promoter feeds and ticketing access gaps prevented exhaustive coverage.
 
 ## Verification notes — October 23
 

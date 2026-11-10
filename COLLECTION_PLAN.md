@@ -54,6 +54,8 @@ Target: Japanese singers, voice actors/actresses (声優), and bands performing 
   **Often breaks date/venue *before* tickets go on sale** — poll its news feed, not just
   ticketing sites.
 - **shadowzo.com** — HK ACG news site; announces JP artist HK shows.
+- **EventCollection** (hk.eventcollection.info) — Japanese-artist dates and fan-meeting
+  sessions; verify details against its linked official sources.
 - **eventernote.com** — search each act's page **and** its HK/overseas events (e.g. an
   "Live in HK" event page appears here early, before local ticketing is set up).
 - **巴哈姆特 (forum.gamer.com.tw) per-anime boards** (哈啦板) — for currently-airing/hot
